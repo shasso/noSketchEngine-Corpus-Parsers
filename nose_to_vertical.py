@@ -1,7 +1,7 @@
 import sys
 from strategies import StrategyFactory
 
-class XMLToVerticalContext:
+class VerticalContext:
     def __init__(self, strategy):
         self.strategy = strategy
 
@@ -23,5 +23,5 @@ if __name__ == "__main__":
         print(e)
         sys.exit(1)
 
-    context = XMLToVerticalContext(strategy)
+    context = VerticalContext(strategy)
     context.execute_strategy(input_file, output_file)
