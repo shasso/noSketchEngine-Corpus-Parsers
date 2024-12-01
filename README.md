@@ -13,10 +13,15 @@ The main script handles command line arguments, instantiates the appropriate str
 #### Usage
 
 ```sh
-python nose_to_vertical.py <input_file> <output_file>
+python nose_to_vertical.py <input_file> <output_file> <metadata_file>
 
 <input_file>: Path to the input file (XML or JSON).
 <output_file>: Path to the output vertical file.
+<metadata_file>: Path to metadata json file in this format:
+{
+    "attribute 1": "value 1",
+    "attribute 2": "value 2",
+}
 ```
 
 ## Supported Modules
