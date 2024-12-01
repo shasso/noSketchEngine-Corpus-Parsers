@@ -10,14 +10,19 @@ def extract_chapter_no(bcv):
     return ""
 
 class NTXMLToVertical(BaseVerticalStrategy):
-    def process(self, input_file, output_file):
+    def process(self, input_file, output_file, metadata_file):
+        metadata = self.read_metadata(metadata_file)
         tree = ET.parse(input_file)
         root = tree.getroot()
 
         with open(output_file, 'w', encoding='utf-8') as f:
             for book in root.findall('book'):
                 book_id = book.get('id', 'Unknown')
-                f.write(f'<doc genre="new testament" title="{book_id}" author="Unknown">\n')
+                doc_tag = f'<doc'
+                for key, value in metadata.items():
+                    doc_tag += f' {key}="{value}"'
+                doc_tag += f' title="{book_id}">\n'
+                f.write(doc_tag)
                 
                 chapters = {}
                 for verse in book.findall('v'):
