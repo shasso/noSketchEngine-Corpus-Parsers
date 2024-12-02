@@ -1,4 +1,4 @@
-<doc genre="new testament" title="MAT" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="MAT">
 <chapter no="1">
 <verse no="1">
 ܐܵܗܵܐ
@@ -27837,7 +27837,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="MRK" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="MRK">
 <chapter no="1">
 <verse no="1">
 ܐܵܗܵܐ
@@ -45069,7 +45069,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="LUK" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="LUK">
 <chapter no="1">
 <verse no="1">
 ܪܵܒܵܐ
@@ -74659,7 +74659,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="JHN" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="JHN">
 <chapter no="1">
 <verse no="1">
 ܒܪܵܫܝܼܬ
@@ -98275,7 +98275,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="ACT" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="ACT">
 <chapter no="1">
 <verse no="1">
 ܝܵܐ
@@ -125344,7 +125344,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="ROM" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="ROM">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -135107,7 +135107,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="1CO" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="1CO">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -145485,7 +145485,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="2CO" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="2CO">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -151920,7 +151920,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="GAL" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="GAL">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -155294,7 +155294,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="EPH" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="EPH">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -158382,7 +158382,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="PHP" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="PHP">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -160724,7 +160724,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="COL" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="COL">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -162890,7 +162890,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="1TH" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="1TH">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -164860,7 +164860,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="2TH" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="2TH">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -165903,7 +165903,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="1TI" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="1TI">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -168505,7 +168505,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="2TI" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="2TI">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -170329,7 +170329,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="TIT" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="TIT">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -171393,7 +171393,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="PHM" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="PHM">
 <chapter no="1">
 <verse no="1">
 ܦܵܘܠܘܿܣ
@@ -171871,7 +171871,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="HEB" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="HEB">
 <chapter no="1">
 <verse no="1">
 ܒܕܲܥܒܲܪ
@@ -178887,7 +178887,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="JAS" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="JAS">
 <chapter no="1">
 <verse no="1">
 ܡ̣ܢ
@@ -181391,7 +181391,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="1PE" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="1PE">
 <chapter no="1">
 <verse no="1">
 ܦܵܛܪܘܿܣ
@@ -183905,7 +183905,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="2PE" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="2PE">
 <chapter no="1">
 <verse no="1">
 ܫܸܡܥܘܿܢ
@@ -185539,7 +185539,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="1JN" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="1JN">
 <chapter no="1">
 <verse no="1">
 ܗ̇ܘ
@@ -188203,7 +188203,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="2JN" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="2JN">
 <chapter no="1">
 <verse no="1">
 ܚܘܵܪܕܸܩܢܵܐ
@@ -188516,7 +188516,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="3JN" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="3JN">
 <chapter no="1">
 <verse no="1">
 ܚܘܵܪܕܸܩܢܵܐ
@@ -188867,7 +188867,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="JUD" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="JUD">
 <chapter no="1">
 <verse no="1">
 ܝܼܗܘܼܕܵܐ
@@ -189561,7 +189561,7 @@
 </verse>
 </chapter>
 </doc>
-<doc genre="new testament" title="REV" author="Unknown">
+<doc genre="new testament" author="Unknown" language="Assyrian" edition="Aramaic Bible Translation" pub_date="2014" copyright="yes" source="online" dialect="standard" title="REV">
 <chapter no="1">
 <verse no="1">
 ܓܸܠܝܵܢܵܐ
