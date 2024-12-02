@@ -1,5 +1,6 @@
 from xml_to_vertical import NTXMLToVertical
 from json_to_vertical import JSONToVerticalStrategy
+from spurgeon_to_vertical import SpurgeonToVerticalStrategy
 
 class StrategyFactory:
     @staticmethod
@@ -8,5 +9,7 @@ class StrategyFactory:
             return NTXMLToVertical()
         elif file_extension == '.json':
             return JSONToVerticalStrategy()
+        elif file_extension == '.spurgeon':
+            return SpurgeonToVerticalStrategy()
         else:
             raise ValueError("Unsupported file format")
