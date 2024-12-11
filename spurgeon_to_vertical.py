@@ -26,16 +26,16 @@ class SpurgeonToVerticalStrategy(BaseVerticalStrategy):
                 if line.startswith("\\s1"):
                     if section_content:
                         f.write(f'<section no="{section_no}">\n')
-                        f.write(f'<section-title>\n')
+                        f.write(f'<section_title>\n')
                         tokens = tokenize_sentence(section_title_1)
                         for token in tokens:
                             f.write(f'{token}\n')
-                        f.write(f'</section-title>\n')
-                        f.write(f'<verse-quote>\n')
+                        f.write(f'</section_title>\n')
+                        f.write(f'<verse_quote>\n')
                         tokens = tokenize_sentence(section_title_2)
                         for token in tokens:
                             f.write(f'{token}\n')
-                        f.write(f'</verse-quote>\n')
+                        f.write(f'</verse_quote>\n')
                         tokens = tokenize_sentence(section_content)
                         for token in tokens:
                             f.write(f'{token}\n')
@@ -51,16 +51,16 @@ class SpurgeonToVerticalStrategy(BaseVerticalStrategy):
             # Write the last section if any content remains
             if section_content:
                 f.write(f'<section no="{section_no}">\n')
-                f.write(f'<section-title>\n')
+                f.write(f'<section_title>\n')
                 tokens = tokenize_sentence(section_title_1)
                 for token in tokens:
                     f.write(f'{token}\n')
-                f.write(f'</section-title>\n')
-                f.write(f'<verse-quote>\n')
+                f.write(f'</section_title>\n')
+                f.write(f'<verse_quote>\n')
                 tokens = tokenize_sentence(section_title_2)
                 for token in tokens:
                     f.write(f'{token}\n')
-                f.write(f'</verse-quote>\n')
+                f.write(f'</verse_quote>\n')
                 tokens = tokenize_sentence(section_content)
                 for token in tokens:
                     f.write(f'{token}\n')

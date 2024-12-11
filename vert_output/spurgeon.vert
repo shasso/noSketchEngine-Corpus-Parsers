@@ -1,11 +1,11 @@
 <doc genre="religion" author="Charles Haddon Spurgeon" language="Assyrian" edition="4th Edition" pub_date="2024" copyright="yes" source="online" dialect="standard" editor="Demsin Lachin">
 <section no="1">
-<section-title>
+<section_title>
 ܡܘܕܥܢܘܬܐ
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܘܕܥܢܘܬܐ
-</verse-quote>
+</verse_quote>
 ܣܵܥܲܬ
 ܩܲܕ݇ܡܵܝܬܵܐ
 ܕܟܠ
@@ -512,14 +512,14 @@
 ܣܦܪܓ̰ܢ
 </section>
 <section no="2">
-<section-title>
+<section_title>
 ܐ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܟ݂ܝܼܠ
 ܠܗܘܿܢ
 ܡ̣ܢ
@@ -539,7 +539,7 @@ January
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܚܕܵܪܹ̈ܐ
 ܡܲܓ̰ܗܝܼܵܢܹ̈ܐ
 ܕܒܢܲܝ̈
@@ -896,14 +896,14 @@ January
 .
 </section>
 <section no="3">
-<section-title>
+<section_title>
 ܒ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܨܠܘܿܬܵܐ
 ܗ݇ܘܹܝܡܘܼܢ
 ܕܵܝܸܡ
@@ -914,7 +914,7 @@ January
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܒܲܣܝܼܡܬܵܐ
 ܝܠܵܗ̇
 ܠܦܲܟܘܼܪܹܐ
@@ -1252,14 +1252,14 @@ January
 “
 </section>
 <section no="4">
-<section-title>
+<section_title>
 ܓ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܝܵܗ݇ܒܹܢܘܼܟ݂
 ܠܩܵܘܠܵܐ
@@ -1271,7 +1271,7 @@ January
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܝܼܫܘܿܥ
 ܡܫܝܼܚܵܐ
 ܒܓܵܢܹܗ
@@ -1650,14 +1650,14 @@ January
 “
 </section>
 <section no="5">
-<section-title>
+<section_title>
 ܕ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܵܘܹܝܬܘܿܢ
 ܓܲܪܘܘܼܣܹܐ
 ܒܫܵܦܵܩܲܬ
@@ -1674,7 +1674,7 @@ January
 <g/>
 :
 18
-</verse-quote>
+</verse_quote>
 ܓܲܪܘܸܣܘܼܢ
 ܒܫܵܦܵܩܲܬ–ܠܵܐ
 ܐܲܚܟ̰ܝܼ
@@ -2018,14 +2018,14 @@ January
 .
 </section>
 <section no="6">
-<section-title>
+<section_title>
 ܗ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܚܙܹܐ
 ܠܹܗ
 ܐܲܠܵܗܵܐ
@@ -2048,7 +2048,7 @@ January
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܐܲܠܒܲܬ
 ܒܲܗܪܵܐ
 ܒܸܬ
@@ -2417,14 +2417,14 @@ January
 .
 </section>
 <section no="7">
-<section-title>
+<section_title>
 ܘ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠܵܗ̇
 ܚܲܡܵܘܟ݂ܘܿܢ
 ܕܪܹܝܡܘܼܢ
@@ -2445,7 +2445,7 @@ January
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܚܕܵܐ
 ܐܘܼܪܚܵܐ
 ܒܲܣܝܼܡܬܵܐ
@@ -2793,14 +2793,14 @@ January
 .
 </section>
 <section no="8">
-<section-title>
+<section_title>
 ܙ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܵܬܝܼ
 ܠܸܚܵܝܵܐ
 ܡܫܝܼܚܵܐ
@@ -2812,7 +2812,7 @@ January
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܗܲܡܸܢܵܢܵܐ
 ܗܲܡܵܫܵܐ
 ܠܹܐ
@@ -3166,14 +3166,14 @@ January
 “
 </section>
 <section no="9">
-<section-title>
+<section_title>
 ܚ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܢܵܗܵܐ
 ܕܩܘܼܕܫܹ̈ܐ
 <g/>
@@ -3183,7 +3183,7 @@ January
 <g/>
 :
 38
-</verse-quote>
+</verse_quote>
 ܡܘܿܕܝܼ
 ܦܲܪܕܵܐ
 ܡܲܪܘܼܡܹܐ
@@ -3609,14 +3609,14 @@ January
 !
 </section>
 <section no="10">
-<section-title>
+<section_title>
 ܛ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܗܵܘܹܝܢ
 ܐܸܠܲܝܗܝ
@@ -3628,7 +3628,7 @@ January
 <g/>
 :
 33
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 <g/>
 ،
@@ -4022,14 +4022,14 @@ January
 .
 </section>
 <section no="11">
-<section-title>
+<section_title>
 ܝ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܢܛܝܼܪܵܐ
 ܝܠܹܗ
 ܩܵܬܝܼ
@@ -4043,7 +4043,7 @@ January
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܝܵܐ
 ܐ݇ܢܵܫܵܐ
 ܡܵܪܹܐ
@@ -4460,14 +4460,14 @@ January
 .
 </section>
 <section no="12">
-<section-title>
+<section_title>
 ܝܐ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܸܩܪܵܐ
 ܠܲܝܬ
 ܠܗܘܿܢ
@@ -4478,7 +4478,7 @@ January
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܝܵܐ
 ܓܵܢܝܼ
 <g/>
@@ -4820,14 +4820,14 @@ January
 .
 </section>
 <section no="13">
-<section-title>
+<section_title>
 ܝܒ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܚܬܘܿܢ
 ܕܡܫܝܼܚܵܐ
 ܝܬܘܿܢ
@@ -4839,7 +4839,7 @@ January
 <g/>
 :
 23
-</verse-quote>
+</verse_quote>
 <g/>
 ”
 ܐܲܚܬܘܿܢ
@@ -5158,14 +5158,14 @@ January
 .
 </section>
 <section no="14">
-<section-title>
+<section_title>
 ܝܓ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܝܵܗܘܿܫܵܦܵܛ
 ܬܘܼܪܸܨ
 ܠܹܗ
@@ -5197,7 +5197,7 @@ January
 <g/>
 :
 48
-</verse-quote>
+</verse_quote>
 ܓܵܡܝܼܹ̈ܐ
 ܕܫܠܹܝܡܘܿܢ
 ܕܝܼܪܹܐ
@@ -5531,14 +5531,14 @@ January
 “
 </section>
 <section no="15">
-<section-title>
+<section_title>
 ܝܕ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܘܼܪܵܐ
 ܠܦܲܪܘܼܩܹܐ
 <g/>
@@ -5548,7 +5548,7 @@ January
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܡ̣ܢ
 ܐܵܗܵܐ
 ܚܲܒܪܵܐ
@@ -5899,14 +5899,14 @@ January
 !
 </section>
 <section no="16">
-<section-title>
+<section_title>
 ܝܗ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܒ݂ܘܿܕ
 ܕܵܐܟ݂ܝܼ
 ܕܗܘܼܡܙܸܡ
@@ -5919,7 +5919,7 @@ January
 <g/>
 :
 25
-</verse-quote>
+</verse_quote>
 ܐܲܠܵܗܵܐ
 ܠܹܗ
 ܝܠܹܗ
@@ -6303,14 +6303,14 @@ January
 “
 </section>
 <section no="17">
-<section-title>
+<section_title>
 ܝܘ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܢܵܐ
 ܩܲܡ
 ܗܲܝܸܪܸܢܵܟ݂ܝ
@@ -6326,7 +6326,7 @@ January
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܒܐܵܗܵܐ
 ܩܵܝܕܲܡܬܵܐ
 ܚܘܼܫ
@@ -6684,14 +6684,14 @@ January
 “
 </section>
 <section no="18">
-<section-title>
+<section_title>
 ܝܙ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܚܙܹܐ
 ܠܝܼ
 <g/>
@@ -6710,7 +6710,7 @@ January
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܩܵܐ
 ܝܘܿܚܲܢܵܢ
 ܦܝܼܫ
@@ -7031,14 +7031,14 @@ January
 “
 </section>
 <section no="19">
-<section-title>
+<section_title>
 ܝܚ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܐܵܕܝܼܵܐ
 ܦܝܵܫܵܐ
 ܝܠܵܗ̇
@@ -7053,7 +7053,7 @@ January
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܟܡܵܐ
 ܦܪܝܼܫܬܵܐ
 ܒܸܬ
@@ -7413,14 +7413,14 @@ January
 .
 </section>
 <section no="20">
-<section-title>
+<section_title>
 ܝܛ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܛܥܹܐ
 ܠܝܼ
 ܒܵܬ݇ܪܹܗ
@@ -7436,7 +7436,7 @@ January
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܬܲܢܝܼ
 ܠܝܼ
 ܐܲܝܟܵܐ
@@ -7757,14 +7757,14 @@ January
 .
 </section>
 <section no="21">
-<section-title>
+<section_title>
 ܟܟ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܘܹܐ
 ܠܹܗ
 ܗܵܒܹܝܠ
@@ -7777,7 +7777,7 @@ January
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܗܵܒܹܝܠ
 <g/>
 ،
@@ -8120,14 +8120,14 @@ January
 .
 </section>
 <section no="22">
-<section-title>
+<section_title>
 ܟܐ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܗܲܕܟ݂ܵܐ
 ܟܠܹܗ
 ܝܼܣܪܵܝܹܠ
@@ -8140,7 +8140,7 @@ January
 <g/>
 :
 26
-</verse-quote>
+</verse_quote>
 ܐܝܼܡܲܢ
 ܕܡܘܼܫܹܐ
 ܙܡܝܼܪܹܗ
@@ -8379,14 +8379,14 @@ January
 .
 </section>
 <section no="23">
-<section-title>
+<section_title>
 ܟܒ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܲܪܢܵܫܵܐ
 <g/>
 ،
@@ -8411,7 +8411,7 @@ January
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܐܲܢܹܐ
 ܚܲܒܪܹ̈ܐ
 ܦܝܼܫܹܐ
@@ -8704,14 +8704,14 @@ January
 !
 </section>
 <section no="24">
-<section-title>
+<section_title>
 ܟܓ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܘܼܪܸܡ
 ܠܝܼ
 ܓܘܼܒܝܵܐ
@@ -8724,7 +8724,7 @@ January
 <g/>
 :
 19
-</verse-quote>
+</verse_quote>
 ܩܵܡܘܿܕܝܼ
 ܡܫܝܼܚܵܐ
 ܦܝܼܫ
@@ -9053,14 +9053,14 @@ January
 .
 </section>
 <section no="25">
-<section-title>
+<section_title>
 ܟܕ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܗ̇ܘ
 ܒܸܬ
@@ -9076,7 +9076,7 @@ January
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܐܲܠܵܗܵܐ
 ܟܹܐ
 ܦܲܨܹܐ
@@ -9413,14 +9413,14 @@ January
 .
 </section>
 <section no="26">
-<section-title>
+<section_title>
 ܟܗ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܫܵܦܵܩܲܬܹ̈ܐ
 ܕܡܵܪܝܵܐ
 ܒܸܬ
@@ -9447,7 +9447,7 @@ January
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܠܹܐ
 ܡܵܨܹܝܬ
 ܐܘܼܦ
@@ -9709,14 +9709,14 @@ January
 “
 </section>
 <section no="27">
-<section-title>
+<section_title>
 ܟܘ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܵܒܵܘܟ݂ܘܿܢ
 ܕܒܫܡܲܝܵܐ
 <g/>
@@ -9726,7 +9726,7 @@ January
 <g/>
 :
 26
-</verse-quote>
+</verse_quote>
 ܛܵܝܸܦܵܐ
 ܕܐܲܠܵܗܵܐ
 ܒܢܘܿܢܘܼ̈ܗܝ
@@ -10060,14 +10060,14 @@ January
 “
 </section>
 <section no="28">
-<section-title>
+<section_title>
 ܟܙ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡ̣ܢ
 ܡܸܠܝܘܼܬܹܗ
 ܐܲܚܢܲܢ
@@ -10081,7 +10081,7 @@ January
 <g/>
 :
 16
-</verse-quote>
+</verse_quote>
 ܐܲܢܹܐ
 ܚܲܒܪܹ̈ܐ
 ܡܲܕܘܼܥܹܐ
@@ -10415,14 +10415,14 @@ January
 .
 </section>
 <section no="29">
-<section-title>
+<section_title>
 ܟܚ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܵܡܝܼܠ
 ܒܝܼܫܘܿܥ
 ܡܫܝܼܚܵܐ
@@ -10433,7 +10433,7 @@ January
 <g/>
 :
 28
-</verse-quote>
+</verse_quote>
 ܠܹܐ
 ܝܘܸܬ
 ܒܸܪܥܵܫܵܐ
@@ -10732,14 +10732,14 @@ January
 .
 </section>
 <section no="30">
-<section-title>
+<section_title>
 ܟܛ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܢܝܼ
 ܕܠܹܐ
 ܦܵܝܫܝܼ
@@ -10752,7 +10752,7 @@ January
 <g/>
 :
 18
-</verse-quote>
+</verse_quote>
 ܓܵܘ
 ܡܘܼܩܕܘܼܣܝܼܘܼܬܲܢ
 ܐܲܪܥܵܢܵܝܬܵܐ
@@ -11009,14 +11009,14 @@ January
 .
 </section>
 <section no="31">
-<section-title>
+<section_title>
 ܠ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܗܵܘܝܵܐ
 <g/>
 ،
@@ -11039,7 +11039,7 @@ January
 <g/>
 :
 24
-</verse-quote>
+</verse_quote>
 ܗܲܕܵܡܹ̈ܐ
 ܕܥܹܕܬܵܐ
 ܕܡܫܝܼܚܵܐ
@@ -11339,14 +11339,14 @@ January
 .
 </section>
 <section no="32">
-<section-title>
+<section_title>
 ܠܐ
 ܒܟܵܢܘܿܢ
 ܬܪܲܝܵܢܵܐ
 January
 31
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܵܪܝܵܐ
 ܙܲܕܝܼܩܘܼܬܲܢ
 <g/>
@@ -11356,7 +11356,7 @@ January
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 ܗܲܡܵܫܵܐ
 ܟܹܐ
@@ -11724,13 +11724,13 @@ January
 “
 </section>
 <section no="33">
-<section-title>
+<section_title>
 ܐ
 ܒܫܒܲܛ
 February
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܙܵܡܪܝܼ
 ܒܐܘܼܪ̈ܚܵܬܹܐ
@@ -11742,7 +11742,7 @@ February
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܓܵܗܵܐ
 ܩܲܕ݇ܡܵܝܬܵܐ
 ܕܟܪ̈ܝܼܣܛܝܵܢܹܐ
@@ -12025,13 +12025,13 @@ February
 “
 </section>
 <section no="34">
-<section-title>
+<section_title>
 ܒ
 ܒܫܒܲܛ
 February
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܠܵܐ
 ܬܦܵܟ݂ܬܵܐ
 ܕܕܸܡܵܐ
@@ -12044,7 +12044,7 @@ February
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܝܠܹܗ
 ܩܵܠܵܐ
@@ -12339,13 +12339,13 @@ February
 “
 </section>
 <section no="35">
-<section-title>
+<section_title>
 ܓ
 ܒܫܒܲܛ
 February
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܲܣ
 <g/>
 ،
@@ -12363,7 +12363,7 @@ February
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܟܠܲܢ
 ܕܲܝܢܵܢܹ̈ܐ
 ܝܘܲܚ
@@ -12714,13 +12714,13 @@ February
 .
 </section>
 <section no="36">
-<section-title>
+<section_title>
 ܕ
 ܒܫܒܲܛ
 February
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܚܲܒܬܵܐ
 ܕܡܵܪܝܵܐ
 <g/>
@@ -12730,7 +12730,7 @@ February
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܝܵܐ
 ܗܲܡܸܢܵܢܵܐ
 <g/>
@@ -13029,13 +13029,13 @@ February
 .
 </section>
 <section no="37">
-<section-title>
+<section_title>
 ܗ
 ܒܫܒܲܛ
 February
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܵܒܵܐ
 ܫܘܼܕܸܪܹܗ
 ܠܒܪܘܿܢܹܗ
@@ -13050,7 +13050,7 @@ February
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܒܲܣܝܼܡܬܵܐ
 ܝܠܵܗ̇
 ܠܝܼܕܵܥܵܐ
@@ -13337,13 +13337,13 @@ February
 “
 </section>
 <section no="38">
-<section-title>
+<section_title>
 ܘ
 ܒܫܒܲܛ
 February
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܨܲܠܹܝܡܘܼܢ
 ܒܟܠ
 ܙܲܒ݂ܢܵܐ
@@ -13354,7 +13354,7 @@ February
 <g/>
 :
 18
-</verse-quote>
+</verse_quote>
 ܡܘܿܕܝܼ
 ܒܘܼܫܵܝܝܼ
 ܕܨܠܵܘܵܬܹ̈ܐ
@@ -13661,13 +13661,13 @@ February
 “
 </section>
 <section no="39">
-<section-title>
+<section_title>
 ܙ
 ܒܫܒܲܛ
 February
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܘܼܡܘܼܢ
 <g/>
 ،
@@ -13679,7 +13679,7 @@ February
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܗ̇ܝ
 ܣܵܥܲܬ
 ܩܲܪܒܘܼܢܹܐ
@@ -14003,13 +14003,13 @@ February
 .
 </section>
 <section no="40">
-<section-title>
+<section_title>
 ܚ
 ܒܫܒܲܛ
 February
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܩܵܪܹܝܬ
 ܫܸܡܹܗ
@@ -14023,7 +14023,7 @@ February
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܐܝܼܡܲܢ
 ܕܡܲܚܸܒܲܚ
 ܠܚܲܕ
@@ -14327,13 +14327,13 @@ February
 “
 </section>
 <section no="41">
-<section-title>
+<section_title>
 ܛ
 ܒܫܒܲܛ
 February
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܘܼܩܸܪܹܗ
 ܕܵܘܝܼܕ
 ܒܡܵܪܝܵܐ
@@ -14345,7 +14345,7 @@ February
 <g/>
 :
 23
-</verse-quote>
+</verse_quote>
 ܐܝܼܡܲܢ
 ܕܕܵܘܝܼܕ
 ܒܘܼܩܪܵܐ
@@ -14665,13 +14665,13 @@ February
 .
 </section>
 <section no="42">
-<section-title>
+<section_title>
 ܝ
 ܒܫܒܲܛ
 February
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܝܼܕܵܥܵܐ
 ܝܘܸܢ
 ܕܙܵܝܕܹܢ
@@ -14682,7 +14682,7 @@ February
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܐܝܼܬ
 ܪܵܒܵܐ
 ܐ݇ܢܵܫܹ̈ܐ
@@ -15021,13 +15021,13 @@ February
 “
 </section>
 <section no="43">
-<section-title>
+<section_title>
 ܝܐ
 ܒܫܒܲܛ
 February
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܝ݇ܕܝܼܥܲܝ
 ܠܗܘܿܢ
 ܕܥܲܡ
@@ -15042,7 +15042,7 @@ February
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 ܘܵܓ̰ܸܒ
 ܝܼܠܵܗ̇
@@ -15467,13 +15467,13 @@ February
 “
 </section>
 <section no="44">
-<section-title>
+<section_title>
 ܝܒ
 ܒܫܒܲܛ
 February
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܕܵܐܟ݂ܝܼ
 ܕܒܸܙܝܵܕܵܐ
@@ -15499,7 +15499,7 @@ February
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܕܘܼ
 ܝܠܵܗ̇
 ܚܕܵܐ
@@ -15849,13 +15849,13 @@ February
 .
 </section>
 <section no="45">
-<section-title>
+<section_title>
 ܝܓ
 ܒܫܒܲܛ
 February
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܙܹܝܡܘܼܢ
 ܕܟܡܵܐ
 ܪܵܒܵܐ
@@ -15908,7 +15908,7 @@ February
 <g/>
 -
 2
-</verse-quote>
+</verse_quote>
 ܚܙܹܝܡܘܼܢ
 ܕܟܡܵܐ
 ܪܵܒܵܐ
@@ -16246,13 +16246,13 @@ February
 .
 </section>
 <section no="46">
-<section-title>
+<section_title>
 ܝܕ
 ܒܫܒܲܛ
 February
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܓ̰ܸܪܹܗ
 ܓ̰ܸܪܵܐ
 ܕܕܵܝܸܡܘܼܬܵܐ
@@ -16282,7 +16282,7 @@ February
 <g/>
 :
 30
-</verse-quote>
+</verse_quote>
 ܝܘܿܝܵܟ݂ܝܼܢ
 ܠܵܐ
 ܦܝܼܫ
@@ -16622,13 +16622,13 @@ February
 .
 </section>
 <section no="47">
-<section-title>
+<section_title>
 ܝܗ
 ܒܫܒܲܛ
 February
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܐܸܠܹܗ
 ܬܸܫܒܘܿܚܬܵܐ
 ܐܘܼܦ
@@ -16646,7 +16646,7 @@ February
 <g/>
 :
 18
-</verse-quote>
+</verse_quote>
 ܫܡܲܝܵܐ
 ܒܸܬ
 ܗܵܘܝܵܐ
@@ -17037,13 +17037,13 @@ February
 “
 </section>
 <section no="48">
-<section-title>
+<section_title>
 ܝܘ
 ܒܫܒܲܛ
 February
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܐܵܢܵܐ
 ܝ݇ܠܝܼܦܵܐ
@@ -17061,7 +17061,7 @@ February
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܐܲܢܹܐ
 ܚܲܒܪܹ̈ܐ
 ܡܲܚܙܘܼܝܹܐ
@@ -17381,13 +17381,13 @@ February
 .
 </section>
 <section no="49">
-<section-title>
+<section_title>
 ܝܙ
 ܒܫܒܲܛ
 February
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܝ݇ܬܝܼܒ݂
 ܠܹܗ
 ܐܝܼܣܚܵܩ
@@ -17402,7 +17402,7 @@ February
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܗܵܓ݂ܵܪ
 ܒܚܕܵܐ
 ܥܕܵܢܵܐ
@@ -17728,13 +17728,13 @@ February
 .
 </section>
 <section no="50">
-<section-title>
+<section_title>
 ܝܚ
 ܒܫܒܲܛ
 February
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܕܸܥ
 ܠܝܼ
 <g/>
@@ -17751,7 +17751,7 @@ February
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܝܵܐ
 ܓܵܢܵܐ
 ܥܘܼܓ̰ܸܙܬܵܐ
@@ -18035,13 +18035,13 @@ February
 ؟
 </section>
 <section no="51">
-<section-title>
+<section_title>
 ܝܛ
 ܒܫܒܲܛ
 February
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܲܕܟ݂ܵܐ
 ܒܹܐܡܵܪܵܐ
 ܝܠܹܗ
@@ -18067,7 +18067,7 @@ February
 <g/>
 :
 37
-</verse-quote>
+</verse_quote>
 ܨܠܘܿܬܵܐ
 ܝܠܵܗ̇
 ܩܵܨܸܕ
@@ -18406,13 +18406,13 @@ February
 “
 </section>
 <section no="52">
-<section-title>
+<section_title>
 ܟܟ
 ܒܫܒܲܛ
 February
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܠܵܗܵܐ
 <g/>
 ،
@@ -18429,7 +18429,7 @@ February
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܡܵܢܝܼ
 ܝܠܹܗ
 ܝܵܗ݇ܒ݂ܵܢܵܐ
@@ -18804,13 +18804,13 @@ February
 “
 </section>
 <section no="53">
-<section-title>
+<section_title>
 ܟܐ
 ܒܫܒܲܛ
 February
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܓܵܢܹܗ
 ܐ݇ܡܝܼܪܵܐ
 ܝܠܹܗ
@@ -18821,7 +18821,7 @@ February
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܐܲܚܟ̰ܝܼ
 ܡܵܨܲܚ
@@ -19152,13 +19152,13 @@ February
 “
 </section>
 <section no="54">
-<section-title>
+<section_title>
 ܟܒ
 ܒܫܒܲܛ
 February
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܝ݇ܬܝܼܒ݂
 ܠܵܗ̇
 ܒܚܲܝܠܵܐ
@@ -19180,7 +19180,7 @@ February
 <g/>
 :
 24
-</verse-quote>
+</verse_quote>
 ܗ̇ܘ
 ܚܲܝܠܵܐ
 ܕܐܲܠܵܗܵܐ
@@ -19502,13 +19502,13 @@ February
 .
 </section>
 <section no="55">
-<section-title>
+<section_title>
 ܟܓ
 ܒܫܒܲܛ
 February
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܹܐ
 ܫܵܒ݂ܩܹܢܘܼܟ݂
 <g/>
@@ -19518,7 +19518,7 @@ February
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܗܸܟ̃
 ܩܵܘܠܵܐ
 ܐܲܠܵܗܵܐ
@@ -19858,13 +19858,13 @@ February
 “
 </section>
 <section no="56">
-<section-title>
+<section_title>
 ܟܕ
 ܒܫܒܲܛ
 February
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܸܬ
 ܡܲܨܠܹܝܢ
 ܡܸܛܪܵܐ
@@ -19882,7 +19882,7 @@ February
 <g/>
 :
 26
-</verse-quote>
+</verse_quote>
 ܕܘܼ
 ܝܢܵܐ
 ܪ̈ܲܚܡܹܐ
@@ -20242,13 +20242,13 @@ February
 .
 </section>
 <section no="57">
-<section-title>
+<section_title>
 ܟܗ
 ܒܫܒܲܛ
 February
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܲܪܒܵܐ
 ܕܒܹܐܬܵܝܵܐ
 ܝܠܵܗ̇
@@ -20259,7 +20259,7 @@ February
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܒܲܣܝܼܡܬܵܐ
 ܝܠܵܗ̇
 ܠܸܚܕܵܪܵܐ
@@ -20631,13 +20631,13 @@ February
 .
 </section>
 <section no="58">
-<section-title>
+<section_title>
 ܟܘ
 ܒܫܒܲܛ
 February
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܡܵܪܝܵܐ
 ܝܠܹܗ
 ܦܘܼܪܩܵܢܵܐ
@@ -20648,7 +20648,7 @@ February
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܦܘܼܪܩܵܢܵܐ
 ܫܘܼܠܵܐ
 ܕܐܲܠܵܗܵܐ
@@ -21032,13 +21032,13 @@ February
 “
 </section>
 <section no="59">
-<section-title>
+<section_title>
 ܟܙ
 ܒܫܒܲܛ
 February
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܐܲܢ݇ܬ
 ܝܼܘܸܬ
@@ -21063,7 +21063,7 @@ February
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܒܢܲܝ̈
 ܝܼܣܪܵܝܹܠ
 ܓܵܘ
@@ -21408,13 +21408,13 @@ February
 .
 </section>
 <section no="60">
-<section-title>
+<section_title>
 ܟܚ
 ܒܫܒܲܛ
 February
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܸܢܹܗ
 ܝܠܵܗ̇
 ܗܹܒ݂ܝܼܝܼ
@@ -21425,7 +21425,7 @@ February
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܩܵܐ
 ܗܲܡܸܢܵܢܵܐ
 ܦܝܼܫܬܵܐ
@@ -21783,13 +21783,13 @@ February
 .
 </section>
 <section no="61">
-<section-title>
+<section_title>
 ܟܛ
 ܒܫܒܲܛ
 February
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܦܵܝܫܵܐ
 ܩܪܝܼܬܵܐ
 ܒܫܹܢ݇ܬܵܐ
@@ -21801,7 +21801,7 @@ on
 a
 leap
 year
-</verse-quote>
+</verse_quote>
 ܪ̈ܲܥܡܹܐ
 ܘܒܸܪ̈ܩܹܐ
 ܕܫܲܪܥܲܬ
@@ -22143,13 +22143,13 @@ year
 .
 </section>
 <section no="62">
-<section-title>
+<section_title>
 ܐ
 ܒܐܵܕܵܪ
 March
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܪܥܘܿܫܝ
 ܓܲܪܒܝܵܐ
 <g/>
@@ -22173,7 +22173,7 @@ March
 <g/>
 :
 16
-</verse-quote>
+</verse_quote>
 ܐܲܗܘܵܠ
 ܕܦܵܫܘܿܥܘܼܬܵܐ
 ܒܘܼܫ
@@ -22482,13 +22482,13 @@ March
 .
 </section>
 <section no="63">
-<section-title>
+<section_title>
 ܒ
 ܒܐܵܕܵܪ
 March
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܨܠܹܐ
 ܠܗܘܿܢ
 ܟܠܹܗ
@@ -22519,7 +22519,7 @@ March
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܐܲܚܢܲܢ
 ܐܝܼܬ
 ܠܲܢ
@@ -22852,13 +22852,13 @@ March
 !
 </section>
 <section no="64">
-<section-title>
+<section_title>
 ܓ
 ܒܐܵܕܵܪ
 March
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܲܡ
 ܒܲܚܪܸܢܘܼܟ݂
 ܒܟܘܼܪܵܐ
@@ -22870,7 +22870,7 @@ March
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܫܩܘܿܠ
 ܠܸܒܵܐ
 <g/>
@@ -23233,13 +23233,13 @@ March
 “
 </section>
 <section no="65">
-<section-title>
+<section_title>
 ܕ
 ܒܐܵܕܵܪ
 March
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܹܐ
 ܡܵܠܝܵܐ
 ܩܵܬܘܼܟ݂
@@ -23252,7 +23252,7 @@ March
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܓܘܼܒܝܹ̈ܐ
 ܕܐܲܠܵܗܵܐ
@@ -23614,13 +23614,13 @@ March
 .
 </section>
 <section no="66">
-<section-title>
+<section_title>
 ܗ
 ܒܐܵܕܵܪ
 March
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܲܣ
 ܠܵܐ
 ܕܵܡܟܲܚ
@@ -23634,7 +23634,7 @@ March
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܐܝܼܬ
 ܪܵܒܵܐ
 ܐܘܼܪ̈ܚܵܬܹܐ
@@ -23981,13 +23981,13 @@ March
 ؟
 </section>
 <section no="67">
-<section-title>
+<section_title>
 ܘ
 ܒܐܵܕܵܪ
 March
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܵܓ̰ܸܒ
 ܝܼܠܵܗ̇
 ܩܵܬܵܘܟ݂ܘܿܢ
@@ -24001,7 +24001,7 @@ March
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܗ݇ܘܵܝܬܵܐ
 ܡܸܕܪܹܫ݇
 ܚܕܵܐ
@@ -24361,13 +24361,13 @@ March
 “
 </section>
 <section no="68">
-<section-title>
+<section_title>
 ܙ
 ܒܐܵܕܵܪ
 March
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܵܘܝܵܐ
 ܒܝܼܵܘܟ݂ܘܿܢ
 ܗܲܝܡܵܢܘܼܬܵܐ
@@ -24379,7 +24379,7 @@ March
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܗܲܝܡܵܢܘܼܬܵܐ
 ܝܠܵܗ̇
 ܐܲܩܠܵܐ
@@ -24778,13 +24778,13 @@ March
 “
 </section>
 <section no="69">
-<section-title>
+<section_title>
 ܚ
 ܒܐܵܕܵܪ
 March
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܪܵܒܵܐ
 ܝܲܠܨܘܼ
 ܘܵܓ̰ܸܒ
@@ -24799,7 +24799,7 @@ March
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܛܵܝܸܦܵܐ
 ܕܐܲܠܵܗܵܐ
 ܟܹܐ
@@ -25137,13 +25137,13 @@ March
 .
 </section>
 <section no="70">
-<section-title>
+<section_title>
 ܛ
 ܒܐܵܕܵܪ
 March
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠܹܗ
 ܫܘܼܗܘܸܬܵܐ
 <g/>
@@ -25154,7 +25154,7 @@ March
 <g/>
 :
 16
-</verse-quote>
+</verse_quote>
 ܫܘܼܦܪܵܐ
 ܪܹܫܵܝܵܐ
 ܕܡܫܝܼܚܵܐ
@@ -25492,13 +25492,13 @@ March
 “
 </section>
 <section no="71">
-<section-title>
+<section_title>
 ܝ
 ܒܐܵܕܵܪ
 March
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐܵܢܵܐ
 ܐ݇ܡܝܼܪܝܼ
 ܒܫܸܠܝܘܼܬܝܼ
@@ -25514,7 +25514,7 @@ March
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܫܘܼܢܹܐ
 ܠܹܗ
 ܡܘܼܐܵܒ݂
@@ -25886,13 +25886,13 @@ March
 “
 </section>
 <section no="72">
-<section-title>
+<section_title>
 ܝܐ
 ܒܐܵܕܵܪ
 March
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܦܵܝܫܵܐ
 ܗ݇ܘܵܐ
 ܓܘܼܢܵܗܟܵܪ
@@ -25904,7 +25904,7 @@ March
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܦܘܼܫ
 ܗܸܫܝܵܪ
 ܡ̣ܢ
@@ -26313,13 +26313,13 @@ March
 .
 </section>
 <section no="73">
-<section-title>
+<section_title>
 ܝܒ
 ܒܐܵܕܵܪ
 March
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܚܸܒ
 ܠܫܒ݂ܵܒ݂ܘܼܟ݂
 <g/>
@@ -26329,7 +26329,7 @@ March
 <g/>
 :
 43
-</verse-quote>
+</verse_quote>
 ܡܲܚܸܒ
 ܠܫܒ݂ܵܒ݂ܘܼܟ݂
 <g/>
@@ -26682,13 +26682,13 @@ March
 .
 </section>
 <section no="74">
-<section-title>
+<section_title>
 ܝܓ
 ܒܐܵܕܵܪ
 March
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܵܡܘܿܕܝܼ
 ܐܲܚܢܲܢ
 ܒܸܬܝܵܒ݂ܵܐ
@@ -26704,7 +26704,7 @@ March
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܩܵܪܝܵܢܵܐ
 ܣܵܘܓܘܼܠ
 <g/>
@@ -27046,13 +27046,13 @@ March
 .
 </section>
 <section no="75">
-<section-title>
+<section_title>
 ܝܕ
 ܒܐܵܕܵܪ
 March
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܲܣ
 ܗ̇ܘ
 ܕܚܵܫܹܒ݂
@@ -27072,7 +27072,7 @@ March
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܚܲܕ
 ܡܸܢܕܝܼ
 ܡܵܪܹܐ
@@ -27410,13 +27410,13 @@ March
 .
 </section>
 <section no="76">
-<section-title>
+<section_title>
 ܝܗ
 ܒܐܵܕܵܪ
 March
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܦܘܼܫ
 ܚܘܼܠܸܢܵܐ
 ܒܫܵܦܵܩܲܬ
@@ -27430,7 +27430,7 @@ March
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 ܐܝܼܬ
 ܠܹܗ
@@ -27739,13 +27739,13 @@ March
 .
 </section>
 <section no="77">
-<section-title>
+<section_title>
 ܝܘ
 ܒܐܵܕܵܪ
 March
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܵܫܵܚܲܛ
 ܝܼܘܸܢ
 ܐܵܢܵܐ
@@ -27757,7 +27757,7 @@ March
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܗܹܐ
 <g/>
 ،
@@ -28111,13 +28111,13 @@ March
 “
 </section>
 <section no="78">
-<section-title>
+<section_title>
 ܝܙ
 ܒܐܵܕܵܪ
 March
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܠܡܸܣܟܹܢܹ̈ܐ
 ܗܵܘܲܚ
 ܗ݇ܘܵܘ
@@ -28129,7 +28129,7 @@ March
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܩܵܡܘܿܕܝܼ
 ܐܲܠܵܗܵܐ
 ܟܹܐ
@@ -28483,13 +28483,13 @@ March
 .
 </section>
 <section no="79">
-<section-title>
+<section_title>
 ܝܚ
 ܒܐܵܕܵܪ
 March
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܟܠܵܘܟ݂ܘܿܢ
 ܒܢܘܿܢܹ̈ܐ
@@ -28505,7 +28505,7 @@ March
 <g/>
 :
 26
-</verse-quote>
+</verse_quote>
 ܒܵܒܵܝܘܼܬܵܐ
 ܕܐܲܠܵܗܵܐ
 ܒܸܡܛܵܝܵܐ
@@ -28864,13 +28864,13 @@ March
 .
 </section>
 <section no="80">
-<section-title>
+<section_title>
 ܝܛ
 ܒܐܵܕܵܪ
 March
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܲܝܠܵܢܵܐ
 ܒܗܲܝܡܵܢܘܼܬܵܐ
 <g/>
@@ -28880,7 +28880,7 @@ March
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 <g/>
 ،
@@ -29221,13 +29221,13 @@ March
 “
 </section>
 <section no="81">
-<section-title>
+<section_title>
 ܟܟ
 ܒܐܵܕܵܪ
 March
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܘܓܘܼܠܝܼ
 <g/>
 .
@@ -29237,7 +29237,7 @@ March
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܥܹܕܬܵܐ
 ܕܡܫܝܼܚܵܐ
 ܒܙܲܒ݂ܢܹ̈ܐ
@@ -29571,13 +29571,13 @@ March
 “
 </section>
 <section no="82">
-<section-title>
+<section_title>
 ܟܐ
 ܒܐܵܕܵܪ
 March
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܦܵܝܫܝܼܬܘܿܢ
 ܒܘܼܪܒܸܙܹܐ
@@ -29596,7 +29596,7 @@ March
 <g/>
 :
 32
-</verse-quote>
+</verse_quote>
 ܚܲܕ݇ܟ̰ܵܐ
 ܝܗ݇ܘܵܘ
 ܐܵܢܝܼ
@@ -29920,13 +29920,13 @@ March
 .
 </section>
 <section no="83">
-<section-title>
+<section_title>
 ܟܒ
 ܒܐܵܕܵܪ
 March
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܦܪܝܼܩ
 ܠܹܗ
 ܚܲܕ݇ܟ̰ܵܐ
@@ -29946,7 +29946,7 @@ March
 <g/>
 :
 39
-</verse-quote>
+</verse_quote>
 ܐܝܼܬ
 ܚܲܕ
 ܕܲܪܝܵܐ
@@ -30347,13 +30347,13 @@ March
 .
 </section>
 <section no="84">
-<section-title>
+<section_title>
 ܟܓ
 ܒܐܵܕܵܪ
 March
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܗܘܹܐ
 ܠܵܗ̇
 ܕܲܥܬܹܗ
@@ -30373,7 +30373,7 @@ March
 <g/>
 :
 44
-</verse-quote>
+</verse_quote>
 ܚܠܝܼܨܘܼܬܵܐ
 ܚܝܼܵܠܵܢܵܝܬܵܐ
 ܕܦܝܼܫ
@@ -30704,13 +30704,13 @@ March
 .
 </section>
 <section no="85">
-<section-title>
+<section_title>
 ܟܕ
 ܒܐܵܕܵܪ
 March
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܦܝܼܫ
 ܠܹܗ
 ܫܡܝܼܥܵܐ
@@ -30728,7 +30728,7 @@ March
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܒܸܙܕܵܥܵܐ
 ܝܗ݇ܘܵܐ
 ܕܦܵܐܹܫ
@@ -31058,13 +31058,13 @@ March
 .
 </section>
 <section no="86">
-<section-title>
+<section_title>
 ܟܗ
 ܒܐܵܕܵܪ
 March
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܢܫܘܼܩܬܵܐ
 ܣܲܦܘܼܝܹܐ
 ܝܘܸܬ
@@ -31077,7 +31077,7 @@ March
 <g/>
 :
 48
-</verse-quote>
+</verse_quote>
 ܦܸܪ̈ܝܹܐ
 ܝܢܵܐ
 ܢܫܵܩܝܵܬܹ̈ܐ
@@ -31421,13 +31421,13 @@ March
 .
 </section>
 <section no="87">
-<section-title>
+<section_title>
 ܟܘ
 ܒܐܵܕܵܪ
 March
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܸܢ
 ܐܸܠܝܼ
 ܒܸܒܥܵܝܵܐ
@@ -31444,7 +31444,7 @@ March
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܝܵܐ
 ܓܵܢܝܼ
 <g/>
@@ -31751,13 +31751,13 @@ March
 .
 </section>
 <section no="88">
-<section-title>
+<section_title>
 ܟܙ
 ܒܐܵܕܵܪ
 March
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗ̇ܝܓܵܗ
 ܟܠܲܝܗܝ
 ܬܲܠܡܝܼܕܹ̈ܐ
@@ -31773,7 +31773,7 @@ March
 <g/>
 :
 56
-</verse-quote>
+</verse_quote>
 ܗ̇ܘ
 ܒܗܸܟ̃
 ܥܕܵܢܵܐ
@@ -32128,13 +32128,13 @@ March
 .
 </section>
 <section no="89">
-<section-title>
+<section_title>
 ܟܚ
 ܒܐܵܕܵܪ
 March
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܘܼܒܹܗ
 ܕܡܫܝܼܚܵܐ
 ܕܠܥܸܠܸܠ
@@ -32148,7 +32148,7 @@ March
 <g/>
 :
 19
-</verse-quote>
+</verse_quote>
 ܚܘܼܒܵܐ
 ܕܡܫܝܼܚܵܐ
 ܒܚܸܠܝܘܼܬܹܗ
@@ -32451,13 +32451,13 @@ March
 .
 </section>
 <section no="90">
-<section-title>
+<section_title>
 ܟܛ
 ܒܐܵܕܵܪ
 March
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐܵܦܸܢ
 ܕܒܪܘܿܢܵܐ
 ܝܗ݇ܘܵܐ
@@ -32477,7 +32477,7 @@ March
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܦܝܼܫܬܵܐ
 ܝܠܵܗ̇
 ܐ݇ܡܝܼܪܬܵܐ
@@ -32778,13 +32778,13 @@ March
 “
 </section>
 <section no="91">
-<section-title>
+<section_title>
 ܠ
 ܒܐܵܕܵܪ
 March
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܲܡ
 ܥܵܘܵܠܹ̈ܐ
 ܦܝܼܫ
@@ -32797,7 +32797,7 @@ March
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 ܩܵܡܘܿܕܝܼ
 ܗܘܹܐ
@@ -33119,13 +33119,13 @@ March
 .
 </section>
 <section no="92">
-<section-title>
+<section_title>
 ܠܐ
 ܒܐܵܕܵܪ
 March
 31
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܡܲܚܘܵܬܹ̈ܗ
 ܦܝܼܫ
 ܠܲܢ
@@ -33137,7 +33137,7 @@ March
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܦܝܼܠܵܛܘܿܣ
 ܣܘܼܦܹܐ
 ܠܹܗ
@@ -33423,13 +33423,13 @@ March
 .
 </section>
 <section no="93">
-<section-title>
+<section_title>
 ܚܲܕ
 ܒܢܝܼܣܵܢ
 April
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܢܵܫܹܩ
 ܠܝܼ
 ܡ̣ܢ
@@ -33443,7 +33443,7 @@ April
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܩܵܐ
 ܚܲܕ݇ܟܡܵܐ
 ܝܵܘܡܵܢܹ̈ܐ
@@ -33777,13 +33777,13 @@ April
 .
 </section>
 <section no="94">
-<section-title>
+<section_title>
 ܒ
 ܒܢܝܼܣܵܢ
 April
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܵܐ
 ܝܘܼܗ݇ܒܸܠ
 ܠܹܗ
@@ -33801,7 +33801,7 @@ April
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܒܗܸܟ̃
 ܥܕܵܢܵܐ
 ܠܹܐ
@@ -34141,13 +34141,13 @@ April
 .
 </section>
 <section no="95">
-<section-title>
+<section_title>
 ܓ
 ܒܢܝܼܣܵܢ
 April
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܠܘܼܒܸܠ
 ܠܗܘܿܢ
 ܠܝܼܫܘܿܥ
@@ -34163,7 +34163,7 @@ April
 <g/>
 :
 16
-</verse-quote>
+</verse_quote>
 ܟܠܹܗ
 ܠܲܝܠܹܐ
 ܡܘܼܥܒܸܪܹܗ
@@ -34492,13 +34492,13 @@ April
 .
 </section>
 <section no="96">
-<section-title>
+<section_title>
 ܕ
 ܒܢܝܼܣܵܢ
 April
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܠܗ̇ܘ
 ܕܠܹܐ
@@ -34528,7 +34528,7 @@ April
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܝܵܐ
 ܟܪܝܼܣܛܝܵܢܵܐ
 ܥܵܒ݂ܕܵܢܵܐ
@@ -34849,13 +34849,13 @@ April
 “
 </section>
 <section no="97">
-<section-title>
+<section_title>
 ܗ
 ܒܢܝܼܣܵܢ
 April
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܡܘܼܬܸܒ݂
 ܠܗܘܿܢ
 ܥܲܠܘܼܗܝ
@@ -34871,7 +34871,7 @@ April
 <g/>
 :
 26
-</verse-quote>
+</verse_quote>
 ܒܛܥܵܢܬܵܐ
 ܕܫܸܡܥܘܿܢ
 ܠܙܩܝܼܦܵܐ
@@ -35196,13 +35196,13 @@ April
 .
 </section>
 <section no="98">
-<section-title>
+<section_title>
 ܘ
 ܒܢܝܼܣܵܢ
 April
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܲܕܟ݂ܵܐ
 ܐܘܼܦ
 ܐܲܚܢܲܢ
@@ -35219,7 +35219,7 @@ April
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 <g/>
 ،
@@ -35568,13 +35568,13 @@ April
 .
 </section>
 <section no="99">
-<section-title>
+<section_title>
 ܙ
 ܒܢܝܼܣܵܢ
 April
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܢܲܝ̈ܢܵܫܵܐ
 <g/>
 ،
@@ -35589,7 +35589,7 @@ April
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܚܲܕ
 ܡܲܠܦܵܢܵܐ
 ܟܬܝܼܒ݂ܵܐ
@@ -35950,13 +35950,13 @@ April
 .
 </section>
 <section no="100">
-<section-title>
+<section_title>
 ܚ
 ܒܢܝܼܣܵܢ
 April
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܸܢ
 ܒܩܲܝܣܵܐ
 ܬܲܠܝܼܠܵܐ
@@ -35976,7 +35976,7 @@ April
 <g/>
 :
 31
-</verse-quote>
+</verse_quote>
 ܐܝܼܬ
 ܪܵܒܵܐ
 ܦܘܼܫܵܩܹ̈ܐ
@@ -36342,13 +36342,13 @@ April
 .
 </section>
 <section no="101">
-<section-title>
+<section_title>
 ܛ
 ܒܢܝܼܣܵܢ
 April
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܹܐܬܵܝܵܐ
 ܝܗ݇ܘܵܐ
 ܒܵܬ݇ܪܹܗ
@@ -36370,7 +36370,7 @@ April
 <g/>
 :
 27
-</verse-quote>
+</verse_quote>
 ܒܐܵܪܵܠܸܓ݂
 ܕܟܸܢܫܵܐ
 ܥܵܒ݂ܕܵܢܵܐ
@@ -36670,13 +36670,13 @@ April
 .
 </section>
 <section no="102">
-<section-title>
+<section_title>
 ܝ
 ܒܢܝܼܣܵܢ
 April
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܘܼܟܬܵܐ
 ܕܦܝܵܫܵܐ
 ܝܠܵܗ̇
@@ -36691,7 +36691,7 @@ April
 <g/>
 :
 33
-</verse-quote>
+</verse_quote>
 ܪܘܼܡܬܵܐ
 ܕܓܵܓ݂ܘܿܠܬܵܐ
 ܝܠܵܗ̇
@@ -36937,13 +36937,13 @@ April
 .
 </section>
 <section no="103">
-<section-title>
+<section_title>
 ܝܐ
 ܒܢܝܼܣܵܢ
 April
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܝܟ݂
 ܡ̈ܝܼܵܐ
 ܦܝܼܫ
@@ -36963,7 +36963,7 @@ April
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܫܡܲܝܵܐ
 ܘܐܲܪܥܵܐ
 ܗܸܟ̃
@@ -37248,13 +37248,13 @@ April
 .
 </section>
 <section no="104">
-<section-title>
+<section_title>
 ܝܒ
 ܒܢܝܼܣܵܢ
 April
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܘܹܐ
 ܠܹܗ
 ܠܸܒܝܼ
@@ -37272,7 +37272,7 @@ April
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܚܕܵܐ
 ܐܲܗܘܵܠ
 ܪܵܒܵܐ
@@ -37611,13 +37611,13 @@ April
 .
 </section>
 <section no="105">
-<section-title>
+<section_title>
 ܝܓ
 ܒܢܝܼܣܵܢ
 April
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܲܣܬܵܐ
 ܕܡܘܼܪܵܐ
 ܝܠܹܗ
@@ -37631,7 +37631,7 @@ April
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܠܵܚܘܿܡܬܵܐ
 ܝܠܵܗ̇
 ܕܡܘܼܪܵܐ
@@ -38026,13 +38026,13 @@ April
 “
 </section>
 <section no="106">
-<section-title>
+<section_title>
 ܝܕ
 ܒܢܝܼܣܵܢ
 April
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠܲܝܗܝ
 ܚܵܙܝܵܢܝܼ̈
 ܟܹܐ
@@ -38055,7 +38055,7 @@ April
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܚܲܕ
 ܡ̣ܢ
 ܐܸܣܛܘܼܟ݂ܣܹ̈ܐ
@@ -38378,13 +38378,13 @@ April
 “
 </section>
 <section no="107">
-<section-title>
+<section_title>
 ܝܗ
 ܒܢܝܼܣܵܢ
 April
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܠܵܗܝܼ
 <g/>
 ،
@@ -38400,7 +38400,7 @@ April
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܠܐܲܟ݂ܵܐ
 ܦܵܪܘܿܩܵܐ
 ܒܸܚܙܵܝܹܗ
@@ -38725,13 +38725,13 @@ April
 “
 </section>
 <section no="108">
-<section-title>
+<section_title>
 ܝܘ
 ܒܢܝܼܣܵܢ
 April
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܸܡܵܐ
 ܡܵܪܹܐ
 ܛܝܼܡܵܐ
@@ -38745,7 +38745,7 @@ April
 <g/>
 :
 19
-</verse-quote>
+</verse_quote>
 ܟܲܕ
 ܟܵܠܲܚ
 ܩܵܕ݇ܡ
@@ -39087,13 +39087,13 @@ April
 .
 </section>
 <section no="109">
-<section-title>
+<section_title>
 ܝܙ
 ܒܢܝܼܣܵܢ
 April
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܘܼܪܒܸܢܵܘܟ݂ܘܿܢ
 ܠܕܸܡܵܐ
 ܕܡܲܪܝܲܣܬܵܐ
@@ -39118,7 +39118,7 @@ April
 <g/>
 .
 24
-</verse-quote>
+</verse_quote>
 ܩܵܪܝܵܢܵܐ
 <g/>
 ،
@@ -39438,13 +39438,13 @@ April
 .
 </section>
 <section no="110">
-<section-title>
+<section_title>
 ܝܚ
 ܒܢܝܼܣܵܢ
 April
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܬܝܼܪܵܗ̇
 ܬܵܢܵܦ
 ܕܩܸܪܡܝܼܙ
@@ -39458,7 +39458,7 @@ April
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܪܵܚܵܒ݂
 ܣܢܝܼܕ
 ܠܵܗ̇
@@ -39795,13 +39795,13 @@ April
 .
 </section>
 <section no="111">
-<section-title>
+<section_title>
 ܝܛ
 ܒܢܝܼܣܵܢ
 April
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܗܵܐ
 ܣܸܬܪܵܐ
 ܕܬܲܪܥܵܐ
@@ -39823,7 +39823,7 @@ April
 <g/>
 :
 51
-</verse-quote>
+</verse_quote>
 ܟ̰ܲܢܟ̰ܲܪܬܵܐ
 ܕܚܲܕ
 ܣܸܬܪܵܐ
@@ -40167,13 +40167,13 @@ April
 .
 </section>
 <section no="112">
-<section-title>
+<section_title>
 ܟܟ
 ܒܢܝܼܣܵܢ
 April
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܒܡܵܘܬܹܗ
 ܒܲܛܸܠ
 ܗ݇ܘܵܐ
@@ -40189,7 +40189,7 @@ April
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܝܵܐ
 ܒܪܘܿܢܵܐ
 ܕܐܲܠܵܗܵܐ
@@ -40533,13 +40533,13 @@ April
 .
 </section>
 <section no="113">
-<section-title>
+<section_title>
 ܟܐ
 ܒܢܝܼܣܵܢ
 April
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐܵܢܵܐ
 ܟܹܐ
 ܝܵܕܥܹܢ
@@ -40553,7 +40553,7 @@ April
 <g/>
 :
 25
-</verse-quote>
+</verse_quote>
 ܩܸܢܬܵܐ
 ܕܝܲܗ݇ܒܲܠܬܵܐ
 ܕܠܸܒܵܐ
@@ -40957,13 +40957,13 @@ April
 .
 </section>
 <section no="114">
-<section-title>
+<section_title>
 ܟܒ
 ܒܢܝܼܣܵܢ
 April
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܲܪ
 ܠܐܵܗܵܐ
 ܐܲܠܵܗܵܐ
@@ -40976,7 +40976,7 @@ April
 <g/>
 :
 31
-</verse-quote>
+</verse_quote>
 ܡܵܪܲܢ
 ܝܼܫܘܿܥ
 <g/>
@@ -41306,13 +41306,13 @@ April
 !
 </section>
 <section no="115">
-<section-title>
+<section_title>
 ܓ
 ܒܢܝܼܣܵܢ
 April
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܸܠܵܐ
 ܒܐܲܢܹܐ
 ܟܠܲܝܗܝ
@@ -41334,7 +41334,7 @@ April
 <g/>
 :
 37
-</verse-quote>
+</verse_quote>
 ܐܲܚܢܲܢ
 ܪܵܒܵܐ
 ܓܵܗܹ̈ܐ
@@ -41684,13 +41684,13 @@ April
 .
 </section>
 <section no="116">
-<section-title>
+<section_title>
 ܟܕ
 ܒܢܝܼܣܵܢ
 April
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܟܠܵܗ̇
 ܐܵܗܵܐ
 <g/>
@@ -41707,7 +41707,7 @@ April
 <g/>
 :
 38
-</verse-quote>
+</verse_quote>
 ܒܪܵܒܵܐ
 ܥܕܵܢܵܬܹ̈ܐ
 ܓܵܘ
@@ -42019,13 +42019,13 @@ April
 .
 </section>
 <section no="117">
-<section-title>
+<section_title>
 ܟܗ
 ܒܢܝܼܣܵܢ
 April
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܘܼܡܝ
 ܠܵܟ݂ܝ
 <g/>
@@ -42046,7 +42046,7 @@ April
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܗܵܐ
 <g/>
 ،
@@ -42397,13 +42397,13 @@ April
 .
 </section>
 <section no="118">
-<section-title>
+<section_title>
 ܟܘ
 ܒܢܝܼܣܵܢ
 April
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܗܵܐ
 ܗܵܘܹܝܬܘܿܢ
 ܒܸܥܒ݂ܵܕܵܐ
@@ -42417,7 +42417,7 @@ April
 <g/>
 :
 24
-</verse-quote>
+</verse_quote>
 ܒܲܣ
 ܡܲܒܝܘܼܢܹܐ
 ܝܠܵܗ̇
@@ -42700,13 +42700,13 @@ April
 .
 </section>
 <section no="119">
-<section-title>
+<section_title>
 ܟܙ
 ܒܢܝܼܣܵܢ
 April
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܠܵܗܵܐ
 ܐܲܠܵܗܲܢ
 <g/>
@@ -42716,7 +42716,7 @@ April
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܥܵܓ̰ܸܒܘܼܬܵܐ
 ܝܠܵܗ̇
 ܟܡܵܐ
@@ -43096,13 +43096,13 @@ April
 .
 </section>
 <section no="120">
-<section-title>
+<section_title>
 ܟܚ
 ܒܢܝܼܣܵܢ
 April
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܟ݂ܘܿܪ
 ܚܲܒܪܵܐ
 ܠܪܹܓܘܼܟ݂
@@ -43119,7 +43119,7 @@ April
 <g/>
 :
 49
-</verse-quote>
+</verse_quote>
 ܟܠ
 ܕܗܵܘܝܵܐ
 ܣܢܝܼܩܘܼܬܘܼܟ݂
@@ -43459,13 +43459,13 @@ April
 .
 </section>
 <section no="121">
-<section-title>
+<section_title>
 ܟܛ
 ܒܢܝܼܣܵܢ
 April
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܹܝܬ
 ܓܵܘܣܵܐ
 ܝܘܸܬ
@@ -43479,7 +43479,7 @@ April
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܐܘܼܪܚܵܐ
 ܕܟܪܝܼܣܛܝܵܢܵܐ
 ܗܲܡܵܫܵܐ
@@ -43798,13 +43798,13 @@ April
 .
 </section>
 <section no="122">
-<section-title>
+<section_title>
 ܠ
 ܒܢܝܼܣܵܢ
 April
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܛܘܼܪܛܸܡ
 ܠܗܘܿܢ
 ܥܲܠ
@@ -43821,7 +43821,7 @@ April
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܐܘܼܦ
 ܐܵܕܝܼܵܐ
 ܐܝܼܬ
@@ -44155,13 +44155,13 @@ April
 “
 </section>
 <section no="123">
-<section-title>
+<section_title>
 ܐ
 ܒܐܝܼܵܪ
 May
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܦܵܬܘܵܬܹ̈ܗ
 ܐܲܝܟ݂
 ܟܲܪ̈ܕܹܐ
@@ -44178,7 +44178,7 @@ May
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܗܵܐ
 <g/>
 ،
@@ -44499,13 +44499,13 @@ May
 .
 </section>
 <section no="124">
-<section-title>
+<section_title>
 ܒ
 ܒܐܝܼܵܪ
 May
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܹܐ
 ܝܠܵܗ̇
 ܕܫܵܩܠܹܬ
@@ -44521,7 +44521,7 @@ May
 <g/>
 :
 15
-</verse-quote>
+</verse_quote>
 ܚܲܕ
 ܡܸܢܕܝܼ
 ܪܵܒܵܐ
@@ -44848,13 +44848,13 @@ May
 .
 </section>
 <section no="125">
-<section-title>
+<section_title>
 ܓ
 ܒܐܝܼܵܪ
 May
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܵܘ
 ܥܵܠܡܵܐ
 ܒܸܬ
@@ -44868,7 +44868,7 @@ May
 <g/>
 :
 33
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 <g/>
 ،
@@ -45233,13 +45233,13 @@ May
 “
 </section>
 <section no="126">
-<section-title>
+<section_title>
 ܕ
 ܒܐܝܼܵܪ
 May
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܵܡܘܿ
 <g/>
 ،
@@ -45261,7 +45261,7 @@ May
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܚܕܵܐ
 ܚܛܝܼܬܵܐ
 ܪܹܫܵܝܬܵܐ
@@ -45539,13 +45539,13 @@ May
 !
 </section>
 <section no="127">
-<section-title>
+<section_title>
 ܗ
 ܒܐܝܼܵܪ
 May
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܸܬ
 ܗܵܘܹܝܢ
 ܐܲܠܵܗܲܝܗܝ
@@ -45564,7 +45564,7 @@ May
 <g/>
 :
 16
-</verse-quote>
+</verse_quote>
 ܟܡܵܐ
 ܒܲܣܝܼܡܬܵܐ
 ܝܠܵܗ̇
@@ -45900,13 +45900,13 @@ May
 .
 </section>
 <section no="128">
-<section-title>
+<section_title>
 ܘ
 ܒܐܝܼܵܪ
 May
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܝܼܹܗ
 ܥܲܪܩܘܼܠܹܐ
 ܝܘܲܚ
@@ -45918,7 +45918,7 @@ May
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܒܵܥܹܝܬ
 ܚܲܕ
 ܒܲܝܬܵܐ
@@ -46306,13 +46306,13 @@ May
 “
 </section>
 <section no="129">
-<section-title>
+<section_title>
 ܙ
 ܒܐܝܼܵܪ
 May
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܙܝܼܠ
 ܠܗܘܿܢ
 ܒܵܬ݇ܪܹܗ
@@ -46330,7 +46330,7 @@ May
 <g/>
 :
 15
-</verse-quote>
+</verse_quote>
 ܟܡܵܐ
 ܡܲܪ̈ܥܹܐ
 ܪܵܒܵܐ
@@ -46686,13 +46686,13 @@ May
 “
 </section>
 <section no="130">
-<section-title>
+<section_title>
 ܚ
 ܒܐܝܼܵܪ
 May
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܝܼܢܵܐ
 ܗ̇ܘ
 ܕܦܝܼܫ
@@ -46712,7 +46712,7 @@ May
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܩܵܐ
 ܐ݇ܢܵܫܵܐ
 ܚܸܕܝܵܐ
@@ -47054,13 +47054,13 @@ May
 .
 </section>
 <section no="131">
-<section-title>
+<section_title>
 ܛ
 ܒܐܝܼܵܪ
 May
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗ̇ܘ
 ܕܩܲܡ
 ܒܲܪܸܟ݂
@@ -47075,7 +47075,7 @@ May
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܟܠܵܗ̇
 ܛܵܒ݂ܘܼܬܵܐ
 ܕܲܥܒܲܪ
@@ -47375,13 +47375,13 @@ May
 .
 </section>
 <section no="132">
-<section-title>
+<section_title>
 ܝ
 ܒܐܝܼܵܪ
 May
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܝܼܢܵܐ
 ܐܵܕܝܼܵܐ
 ܡܫܝܼܚܵܐ
@@ -47398,7 +47398,7 @@ May
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܒܸܢܝܲܬ
 ܕܟܠܹܗ
 ܣܘܼܣܬܝܼܡܵܐ
@@ -47767,13 +47767,13 @@ May
 “
 </section>
 <section no="133">
-<section-title>
+<section_title>
 ܝܐ
 ܒܐܝܼܵܪ
 May
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܵܐ
 ܐܵܢܵܐ
 ܥܲܡܵܘܟ݂ܘܿܢ
@@ -47787,7 +47787,7 @@ May
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܨܦܵܝܝܼ
 ܝܠܵܗ̇
 ܕܐܝܼܬ
@@ -48094,13 +48094,13 @@ May
 “
 </section>
 <section no="134">
-<section-title>
+<section_title>
 ܝܒ
 ܒܐܝܼܵܪ
 May
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܸܬ
 ܡܲܚܙܹܝܢ
 ܩܵܬܹܗ
@@ -48112,7 +48112,7 @@ May
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 ܟܹܐ
 ܥܵܒܹܕ
@@ -48430,13 +48430,13 @@ May
 .
 </section>
 <section no="135">
-<section-title>
+<section_title>
 ܝܓ
 ܒܐܝܼܵܪ
 May
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܪܲܡܫܵܐ
 ܦܵܐܹܫ
 ܒܸܟ݂ܝܵܐ
@@ -48452,7 +48452,7 @@ May
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 <g/>
 ،
@@ -48731,13 +48731,13 @@ May
 “
 </section>
 <section no="136">
-<section-title>
+<section_title>
 ܝܕ
 ܒܐܝܼܵܪ
 May
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܲܒ݂ܪ̈ܵܘܵܬܹܐ
 ܒܡܝܼܪܲܬܓܵܪܘܼܬܹܗ
 ܕܡܫܝܼܚܵܐ
@@ -48748,7 +48748,7 @@ May
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܥܵܠܡܹ̈ܐ
 ܒܹܐ
 ܬܸܚܘܼܒ
@@ -49060,13 +49060,13 @@ May
 .
 </section>
 <section no="137">
-<section-title>
+<section_title>
 ܝܗ
 ܒܐܝܼܵܪ
 May
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠ
 ܕܗܲܡܸܢ
 ܟܹܐ
@@ -49079,7 +49079,7 @@ May
 <g/>
 :
 39
-</verse-quote>
+</verse_quote>
 ܗܲܡܸܢܵܢܵܐ
 ܒܡܫܝܼܚܵܐ
 ܟܹܐ
@@ -49381,13 +49381,13 @@ May
 .
 </section>
 <section no="138">
-<section-title>
+<section_title>
 ܝܘ
 ܒܐܝܼܵܪ
 May
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗ̇ܘ
 ܕܝܘܼܗ݇ܒܸܠ
 ܠܹܗ
@@ -49404,7 +49404,7 @@ May
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܡܵܪܲܢ
 ܝܼܫܘܿܥ
 ܒܕܵܝܸܡܘܼܬܵܐ
@@ -49692,13 +49692,13 @@ May
 “
 </section>
 <section no="139">
-<section-title>
+<section_title>
 ܝܙ
 ܒܐܝܼܵܪ
 May
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܝܟ݂
 ܚܕܵܪ̈ܝܵܬܹܐ
 ܕܝܼܹܗ
@@ -49711,7 +49711,7 @@ May
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܟܪ̈ܝܼܣܛܝܵܢܹܐ
 ܩܵܡܘܿܕܝܼ
 ܠܵܙܸܡ
@@ -50047,13 +50047,13 @@ May
 “
 </section>
 <section no="140">
-<section-title>
+<section_title>
 ܝܚ
 ܒܐܝܼܵܪ
 May
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܒܝܼܹܗ
 ܒܸܥܡܵܪܵܐ
 ܝܠܵܗ̇
@@ -50079,7 +50079,7 @@ May
 <g/>
 -
 10
-</verse-quote>
+</verse_quote>
 ܟܠܲܝܗܝ
 ܕܝܼܠܵܝܵܬܹ̈ܐ
 ܕܡܫܝܼܚܵܐ
@@ -50394,13 +50394,13 @@ May
 .
 </section>
 <section no="141">
-<section-title>
+<section_title>
 ܝܛ
 ܒܐܝܼܵܪ
 May
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܙܹܐ
 ܠܝܼ
 ܪܹ̈ܓܵܘܵܬܹܐ
@@ -50421,7 +50421,7 @@ May
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܓܵܗܹ̈ܐ
 ܐ݇ܢܵܫܹ̈ܐ
@@ -50762,13 +50762,13 @@ May
 .
 </section>
 <section no="142">
-<section-title>
+<section_title>
 ܟܟ
 ܒܐܝܼܵܪ
 May
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܓ̰ܝܼܒܬܵܐ
 ܫܵܦܵܩܲܬܘܼܟ݂
 <g/>
@@ -50778,7 +50778,7 @@ May
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܐܝܼܡܲܢ
 ܕܝܵܗ݇ܒܲܚ
 ܠܸܒܲܢ
@@ -51052,13 +51052,13 @@ May
 .
 </section>
 <section no="143">
-<section-title>
+<section_title>
 ܟܐ
 ܒܐܝܼܵܪ
 May
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܸܢ
 ܛܥܝܼܡ
 ܠܵܘܟ݂ܘܿܢ
@@ -51073,7 +51073,7 @@ May
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 <g/>
 ”
 ܐܸܢ
@@ -51412,13 +51412,13 @@ May
 .
 </section>
 <section no="144">
-<section-title>
+<section_title>
 ܟܒ
 ܒܐܝܼܵܪ
 May
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܠܘܼܒܠܲܝ
 ܠܹܗ
 ܒܐܘܼܪܚܵܐ
@@ -51430,7 +51430,7 @@ May
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܫܲܚܠܲܦܝܵܬܹ̈ܐ
 ܕܟܹܐ
 ܩܲܘܸܡܝܼ
@@ -51715,13 +51715,13 @@ May
 .
 </section>
 <section no="145">
-<section-title>
+<section_title>
 ܟܓ
 ܒܐܝܼܵܪ
 May
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܵܪܝܵܐ
 ܒܸܬ
 ܬܲܡܸܡ
@@ -51734,7 +51734,7 @@ May
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܝܵܩܝܼܢ
 ܝܼܠܵܗ̇
 ܕܐܵܗܵܐ
@@ -52064,13 +52064,13 @@ May
 .
 </section>
 <section no="146">
-<section-title>
+<section_title>
 ܟܕ
 ܒܐܝܼܵܪ
 May
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܪܝܼܟ݂ܵܐ
 ܝܠܹܗ
 ܐܲܠܵܗܵܐ
@@ -52084,7 +52084,7 @@ May
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܓܲܫܩܲܚ
 ܠܵܒܵܬ݇ܪܵܐ
@@ -52428,13 +52428,13 @@ May
 “
 </section>
 <section no="147">
-<section-title>
+<section_title>
 ܟܗ
 ܒܐܝܼܵܪ
 May
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܵܐ
 ܫܵܒ݂ܩܹܬ
 ܠܝܼ
@@ -52449,7 +52449,7 @@ May
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܓܵܗܹ̈ܐ
 ܟܹܐ
@@ -52780,13 +52780,13 @@ May
 “
 </section>
 <section no="148">
-<section-title>
+<section_title>
 ܟܘ
 ܒܐܝܼܵܪ
 May
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܪܲܦܝܼ
 ܥܲܠ
 ܡܵܪܝܵܐ
@@ -52807,7 +52807,7 @@ May
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܚܲܡ
 ܡܘܼܦܠܸܚܬܵܐ
 ܐܘܼܦ
@@ -53184,13 +53184,13 @@ May
 “
 </section>
 <section no="149">
-<section-title>
+<section_title>
 ܟܙ
 ܒܐܝܼܵܪ
 May
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܦܝܼܒܘܿܫܸܬ
 ܝ݇ܬܝܼܒ݂
 ܠܹܗ
@@ -53220,7 +53220,7 @@ May
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܡܲܦܝܼܒܘܿܫܸܬ
 ܠܹܐ
 ܝܗ݇ܘܵܐ
@@ -53552,13 +53552,13 @@ May
 .
 </section>
 <section no="150">
-<section-title>
+<section_title>
 ܟܚ
 ܒܐܝܼܵܪ
 May
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܠܐܵܢܝܼ
 ܕܡܘܼܟܫܸܛ
 ܠܹܗ
@@ -53573,7 +53573,7 @@ May
 <g/>
 :
 30
-</verse-quote>
+</verse_quote>
 ܕܘܼ
 ܝܠܵܗ̇
 ܚܕܵܐ
@@ -53876,13 +53876,13 @@ May
 “
 </section>
 <section no="151">
-<section-title>
+<section_title>
 ܟܛ
 ܒܐܝܼܵܪ
 May
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܣܢܹܐ
 ܠܘܼܟ݂
 ܒܝܼܫܘܼܬܵܐ
@@ -53893,7 +53893,7 @@ May
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܟܪܘܿܒܘܼܢ
 ܘܠܵܐ
 ܚܵܛܹܝܬܘܿܢ
@@ -54250,13 +54250,13 @@ May
 .
 </section>
 <section no="152">
-<section-title>
+<section_title>
 ܠ
 ܒܐܝܼܵܪ
 May
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܒ݂ܘܿܩܘܼܢ
 ܩܵܬܲܢ
 ܬܲܥܠܹ̈ܐ
@@ -54276,7 +54276,7 @@ May
 <g/>
 :
 15
-</verse-quote>
+</verse_quote>
 ܚܲܕ
 ܟܸܬܘܵܐ
 ܙܥܘܿܪܵܐ
@@ -54636,13 +54636,13 @@ May
 .
 </section>
 <section no="153">
-<section-title>
+<section_title>
 ܠܐ
 ܒܐܝܼܵܪ
 May
 31
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܡܲܠܟܵܐ
 ܒܸܥܒ݂ܵܪܵܐ
 ܝܗ݇ܘܵܐ
@@ -54656,7 +54656,7 @@ May
 <g/>
 :
 23
-</verse-quote>
+</verse_quote>
 ܕܵܘܝܼܕ
 ܡܲܠܟܵܐ
 ܥܒ݂ܝܼܪܹܗ
@@ -54979,13 +54979,13 @@ May
 .
 </section>
 <section no="154">
-<section-title>
+<section_title>
 ܐ
 ܒܚܙܝܼܪܵܢ
 June
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܗܘܹܐ
 ܠܹܗ
 ܪܲܡܫܵܐ
@@ -55005,7 +55005,7 @@ June
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܡܸܓ̰ܸܕ
 ܐܘܼܦ
 ܒܫܘܼܪܵܝܵܐ
@@ -55330,13 +55330,13 @@ June
 .
 </section>
 <section no="155">
-<section-title>
+<section_title>
 ܒ
 ܒܚܙܝܼܪܵܢ
 June
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܒܸܣܪܵܐ
 ܟܹܐ
@@ -55357,7 +55357,7 @@ June
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܓܵܘ
 ܠܸܒܵܐ
 ܕܟܠ
@@ -55720,13 +55720,13 @@ June
 “
 </section>
 <section no="156">
-<section-title>
+<section_title>
 ܓ
 ܒܚܙܝܼܪܵܢ
 June
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܢܝܼ
 ܝܗ݇ܘܵܘ
 ܟܘܼܙܵܟ̰ܝܼܹ̈ܐ
@@ -55752,7 +55752,7 @@ June
 <g/>
 :
 23
-</verse-quote>
+</verse_quote>
 ܟܘܼܙܵܟ̰ܝܼܹ̈ܐ
 ܠܹܐ
 ܝܗ݇ܘܵܘ
@@ -56073,13 +56073,13 @@ June
 .
 </section>
 <section no="157">
-<section-title>
+<section_title>
 ܕ
 ܒܚܙܝܼܪܵܢ
 June
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܲܣܝܼܡܘܼܬܹܗ
 ܘܡܪܲܚܡܵܢܘܼܬܹܗ
 ܕܐܲܠܵܗܵܐ
@@ -56091,7 +56091,7 @@ June
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܟܡܵܐ
 ܒܲܣܝܼܡܬܵܐ
 ܝܠܵܗ̇
@@ -56375,13 +56375,13 @@ June
 .
 </section>
 <section no="158">
-<section-title>
+<section_title>
 ܗ
 ܒܚܙܝܼܪܵܢ
 June
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܕܒ݂ܝܼܪܹܗ
 ܡܵܪܝܵܐ
 ܥܲܠܘܼܗܝ
@@ -56392,7 +56392,7 @@ June
 <g/>
 :
 16
-</verse-quote>
+</verse_quote>
 ܢܘܿܚ
 ܦܝܼܫ
 ܠܹܗ
@@ -56743,13 +56743,13 @@ June
 .
 </section>
 <section no="159">
-<section-title>
+<section_title>
 ܘ
 ܒܚܙܝܼܪܵܢ
 June
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܵܐ
 <g/>
 ،
@@ -56762,7 +56762,7 @@ June
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܚܲܕ
 ܚܲܒܪܵܐ
 ܡܲܚܕܝܼܵܢܵܐ
@@ -57111,13 +57111,13 @@ June
 .
 </section>
 <section no="160">
-<section-title>
+<section_title>
 ܙ
 ܒܚܙܝܼܪܵܢ
 June
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܝܵܐ
 ܡܲܚܸܒܵܢܹ̈ܐ
 ܕܡܵܪܝܵܐ
@@ -57132,7 +57132,7 @@ June
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܨܦܵܝܝܼ
 ܗܲܓ̰ܲܬ
 ܐܝܼܬ
@@ -57443,13 +57443,13 @@ June
 .
 </section>
 <section no="161">
-<section-title>
+<section_title>
 ܚ
 ܒܚܙܝܼܪܵܢ
 June
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܩܛܝܼܠܹ̈ܐ
 ܪܵܒܵܐ
@@ -57470,7 +57470,7 @@ June
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܝܵܐ
 ܣܲܪܒܵܙ
 ܦܵܠܫܵܢܵܐ
@@ -57773,13 +57773,13 @@ June
 .
 </section>
 <section no="162">
-<section-title>
+<section_title>
 ܛ
 ܒܚܙܝܼܪܵܢ
 June
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܘܼܪܘܸܣ
 ܠܹܗ
 ܡܵܪܝܵܐ
@@ -57797,7 +57797,7 @@ June
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܚܲܕ݇ܟܡܵܐ
 ܟܪ̈ܝܼܣܛܝܵܢܹܐ
 ܗܲܪ
@@ -58116,13 +58116,13 @@ June
 .
 </section>
 <section no="163">
-<section-title>
+<section_title>
 ܝ
 ܒܚܙܝܼܪܵܢ
 June
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܡܵܪܲܢ
 ܟܹܐ
 ܚܵܝܲܚ
@@ -58133,7 +58133,7 @@ June
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܐܲܠܵܗܵܐ
 ܒܵܣܡܵܐ
@@ -58443,13 +58443,13 @@ June
 .
 </section>
 <section no="164">
-<section-title>
+<section_title>
 ܝܐ
 ܒܚܙܝܼܪܵܢ
 June
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܚܢܲܢ
 ܡܲܚܸܒܲܚ
 ܠܹܗ
@@ -58467,7 +58467,7 @@ June
 <g/>
 :
 19
-</verse-quote>
+</verse_quote>
 ܠܲܝܬ
 ܒܲܗܪܵܐ
 ܒܝܲܕ
@@ -58823,13 +58823,13 @@ June
 “
 </section>
 <section no="165">
-<section-title>
+<section_title>
 ܝܒ
 ܒܚܙܝܼܪܵܢ
 June
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܬܩܝܼܠܵܐ
 ܝܘܸܬ
 ܒܡܲܣܲܐܬܵܐ
@@ -58846,7 +58846,7 @@ June
 <g/>
 :
 27
-</verse-quote>
+</verse_quote>
 ܨܦܵܝܝܼ
 ܝܠܵܗ̇
 ܕܬܵܩܠܲܚ
@@ -59192,13 +59192,13 @@ June
 “
 </section>
 <section no="166">
-<section-title>
+<section_title>
 ܝܓ
 ܒܚܙܝܼܪܵܢ
 June
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗ̇ܘ
 ܕܒܵܣܡܵܐ
 ܠܹܗ
@@ -59213,7 +59213,7 @@ June
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 ܒܹܐܡܵܪܵܐ
 ܝܠܹܗ
@@ -59597,13 +59597,13 @@ June
 “
 </section>
 <section no="167">
-<section-title>
+<section_title>
 ܝܕ
 ܒܚܙܝܼܪܵܢ
 June
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܥܒ݂ܘܿܕ
 ܒܘܼܣܵܡܵܐ
 ܒܡܵܪܝܵܐ
@@ -59621,7 +59621,7 @@ June
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܡܲܥܢܵܝܵܐ
 ܕܐܲܢܹܐ
 ܚܲܒܪܹ̈ܐ
@@ -59944,13 +59944,13 @@ June
 “
 </section>
 <section no="168">
-<section-title>
+<section_title>
 ܝܗ
 ܒܚܙܝܼܪܵܢ
 June
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܡܝܼܪܵܗ̇
 ܣܲܪܵܐ
 <g/>
@@ -59975,7 +59975,7 @@ June
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܠܥܸܠܸܠ
 ܝܼܗ݇ܘܵܐ
@@ -60248,13 +60248,13 @@ June
 .
 </section>
 <section no="169">
-<section-title>
+<section_title>
 ܝܘ
 ܒܚܙܝܼܪܵܢ
 June
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܝܼܵܗ݇ܒ݂ܵܐ
 ܝܘܸܢ
 ܩܵܬܲܝܗܝ
@@ -60273,7 +60273,7 @@ June
 <g/>
 :
 28
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 ܓܵܪܲܓ
 ܕܗܸܟ̃
@@ -60572,13 +60572,13 @@ June
 .
 </section>
 <section no="170">
-<section-title>
+<section_title>
 ܝܙ
 ܒܚܙܝܼܪܵܢ
 June
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܲܝܸܪܝܼ
 ܝܵܐ
 ܡܵܪܝܵܐ
@@ -60590,7 +60590,7 @@ June
 <g/>
 :
 26
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܨܠܘܿܬܵܐ
 ܒܓܵܢܘܼܗ̇
@@ -60964,13 +60964,13 @@ June
 .
 </section>
 <section no="171">
-<section-title>
+<section_title>
 ܝܚ
 ܒܚܙܝܼܪܵܢ
 June
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܦܲܪܩܵܢܵܟ݂ܝ
 <g/>
 .
@@ -60979,7 +60979,7 @@ June
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 ܦܲܪܩܵܢܵܐ
 <g/>
@@ -61309,13 +61309,13 @@ June
 “
 </section>
 <section no="172">
-<section-title>
+<section_title>
 ܝܛ
 ܒܚܙܝܼܪܵܢ
 June
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܦܝܼܫ
 ܠܗܘܿܢ
 ܡܸܠܝܹܐ
@@ -61329,7 +61329,7 @@ June
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܓܘܼܪܹ̈ܐ
 ܒܸܬ
 ܗܵܘܝܼ
@@ -61648,13 +61648,13 @@ June
 .
 </section>
 <section no="173">
-<section-title>
+<section_title>
 ܟܟ
 ܒܚܙܝܼܪܵܢ
 June
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܗܵܐ
 <g/>
@@ -61688,7 +61688,7 @@ June
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܟܠ
 ܣܪܵܕܬܵܐ
 ܝܲܢ
@@ -62017,13 +62017,13 @@ June
 .
 </section>
 <section no="174">
-<section-title>
+<section_title>
 ܟܐ
 ܒܚܙܝܼܪܵܢ
 June
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܘܼܫ
 ܫܲܦܝܼܪܵܐ
 ܝܘܸܬ
@@ -62037,7 +62037,7 @@ June
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܦܲܪܨܘܿܦܵܐ
 ܬܲܡܵܡ
 ܕܡܫܝܼܚܵܐ
@@ -62382,13 +62382,13 @@ June
 .
 </section>
 <section no="175">
-<section-title>
+<section_title>
 ܟܒ
 ܒܚܙܝܼܪܵܢ
 June
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗ̇ܘ
 ܒܸܬ
 ܒܵܢܹܐ
@@ -62407,7 +62407,7 @@ June
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 ܒܓܵܢܹܗ
 ܝܠܹܗ
@@ -62691,13 +62691,13 @@ June
 .
 </section>
 <section no="176">
-<section-title>
+<section_title>
 ܟܓ
 ܒܚܙܝܼܪܵܢ
 June
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܦܪܹܝܡ
 ܗܘܹܐ
 ܠܹܗ
@@ -62711,7 +62711,7 @@ June
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܓܸܪܕܲܝܵܐ
 ܠܵܐ
 ܡܘܼܚܕܸܪܬܵܐ
@@ -63044,13 +63044,13 @@ June
 .
 </section>
 <section no="177">
-<section-title>
+<section_title>
 ܟܕ
 ܒܚܙܝܼܪܵܢ
 June
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܘܼܪܸܡ
 ܠܵܗ̇
 ܚܕܵܐ
@@ -63102,7 +63102,7 @@ June
 <g/>
 -
 28
-</verse-quote>
+</verse_quote>
 ܚܲܕ݇ܟܡܵܐ
 ܡܲܚܸܒܵܢܹ̈ܐ
 ܕܡܫܝܼܚܵܐ
@@ -63383,13 +63383,13 @@ June
 !
 </section>
 <section no="178">
-<section-title>
+<section_title>
 ܟܗ
 ܒܚܙܝܼܪܵܢ
 June
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܲܠ
 ܛܘܼܪܵܐ
 ܪܵܡܵܐ
@@ -63401,7 +63401,7 @@ June
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܝ݇ܕܵܥܬܲܢ
 ܒܘܼܬ
 ܡܫܝܼܚܵܐ
@@ -63752,13 +63752,13 @@ June
 .
 </section>
 <section no="179">
-<section-title>
+<section_title>
 ܟܘ
 ܒܚܙܝܼܪܵܢ
 June
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܸܠܲܢ
 ܦܝܼܫ
 ܠܘܼܟ݂
@@ -63770,7 +63770,7 @@ June
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܡܘܿܕܝܼ
 ܒܸܬ
 ܗܵܘܹܐ
@@ -64152,13 +64152,13 @@ June
 .
 </section>
 <section no="180">
-<section-title>
+<section_title>
 ܟܙ
 ܒܚܙܝܼܪܵܢ
 June
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܚܟ̰ܝܼ
 ܡܲܪܚܘܼܩܹܐ
 ܠܵܐ
@@ -64171,7 +64171,7 @@ June
 <g/>
 :
 28
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܝܠܹܗ
 ܚܲܕ
@@ -64508,13 +64508,13 @@ June
 “
 </section>
 <section no="181">
-<section-title>
+<section_title>
 ܟܚ
 ܒܚܙܝܼܪܵܢ
 June
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܚܵܝܪܲܚ
 ܒܝܼܫܘܿܥ
 <g/>
@@ -64524,7 +64524,7 @@ June
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܗܲܡܵܫܵܐ
 ܫܘܼܠܵܐ
 ܕܪܘܼܚܵܐ
@@ -64875,13 +64875,13 @@ June
 .
 </section>
 <section no="182">
-<section-title>
+<section_title>
 ܟܛ
 ܒܚܙܝܼܪܵܢ
 June
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܠܵܗܵܐ
 ܠܐܵܢܝܼ
 ܕܕܡܝܼܟ݂
@@ -64898,7 +64898,7 @@ June
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܠܵܐ
 ܚܵܫܒܲܚ
 ܕܓܵܢܵܐ
@@ -65220,13 +65220,13 @@ June
 “
 </section>
 <section no="183">
-<section-title>
+<section_title>
 ܠ
 ܒܚܙܝܼܪܵܢ
 June
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܸܩܪܵܐ
 ܕܝܘܼܗ݇ܒܸܠ
 ܠܘܼܟ݂
@@ -65243,7 +65243,7 @@ June
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܚܙܹܝܡܘܼܢ
 ܡܪܲܚܡܵܢܘܼܬܵܐ
 ܒܹܐ
@@ -65551,13 +65551,13 @@ June
 “
 </section>
 <section no="184">
-<section-title>
+<section_title>
 ܐ
 ܒܬܲܡܘܼܙ
 July
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܩܲܝܛܵܐ
 ܘܒܣܸܬܘܵܐ
 ܒܸܬ
@@ -65569,7 +65569,7 @@ July
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܫܵܩܝܼܵܬܹ̈ܐ
 ܕܡ̈ܝܼܵܐ
 ܚܵܝܹ̈ܐ
@@ -65872,13 +65872,13 @@ July
 “
 </section>
 <section no="185">
-<section-title>
+<section_title>
 ܒ
 ܒܬܲܡܘܼܙ
 July
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܝܼܹܗ
 ܒܸܬ
 ܚܵܕܹܐ
@@ -65890,7 +65890,7 @@ July
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܒܪܝܼܟ݂ܬܵܐ
 ܝܠܵܗ̇
 ܐܵܗܵܐ
@@ -66255,13 +66255,13 @@ July
 .
 </section>
 <section no="186">
-<section-title>
+<section_title>
 ܓ
 ܒܬܲܡܘܼܙ
 July
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܟ݂ܝܼܠ
 ܠܗܘܿܢ
 ܐܵܢܝܼ
@@ -66283,7 +66283,7 @@ July
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܚܸܠܡܵܐ
 ܕܦܸܪܥܘܿܢ
 ܪܵܒܵܐ
@@ -66586,13 +66586,13 @@ July
 .
 </section>
 <section no="187">
-<section-title>
+<section_title>
 ܕ
 ܒܬܲܡܘܼܙ
 July
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܲܕܸܫ
 ܠܗܘܿܢ
 ܒܣܲܪܲܣܬܘܼܬܘܼܟ݂
@@ -66603,7 +66603,7 @@ July
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܩܵܕܲܫܬܵܐ
 ܟܹܐ
 ܫܲܪܝܵܐ
@@ -66905,13 +66905,13 @@ July
 .
 </section>
 <section no="188">
-<section-title>
+<section_title>
 ܗ
 ܒܬܲܡܘܼܙ
 July
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܸܪ̈ܝܹܐ
 ܩܲܕܝܼܫܹ̈ܐ
 <g/>
@@ -66921,7 +66921,7 @@ July
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܥܒ݂ܘܿܕ
 ܒܵܘܵܪ
 ܟܹܐ
@@ -67268,13 +67268,13 @@ July
 .
 </section>
 <section no="189">
-<section-title>
+<section_title>
 ܘ
 ܒܬܲܡܘܼܙ
 July
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܗ̇ܘ
 ܕܫܵܡܹܥ
 ܠܝܼ
@@ -67296,7 +67296,7 @@ July
 <g/>
 :
 33
-</verse-quote>
+</verse_quote>
 ܚܘܼܒܵܐ
 ܐܲܠܵܗܵܝܵܐ
 ܒܘܼܫ
@@ -67651,13 +67651,13 @@ July
 .
 </section>
 <section no="190">
-<section-title>
+<section_title>
 ܙ
 ܒܬܲܡܘܼܙ
 July
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܚܘܿܢܘܵܬܝܼ̈
 <g/>
 ،
@@ -67673,7 +67673,7 @@ July
 <g/>
 :
 25
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܚܕܵܐ
 ܩܵܝܕܲܡܬܵܐ
@@ -68027,13 +68027,13 @@ July
 “
 </section>
 <section no="191">
-<section-title>
+<section_title>
 ܚ
 ܒܬܲܡܘܼܙ
 July
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܕܸܥ
 ܠܝܼ
 <g/>
@@ -68053,7 +68053,7 @@ July
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܒܡܘܿܕܝܼ
 ܝܠܹܗ
 ܚܲܝܠܵܐ
@@ -68415,13 +68415,13 @@ July
 “
 </section>
 <section no="192">
-<section-title>
+<section_title>
 ܛ
 ܒܬܲܡܘܼܙ
 July
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܵܐ
 ܡܲܢܫܝܼܲܬܝ
 ܟܠܲܝܗܝ
@@ -68433,7 +68433,7 @@ July
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܚܲܕ
 ܒܘܼܠܓܵܢܵܐ
 ܡܵܪܹܐ
@@ -68720,13 +68720,13 @@ July
 .
 </section>
 <section no="193">
-<section-title>
+<section_title>
 ܝ
 ܒܬܲܡܘܼܙ
 July
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܢܲܝ̈
 ܡܕܝܼܢ݇ܬܵܐ
 ܕܩܲܕܝܼܫܹ̈ܐ
@@ -68737,7 +68737,7 @@ July
 <g/>
 :
 19
-</verse-quote>
+</verse_quote>
 ܡܘܿܕܝܼ
 ܝܠܵܗ̇
 ܡܲܥܢܵܝܵܐ
@@ -69082,13 +69082,13 @@ July
 .
 </section>
 <section no="194">
-<section-title>
+<section_title>
 ܝܐ
 ܒܬܲܡܘܼܙ
 July
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܲܕ
 ܩܲܒܠܲܚ
 ܐܲܢܹܐ
@@ -69113,7 +69113,7 @@ July
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܚܸܙܝܘܼܗ̇
 ܝܬܘܿܢ
 ܩܸܫܬܵܐ
@@ -69434,13 +69434,13 @@ July
 .
 </section>
 <section no="195">
-<section-title>
+<section_title>
 ܝܒ
 ܒܬܲܡܘܼܙ
 July
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܩܘܼܕܫܹ̈ܐ
 ܒܐܲܠܵܗܵܐ
 ܒܵܒܵܐ
@@ -69469,7 +69469,7 @@ July
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܦܲܟܸܪ
 ܠܙܵܘܲܓܬܵܐ
 ܕܐܲܢܹܐ
@@ -69755,13 +69755,13 @@ July
 .
 </section>
 <section no="196">
-<section-title>
+<section_title>
 ܝܓ
 ܒܬܲܡܘܼܙ
 July
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܡܝܼܪܹܗ
 ܐܲܠܵܗܵܐ
 ܠܝܵܘܢܵܢ
@@ -69779,7 +69779,7 @@ July
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܟܲܪܒܵܐ
 ܗܲܡܵܫܵܐ
 ܠܹܐ
@@ -70154,13 +70154,13 @@ July
 .
 </section>
 <section no="197">
-<section-title>
+<section_title>
 ܝܕ
 ܒܬܲܡܘܼܙ
 July
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܐܲܣܒܵܒܘܼ̈ܟ݂
 ܡܲܓ̰ܘܸܓ̰ܸܬ
@@ -70176,7 +70176,7 @@ July
 <g/>
 :
 25
-</verse-quote>
+</verse_quote>
 ܡܲܕܒܚܵܐ
 ܕܐܲܠܵܗܵܐ
 ܓܵܪܲܓ
@@ -70488,13 +70488,13 @@ July
 .
 </section>
 <section no="198">
-<section-title>
+<section_title>
 ܝܗ
 ܒܬܲܡܘܼܙ
 July
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܢܘܼܪܵܐ
 ܒܕܵܝܸܡܘܼܬܵܐ
 ܗܵܘܹܐ
@@ -70513,7 +70513,7 @@ July
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܡܲܕܒܚܘܼܟ݂
 ܕܨܠܘܿܬܵܐ
 ܠܚܘܿܕܵܝܬܵܐ
@@ -70828,13 +70828,13 @@ July
 .
 </section>
 <section no="199">
-<section-title>
+<section_title>
 ܝܘ
 ܒܬܲܡܘܼܙ
 July
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܟܹܐ
 ܓ̰ܲܡܸܥ
 ܗ݇ܘܵܘ
@@ -70849,7 +70849,7 @@ July
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܡܚܝܼ
 ܚܲܝܠܵܐ
 ܠܸܩܢܵܝܵܐ
@@ -71192,13 +71192,13 @@ July
 .
 </section>
 <section no="200">
-<section-title>
+<section_title>
 ܝܙ
 ܒܬܲܡܘܼܙ
 July
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܒܝܼܕܵܥܵܐ
 ܝܘܲܚ
@@ -71217,7 +71217,7 @@ July
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܐ݇ܢܵܫܹ̈ܐ
 ܟܹܐ
@@ -71547,13 +71547,13 @@ July
 .
 </section>
 <section no="201">
-<section-title>
+<section_title>
 ܝܚ
 ܒܬܲܡܘܼܙ
 July
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܐ݇ܚܵܪܵܝܬܵܐ
 ܟܵܘܟ̰ܝܼ
 <g/>
@@ -71566,7 +71566,7 @@ July
 <g/>
 :
 31
-</verse-quote>
+</verse_quote>
 ܥܲܣܟܵܪ̈ܵܘܵܬܹܐ
 ܕܝܼܣܪܵܝܹܠ
 ܟܲܕ
@@ -71916,13 +71916,13 @@ July
 .
 </section>
 <section no="202">
-<section-title>
+<section_title>
 ܝܛ
 ܒܬܲܡܘܼܙ
 July
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܲܡ
 ܡܲܚܙܹܐ
 ܠܲܢ
@@ -71937,7 +71937,7 @@ July
 <g/>
 :
 24
-</verse-quote>
+</verse_quote>
 ܢܝܼܲܬ
 ܓܘܼܪܬܵܐ
 ܕܐܲܠܵܗܵܐ
@@ -72278,13 +72278,13 @@ July
 .
 </section>
 <section no="203">
-<section-title>
+<section_title>
 ܟܟ
 ܒܬܲܡܘܼܙ
 July
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܸܪܵܘ
 ܕܡܝܼܪܲܬܓܵܪܘܼܬܲܢ
 <g/>
@@ -72294,7 +72294,7 @@ July
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܐܵܗ
 <g/>
 !
@@ -72619,13 +72619,13 @@ July
 .
 </section>
 <section no="204">
-<section-title>
+<section_title>
 ܟܐ
 ܒܬܲܡܘܼܙ
 July
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܵܬ݇ܪܘܼܟ݂
 ܪܹܫܵܐ
 ܡܘܼܫܥܸܫ
@@ -72639,7 +72639,7 @@ July
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܒܢܲܝ̈
 ܡܕܝܼܢ݇ܬܵܐ
 ܕܨܸܗܝܘܿܢ
@@ -72925,13 +72925,13 @@ July
 “
 </section>
 <section no="205">
-<section-title>
+<section_title>
 ܟܒ
 ܒܬܲܡܘܼܙ
 July
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܸܬ
 ܛܵܠܒܹܢܵܟ݂ܝ
 ܩܵܬܝܼ
@@ -72943,7 +72943,7 @@ July
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܝܼܫܘܿܥ
 ܡܫܝܼܚܵܐ
 ܙܘܼܘܸܓܵܐ
@@ -73244,13 +73244,13 @@ July
 .
 </section>
 <section no="206">
-<section-title>
+<section_title>
 ܟܓ
 ܒܬܲܡܘܼܙ
 July
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܘܼܦ
 ܐܲܢ݇ܬ
 ܐܲܝܟ݂
@@ -73263,7 +73263,7 @@ July
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܐܲܕܘܿܡ
 ܕܲܝܢܵܢܵܐ
 ܝܗ݇ܘܵܐ
@@ -73650,13 +73650,13 @@ July
 .
 </section>
 <section no="207">
-<section-title>
+<section_title>
 ܟܕ
 ܒܬܲܡܘܼܙ
 July
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠܹܝܡܘܼܢ
 ܘܚܙܹܝܡܘܼܢ
 ܦܘܼܪܩܵܢܵܐ
@@ -73668,7 +73668,7 @@ July
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܝܠܹܗ
 ܦܘܼܩܕܵܢܵܐ
@@ -74030,13 +74030,13 @@ July
 “
 </section>
 <section no="208">
-<section-title>
+<section_title>
 ܟܗ
 ܒܬܲܡܘܼܙ
 July
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܫܒ݂ܝܼܩ
 ܠܹܗ
 ܓ̰ܘܼܠܹܗ
@@ -74057,7 +74057,7 @@ July
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܒܦܠܵܫܵܐ
 ܕܥܲܡ
 ܚܲܕ݇ܟܡܵܐ
@@ -74350,13 +74350,13 @@ July
 .
 </section>
 <section no="209">
-<section-title>
+<section_title>
 ܟܘ
 ܒܬܲܡܘܼܙ
 July
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܲܕ
 ܟܠܵܗ̇
 ܡܲܣܲܡܬܵܐ
@@ -74409,7 +74409,7 @@ July
 <g/>
 -
 6
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܒܵܥܹܝܬ
 ܩܲܒܠܸܬ
@@ -74733,13 +74733,13 @@ July
 “
 </section>
 <section no="210">
-<section-title>
+<section_title>
 ܟܙ
 ܒܬܲܡܘܼܙ
 July
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܵܘܠܹ̈ܐ
 ܓܘܼܪܹ̈ܐ
 ܡܵܪܹ̈ܐ
@@ -74752,7 +74752,7 @@ July
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܒܵܥܹܝܬ
 ܪܵܥܫܹܬ
@@ -75070,13 +75070,13 @@ July
 .
 </section>
 <section no="211">
-<section-title>
+<section_title>
 ܟܚ
 ܒܬܲܡܘܼܙ
 July
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐܵܢܵܐ
 ܐܲܗܡܲܩ
 ܝܼܘܸܢ
@@ -75098,7 +75098,7 @@ July
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܕܟ݂ܘܿܪ
 ܕܐܵܗܵܐ
 ܝܠܵܗ̇
@@ -75360,13 +75360,13 @@ July
 “
 </section>
 <section no="212">
-<section-title>
+<section_title>
 ܟܛ
 ܒܬܲܡܘܼܙ
 July
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐܵܢܵܐ
 ܒܕܵܝܸܡܘܼܬܵܐ
 ܥܲܡܘܼܟ݂
@@ -75378,7 +75378,7 @@ July
 <g/>
 :
 23
-</verse-quote>
+</verse_quote>
 ܐܵܦܸܢ
 ܕܵܘܝܼܕ
 ܡܲܠܟܵܐ
@@ -75693,13 +75693,13 @@ July
 “
 </section>
 <section no="213">
-<section-title>
+<section_title>
 ܠ
 ܒܬܲܡܘܼܙ
 July
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܕܟ݂ܝܼܪܹܗ
 ܫܸܡܥܘܿܢ
 <g/>
@@ -75718,7 +75718,7 @@ July
 <g/>
 :
 72
-</verse-quote>
+</verse_quote>
 ܚܲܕ݇ܟܡܵܐ
 ܟܹܐ
 ܚܵܫܒ݂ܝܼ
@@ -76029,13 +76029,13 @@ July
 .
 </section>
 <section no="214">
-<section-title>
+<section_title>
 ܠܐ
 ܒܬܲܡܘܼܙ
 July
 31
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐܵܢܵܐ
 ܒܝܼܲܝܗܝ
 <g/>
@@ -76045,7 +76045,7 @@ July
 <g/>
 :
 23
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܗܲܕܟ݂ܵܐ
 ܝܠܹܗ
@@ -76359,7 +76359,7 @@ July
 .
 </section>
 <section no="215">
-<section-title>
+<section_title>
 ܐ
 ܒܐܵܒ
 <g/>
@@ -76369,8 +76369,8 @@ July
 )
 August
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܙܵܠ݇ܢ
 ܦܲܪܦܘܼܠܹܐ
 ܝܘܵܢ
@@ -76388,7 +76388,7 @@ August
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 ܦܫܝܼܡܵܐ
 ܘܡܘܼܠܝܸܨܵܐ
@@ -76760,7 +76760,7 @@ August
 .
 </section>
 <section no="216">
-<section-title>
+<section_title>
 ܒ
 ܒܐܵܒ
 <g/>
@@ -76770,8 +76770,8 @@ August
 )
 August
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܪܫܵܡܬܵܐ
 ܕܗ̇ܘ
 ܟܠ
@@ -76788,7 +76788,7 @@ August
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܗܲܝܡܵܢܘܼܬܵܐ
 ܒܥܵܩܸܠܕܵܪܘܼܬܵܐ
 ܕܐܲܠܵܗܵܐ
@@ -77108,7 +77108,7 @@ August
 .
 </section>
 <section no="217">
-<section-title>
+<section_title>
 ܓ
 ܒܐܵܒ
 <g/>
@@ -77118,8 +77118,8 @@ August
 )
 August
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܫܪܵܓ݂݇ܝܘܼܗ̇
 ܗ̇ܘ
 ܦܹܐܪܵܐ
@@ -77131,7 +77131,7 @@ August
 <g/>
 :
 23
-</verse-quote>
+</verse_quote>
 ܬܲܚܡܸܢ
 ܒܫܸܠܝܘܼܬܵܐ
 ܥܲܠ
@@ -77492,7 +77492,7 @@ August
 .
 </section>
 <section no="218">
-<section-title>
+<section_title>
 ܕ
 ܒܐܵܒ
 <g/>
@@ -77502,8 +77502,8 @@ August
 )
 August
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܛܵܝܸܦܵܐ
 ܝܵܕܥܵܢܵܐ
 ܕܐܲܠܵܗܹܗ
@@ -77518,7 +77518,7 @@ August
 <g/>
 :
 32
-</verse-quote>
+</verse_quote>
 ܟܠ
 ܗܲܡܸܢܵܢܵܐ
 ܟܹܐ
@@ -77832,7 +77832,7 @@ August
 !
 </section>
 <section no="219">
-<section-title>
+<section_title>
 ܗ
 ܒܐܵܒ
 <g/>
@@ -77842,8 +77842,8 @@ August
 )
 August
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܝܼܕܵܥܵܐ
 ܝܘܲܚ
 <g/>
@@ -77866,7 +77866,7 @@ August
 <g/>
 :
 28
-</verse-quote>
+</verse_quote>
 ܒܘܼܬ
 ܚܲܕ݇ܟܡܵܐ
 ܩܸܨܲܬܹ̈ܐ
@@ -78229,7 +78229,7 @@ August
 “
 </section>
 <section no="220">
-<section-title>
+<section_title>
 ܘ
 ܒܐܵܒ
 <g/>
@@ -78239,8 +78239,8 @@ August
 )
 August
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܢܵܛܪܵܢܵܐ
 <g/>
 ،
@@ -78254,7 +78254,7 @@ August
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܡܘܿܕܝܼ
 ܕܸܫܡܸܢܹ̈ܐ
 ܐܝܼܬ
@@ -78539,7 +78539,7 @@ August
 ؟
 </section>
 <section no="221">
-<section-title>
+<section_title>
 ܙ
 ܒܐܵܒ
 <g/>
@@ -78549,8 +78549,8 @@ August
 )
 August
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܬܪ̈ܘܼܨܹܐ
 ܟܹܐ
 ܡܲܚܸܒܝܼ
@@ -78563,7 +78563,7 @@ August
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܗܲܡܸܢܵܢܹ̈ܐ
 ܟܹܐ
 ܡܲܚܸܒܝܼ
@@ -78909,7 +78909,7 @@ August
 !
 </section>
 <section no="222">
-<section-title>
+<section_title>
 ܚ
 ܒܐܵܒ
 <g/>
@@ -78919,8 +78919,8 @@ August
 )
 August
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܲܪܕܵܐ
 ܕܥܵܙܠܲܬ݇
 ܟܘܼܫܹ̈ܐ
@@ -78933,7 +78933,7 @@ August
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܚܘܼܪ
 ܒܓܲܪܕܵܐ
 ܕܥܵܙܠܲܬ݇
@@ -79269,7 +79269,7 @@ August
 .
 </section>
 <section no="223">
-<section-title>
+<section_title>
 ܛ
 ܒܐܵܒ
 <g/>
@@ -79279,8 +79279,8 @@ August
 )
 August
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܗ̇ܝ
 ܡܕܝܼܢ݇ܬܵܐ
 ܠܲܝܬ
@@ -79304,7 +79304,7 @@ August
 <g/>
 :
 23
-</verse-quote>
+</verse_quote>
 ܬܵܡܵܐ
 <g/>
 ،
@@ -79623,7 +79623,7 @@ August
 .
 </section>
 <section no="224">
-<section-title>
+<section_title>
 ܝ
 ܒܐܵܒ
 <g/>
@@ -79633,8 +79633,8 @@ August
 )
 August
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܫܝܼܚܵܐ
 <g/>
 .
@@ -79652,7 +79652,7 @@ August
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܚܲܒܪܵܐ
 ܪܵܒܵܐ
@@ -79987,7 +79987,7 @@ August
 .
 </section>
 <section no="225">
-<section-title>
+<section_title>
 ܝܐ
 ܒܐܵܒ
 <g/>
@@ -79997,8 +79997,8 @@ August
 )
 August
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܬܲܟܠܵܐ
 ܕܗܵܘܹܝܢ
 ܗ݇ܘܵܐ
@@ -80012,7 +80012,7 @@ August
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܟܪ̈ܝܼܣܛܝܵܢܹܐ
 ܟܹܐ
@@ -80324,7 +80324,7 @@ August
 .
 </section>
 <section no="226">
-<section-title>
+<section_title>
 ܝܒ
 ܒܐܵܒ
 <g/>
@@ -80334,8 +80334,8 @@ August
 )
 August
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܵܪܝܵܐ
 ܒܸܥܒ݂ܵܕܵܐ
 ܝܠܹܗ
@@ -80351,7 +80351,7 @@ August
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܠܲܝܬ
 ܣܵܒܵܒܹ̈ܐ
 ܩܵܐ
@@ -80602,7 +80602,7 @@ August
 “
 </section>
 <section no="227">
-<section-title>
+<section_title>
 ܝܓ
 ܒܐܵܒ
 <g/>
@@ -80612,8 +80612,8 @@ August
 )
 August
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܪ̈ܙܹܐ
 ܕܠܸܒ݂ܢܵܢ
 ܕܢܨܝܼܒ݂
@@ -80625,7 +80625,7 @@ August
 <g/>
 :
 16
-</verse-quote>
+</verse_quote>
 ܐܲܪ̈ܙܹܐ
 ܕܠܸܒ݂ܢܵܢ
 ܛܘܼܦ̮ܣܵܐ
@@ -80930,7 +80930,7 @@ August
 .
 </section>
 <section no="228">
-<section-title>
+<section_title>
 ܝܕ
 ܒܐܵܒ
 <g/>
@@ -80940,8 +80940,8 @@ August
 )
 August
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܩܲܡ
 ܡܲܚܕܹܝܬ
@@ -80960,7 +80960,7 @@ August
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܗܲܡܘܼܢܹܐ
 ܝܘܸܬ
 ܕܚܛܝܼܵܬܘܼ̈ܟ݂
@@ -81320,7 +81320,7 @@ August
 .
 </section>
 <section no="229">
-<section-title>
+<section_title>
 ܝܗ
 ܒܐܵܒ
 <g/>
@@ -81330,8 +81330,8 @@ August
 )
 August
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܦܠܝܼܛ
 ܠܹܗ
 ܐܝܼܣܚܵܩ
@@ -81346,7 +81346,7 @@ August
 <g/>
 :
 63
-</verse-quote>
+</verse_quote>
 ܚܫܝܼܚܵܐ
 ܝܗ݇ܘܵܐ
 ܠܚܸܩܪܵܐ
@@ -81671,7 +81671,7 @@ August
 .
 </section>
 <section no="230">
-<section-title>
+<section_title>
 ܝܘ
 ܒܐܵܒ
 <g/>
@@ -81681,8 +81681,8 @@ August
 )
 August
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܲܒ݂݇ܠܘܼܢ
 ܠܡܵܪܝܵܐ
 ܐܝܼܩܵܪܵܐ
@@ -81694,7 +81694,7 @@ August
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܐܝܼܩܵܪܵܐ
 ܕܡܵܪܝܵܐ
 ܒܸܩܝܵܡܵܐ
@@ -82024,7 +82024,7 @@ August
 “
 </section>
 <section no="231">
-<section-title>
+<section_title>
 ܝܙ
 ܒܐܵܒ
 <g/>
@@ -82034,8 +82034,8 @@ August
 )
 August
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܫܵܦܵܩܲܬ
 ܕܐܲܠܵܗܵܐ
 <g/>
@@ -82045,7 +82045,7 @@ August
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܬܲܚܡܸܢ
 ܚܲܕ݇ܟ̰ܵܐ
 ܥܲܠ
@@ -82401,7 +82401,7 @@ August
 .
 </section>
 <section no="232">
-<section-title>
+<section_title>
 ܝܚ
 ܒܐܵܒ
 <g/>
@@ -82411,8 +82411,8 @@ August
 )
 August
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܒ݂ܘܿܪܘܼܢ
 ܢܘܼܟ݂ܪ̈ܵܝܹܐ
 ܠܡܲܩܕܫܵܐ
@@ -82425,7 +82425,7 @@ August
 <g/>
 :
 51
-</verse-quote>
+</verse_quote>
 ܒܘܼܬ
 ܐܵܗܵܐ
 ܗܲܓ̰ܲܬ
@@ -82725,7 +82725,7 @@ August
 “
 </section>
 <section no="233">
-<section-title>
+<section_title>
 ܝܛ
 ܒܐܵܒ
 <g/>
@@ -82735,8 +82735,8 @@ August
 )
 August
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܸܬ
 ܟܵܠܹܐ
 ܘܒܸܬ
@@ -82750,7 +82750,7 @@ August
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܗܵܟܲܡܬܵܐ
 ܕܡܫܝܼܚܵܐ
 ܓܵܘ
@@ -83029,7 +83029,7 @@ August
 .
 </section>
 <section no="234">
-<section-title>
+<section_title>
 ܟܟ
 ܒܐܵܒ
 <g/>
@@ -83039,8 +83039,8 @@ August
 )
 August
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܲܣܝܼܡܵܐ
 ܕܙܡܵܪ̈ܝܵܬܹܐ
 ܕܝܼܣܪܵܝܹܠ
@@ -83052,7 +83052,7 @@ August
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܡ̣ܢ
 ܟܠܲܝܗܝ
 ܩܲܕܝܼܫܹ̈ܐ
@@ -83372,7 +83372,7 @@ August
 .
 </section>
 <section no="235">
-<section-title>
+<section_title>
 ܟܐ
 ܒܐܵܒ
 <g/>
@@ -83382,8 +83382,8 @@ August
 )
 August
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܡܲܫܬܝܼܵܢܵܐ
 <g/>
 ،
@@ -83399,7 +83399,7 @@ August
 <g/>
 :
 25
-</verse-quote>
+</verse_quote>
 ܠܐܲܟ݂ܵܐ
 ܗ̇ܝ
 ܕܲܪܣ
@@ -83714,7 +83714,7 @@ August
 .
 </section>
 <section no="236">
-<section-title>
+<section_title>
 ܟܒ
 ܒܐܵܒ
 <g/>
@@ -83724,8 +83724,8 @@ August
 )
 August
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܘܼܡܹܐ
 ܠܝܼ
 ܐܸܠܵܘܟ݂ܘܿܢ
@@ -83757,7 +83757,7 @@ August
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܐܲܢܹܐ
 ܝܢܵܐ
 ܚܲܒܪܹ̈ܐ
@@ -84074,7 +84074,7 @@ August
 !
 </section>
 <section no="237">
-<section-title>
+<section_title>
 ܟܓ
 ܒܐܵܒ
 <g/>
@@ -84084,8 +84084,8 @@ August
 )
 August
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܵܐ
 ܦܵܐܹܫ
 ܫܡܝܼܥܵܐ
@@ -84100,7 +84100,7 @@ August
 <g/>
 :
 19
-</verse-quote>
+</verse_quote>
 ܚܩܝܼܪܹ̈ܐ
 ܐ݇ܚܹܪ݇ܢܵܐ
 ܠܹܐ
@@ -84444,7 +84444,7 @@ August
 “
 </section>
 <section no="238">
-<section-title>
+<section_title>
 ܟܕ
 ܒܐܵܒ
 <g/>
@@ -84454,8 +84454,8 @@ August
 )
 August
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐ݇ܣܝܼܩ
 ܠܹܗ
 ܬܵܪܥܵܢܵܐ
@@ -84467,7 +84467,7 @@ August
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܟ̰ܘܼܢܟܹܐ
 ܕܡܫܝܼܚܵܐ
 ܬܪܝܼܥܘܼܗ̇
@@ -84760,7 +84760,7 @@ August
 “
 </section>
 <section no="239">
-<section-title>
+<section_title>
 ܟܗ
 ܒܐܵܒ
 <g/>
@@ -84770,8 +84770,8 @@ August
 )
 August
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܛܥܘܼܢܬܹܗ
 ܚܠܝܼܬܵܐ
 ܝܠܵܗ̇
@@ -84784,7 +84784,7 @@ August
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܗܲܝܡܵܢܘܼܬܵܐ
 <g/>
 ،
@@ -85161,7 +85161,7 @@ August
 .
 </section>
 <section no="240">
-<section-title>
+<section_title>
 ܟܘ
 ܒܐܵܒ
 <g/>
@@ -85171,8 +85171,8 @@ August
 )
 August
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܦܩܝܼܕ
 ܠܹܗ
 ܠܥܵܠܲܡ
@@ -85184,7 +85184,7 @@ August
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܛܵܝܸܦܵܐ
 ܕܡܵܪܝܵܐ
 ܐܝܼܬ
@@ -85494,7 +85494,7 @@ August
 .
 </section>
 <section no="241">
-<section-title>
+<section_title>
 ܟܙ
 ܒܐܵܒ
 <g/>
@@ -85504,8 +85504,8 @@ August
 )
 August
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܲܠ
 ܐܝܼܡܲܢ
 ܠܹܐ
@@ -85518,7 +85518,7 @@ August
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܡܚܹܝܡܘܼܢ
 ܚܲܝܠܵܐ
 ܒܟܠܵܗ̇
@@ -85864,7 +85864,7 @@ August
 .
 </section>
 <section no="242">
-<section-title>
+<section_title>
 ܟܚ
 ܒܐܵܒ
 <g/>
@@ -85874,8 +85874,8 @@ August
 )
 August
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܸܫܚܵܐ
 ܩܵܐ
 ܩܲܢܕܝܼܠܵܐ
@@ -85886,7 +85886,7 @@ August
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܓܵܢܝܼ
 <g/>
 ،
@@ -86236,7 +86236,7 @@ August
 .
 </section>
 <section no="243">
-<section-title>
+<section_title>
 ܟܛ
 ܒܐܵܒ
 <g/>
@@ -86246,8 +86246,8 @@ August
 )
 August
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܪܲܚܸܡ
 ܥܲܠܝܼ
 <g/>
@@ -86261,7 +86261,7 @@ August
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܕܲܟܬܘܿܪ
 ܟܵܝܪܹܐ
 ܐܝܼܡܲܢ
@@ -86572,7 +86572,7 @@ August
 .
 </section>
 <section no="244">
-<section-title>
+<section_title>
 ܠ
 ܒܐܵܒ
 <g/>
@@ -86582,8 +86582,8 @@ August
 )
 August
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܒܘܿܪ
 ܒܡܵܪܝܵܐ
 <g/>
@@ -86593,7 +86593,7 @@ August
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܟܹܐ
 ܡܲܒܝܸܢ
 ܚܲܕ
@@ -86926,7 +86926,7 @@ August
 “
 </section>
 <section no="245">
-<section-title>
+<section_title>
 ܠܐ
 ܒܐܵܒ
 <g/>
@@ -86936,8 +86936,8 @@ August
 )
 August
 31
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܠܕܪܲܥܢܝܼ
 ܒܸܬ
 ܦܵܝܫܝܼ
@@ -86949,7 +86949,7 @@ August
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܒܙܲܒ݂ܢܹ̈ܐ
 ܕܓ̰ܘܼܪܵܒܵܐ
 ܩܸܫܝܵܐ
@@ -87260,13 +87260,13 @@ August
 .
 </section>
 <section no="246">
-<section-title>
+<section_title>
 ܐ
 ܒܐܝܼܠܘܼܠ
 September
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܪܵܐܝܘܼܟ݂
 ܒܸܬ
 ܬܲܓܒܸܪܸܬ
@@ -87285,7 +87285,7 @@ September
 <g/>
 :
 24
-</verse-quote>
+</verse_quote>
 ܫܵܥܝܼܪ
 ܩܲܕܝܼܫܵܐ
 ܪܥܝܼܫܵܐ
@@ -87583,13 +87583,13 @@ September
 .
 </section>
 <section no="247">
-<section-title>
+<section_title>
 ܒ
 ܒܐܝܼܠܘܼܠ
 September
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܚܡܵܬܹܗ
 ܕܫܸܡܥܘܿܢ
 ܢܦܝܼܠܬܵܐ
@@ -87609,7 +87609,7 @@ September
 <g/>
 :
 30
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܒܲܣܝܼܡܵܐ
 ܝܠܹܗ
@@ -87917,13 +87917,13 @@ September
 .
 </section>
 <section no="248">
-<section-title>
+<section_title>
 ܓ
 ܒܐܝܼܠܘܼܠ
 September
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܟܹܐ
 ܡܲܚܸܒ
 ܓܵܢܝܼ
@@ -87935,7 +87935,7 @@ September
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܨܦܵܝܝܼ
 ܝܠܵܗ̇
 ܕܡܵܨܲܚ
@@ -88309,13 +88309,13 @@ September
 !
 </section>
 <section no="249">
-<section-title>
+<section_title>
 ܕ
 ܒܐܝܼܠܘܼܠ
 September
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܣܵܡܝܼ
 ܝܠܵܗ̇
 <g/>
@@ -88329,7 +88329,7 @@ September
 <g/>
 :
 41
-</verse-quote>
+</verse_quote>
 ܚܸܫܟܵܐ
 ܡ̣ܢ
 ܒܪܵܫܝܼܬ
@@ -88694,13 +88694,13 @@ September
 .
 </section>
 <section no="250">
-<section-title>
+<section_title>
 ܗ
 ܒܐܝܼܠܘܼܠ
 September
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܫ̰ܵܪܹܐ
 ܐܸܠܝܼ
 ܕܥܡܝܼܪܝܼ
@@ -88720,7 +88720,7 @@ September
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܐܲܝܟ݂
 ܚܲܕ
 ܟܪܝܼܣܛܝܵܢܵܐ
@@ -89069,13 +89069,13 @@ September
 .
 </section>
 <section no="251">
-<section-title>
+<section_title>
 ܘ
 ܒܐܝܼܠܘܼܠ
 September
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܵܘܵܐ
 ܕܕܵܘܪܵܐ
 ܥܲܣܩܵܐ
@@ -89095,7 +89095,7 @@ September
 <g/>
 :
 15
-</verse-quote>
+</verse_quote>
 ܒܲܗܪܵܐ
 ܟܹܐ
 ܡܲܦܠܸܚܲܚ
@@ -89402,13 +89402,13 @@ September
 “
 </section>
 <section no="252">
-<section-title>
+<section_title>
 ܙ
 ܒܐܝܼܠܘܼܠ
 September
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܕܠܵܐ
 ܡܨܹܐ
 ܠܗܘܿܢ
@@ -89445,7 +89445,7 @@ September
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܗܲܝܡܵܢܘܼܬܵܐ
 ܟܹܐ
 ܦܵܠܛܵܐ
@@ -89715,13 +89715,13 @@ September
 .
 </section>
 <section no="253">
-<section-title>
+<section_title>
 ܚ
 ܒܐܝܼܠܘܼܠ
 September
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܸܢܝܼ
 ܛܥܘܼܢܬܘܼܟ݂
 ܦܝܼܫ
@@ -89734,7 +89734,7 @@ September
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܛܥܘܼܢܬܵܐ
 ܕܝܼܲܢ
 ܦܝܵܫܵܐ
@@ -90038,13 +90038,13 @@ September
 .
 </section>
 <section no="254">
-<section-title>
+<section_title>
 ܛ
 ܒܐܝܼܠܘܼܠ
 September
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܸܬ
 ܓ̰ܲܘܸܒܸܢܘܼܟ݂
 <g/>
@@ -90068,7 +90068,7 @@ September
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܚܲܒܪܵܐ
 ܦܝܼܫܵܐ
@@ -90400,13 +90400,13 @@ September
 .
 </section>
 <section no="255">
-<section-title>
+<section_title>
 ܝ
 ܒܐܝܼܠܘܼܠ
 September
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܣܝܼܩ
 ܠܹܗ
 ܠܛܘܼܪܵܐ
@@ -90431,7 +90431,7 @@ September
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܓܵܢܵܬܹ̈ܐ
 ܒܹܐ
@@ -90739,13 +90739,13 @@ September
 .
 </section>
 <section no="256">
-<section-title>
+<section_title>
 ܝܐ
 ܒܐܝܼܠܘܼܠ
 September
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܦܘܼܫܘܼܢ
 ܦܪܝܼܫܹܐ
 ܡܸܢܲܝܗܝ
@@ -90757,7 +90757,7 @@ September
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 ܟܲܕ
 ܓܵܘ
@@ -91099,13 +91099,13 @@ September
 .
 </section>
 <section no="257">
-<section-title>
+<section_title>
 ܝܒ
 ܒܐܝܼܠܘܼܠ
 September
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܠܵܗܵܐ
 ܩܲܝܪܲܬܟܲܫ
 ܝܼܠܹܗ
@@ -91116,7 +91116,7 @@ September
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܐܲܠܵܗܵܐ
 ܪܵܒܵܐ
 ܩܲܝܪܲܬܟܲܫ
@@ -91433,13 +91433,13 @@ September
 !
 </section>
 <section no="258">
-<section-title>
+<section_title>
 ܝܓ
 ܒܐܝܼܠܘܼܠ
 September
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܵܒ݂ܪ̈ܵܢܹܐ
 ܒܥܘܼܡܩܵܐ
 ܕܒܟ݂ܵܬܵܐ
@@ -91463,7 +91463,7 @@ September
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܡ̣ܢ
 ܐܵܗܵܐ
 ܒܸܠܝܵܦܵܐ
@@ -91832,13 +91832,13 @@ September
 !
 </section>
 <section no="259">
-<section-title>
+<section_title>
 ܝܕ
 ܒܐܝܼܠܘܼܠ
 September
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܚܹܪ̈݇ܢܹܐ
 ܓܵܡܝܼܹ̈ܐ
 ܙܥܘܿܪܹ̈ܐ
@@ -91852,7 +91852,7 @@ September
 <g/>
 :
 36
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 ܝܗ݇ܘܵܐ
 ܣܘܼܠܬܵܢ
@@ -92202,13 +92202,13 @@ September
 .
 </section>
 <section no="260">
-<section-title>
+<section_title>
 ܝܗ
 ܒܐܝܼܠܘܼܠ
 September
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡ̣ܢ
 ܒܵܗ݇ܣ
 ܒܝܼܫܬܵܐ
@@ -92221,7 +92221,7 @@ September
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܟܪܝܼܣܛܝܵܢܵܐ
 <g/>
 ،
@@ -92521,13 +92521,13 @@ September
 “
 </section>
 <section no="261">
-<section-title>
+<section_title>
 ܝܘ
 ܒܐܝܼܠܘܼܠ
 September
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܫܲܪ̈ܝܼܟܹܐ
 ܕܐܲܨܠܵܐ
 ܐܲܠܵܗܵܝܵܐ
@@ -92539,7 +92539,7 @@ September
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܠܸܗܘܵܝܵܐ
 ܫܲܪ̈ܝܼܟܹܐ
 ܒܐܲܨܠܵܐ
@@ -92857,13 +92857,13 @@ September
 .
 </section>
 <section no="262">
-<section-title>
+<section_title>
 ܝܙ
 ܒܐܝܼܠܘܼܠ
 September
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܝܬܹܝܡܘܼܢ
 ܠܟܸܣ
 ܠܝܼ
@@ -92874,7 +92874,7 @@ September
 <g/>
 :
 19
-</verse-quote>
+</verse_quote>
 ܒܩܛܵܥܬܵܐ
 ܕܗܹܒ݂ܝܼ
 ܗ̇ܘ
@@ -93217,13 +93217,13 @@ September
 .
 </section>
 <section no="263">
-<section-title>
+<section_title>
 ܝܚ
 ܒܐܝܼܠܘܼܠ
 September
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܸܢ
 ܚܵܝܲܚ
 ܒܪܘܼܚܵܐ
@@ -93241,7 +93241,7 @@ September
 <g/>
 :
 25
-</verse-quote>
+</verse_quote>
 ܬܪܹܝ
 ܡܸܢܕܝܼܵܢܹ̈ܐ
 ܪܹ̈ܫܵܝܹܐ
@@ -93588,13 +93588,13 @@ September
 .
 </section>
 <section no="264">
-<section-title>
+<section_title>
 ܝܛ
 ܒܐܝܼܠܘܼܠ
 September
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܗ̇ܝ
 ܐܵܙܵܕܘܼܬܵܐ
 ܕܡܫܝܼܚܵܐ
@@ -93611,7 +93611,7 @@ September
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 <g/>
 ”
@@ -93962,13 +93962,13 @@ September
 !
 </section>
 <section no="265">
-<section-title>
+<section_title>
 ܟܟ
 ܒܐܝܼܠܘܼܠ
 September
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܲܝܦܵܐ
 ܕܐܲܠܵܗܵܐ
 ܘܕܓܸܕܥܘܿܢ
@@ -93979,7 +93979,7 @@ September
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܓܸܕܥܘܿܢ
 ܦܘܼܩܕܲܝ
 ܠܹܗ
@@ -94294,13 +94294,13 @@ September
 .
 </section>
 <section no="266">
-<section-title>
+<section_title>
 ܟܐ
 ܒܐܝܼܠܘܼܠ
 September
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܸܬ
 ܚܵܕܹܝܢ
 ܥܲܠܲܝܗܝ
@@ -94314,7 +94314,7 @@ September
 <g/>
 :
 41
-</verse-quote>
+</verse_quote>
 ܚܲܕܘܼܬܵܐ
 ܕܐܲܠܵܗܵܐ
 ܒܩܲܕܝܼܫܘܼ̈ܗܝ
@@ -94662,13 +94662,13 @@ a
 “
 </section>
 <section no="267">
-<section-title>
+<section_title>
 ܟܒ
 ܒܐܝܼܠܘܼܠ
 September
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܵܕܹܐ
 ܝܼܣܪܵܝܹܠ
 ܒܒܵܪܝܵܢܹܗ
@@ -94679,7 +94679,7 @@ September
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܡܲܚܕܝܼ
 ܠܸܒܘܼܟ݂
 ܝܵܐ
@@ -95005,13 +95005,13 @@ September
 .
 </section>
 <section no="268">
-<section-title>
+<section_title>
 ܟܓ
 ܒܐܝܼܠܘܼܠ
 September
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܘܼܩܒܸܠ
 ܠܹܗ
 ܐܸܠܲܢ
@@ -95024,7 +95024,7 @@ September
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܡܘܿܕܝܼ
 ܛܵܒ݂ܬܵܐ
 ܓܘܼܪܬܵܐ
@@ -95390,13 +95390,13 @@ September
 .
 </section>
 <section no="269">
-<section-title>
+<section_title>
 ܟܕ
 ܒܐܝܼܠܘܼܠ
 September
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܢܟ݂ܝܼܦ
 ܠܝܼ
@@ -95443,7 +95443,7 @@ September
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܒܘܼܬ
 ܪܵܒܵܐ
 ܗܲܓ̰ܲܬܹ̈ܐ
@@ -95732,13 +95732,13 @@ September
 .
 </section>
 <section no="270">
-<section-title>
+<section_title>
 ܟܗ
 ܒܐܝܼܠܘܼܠ
 September
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗ̇ܘ
 ܕܗܵܘܹܐ
 ܟܹܐܢܵܐ
@@ -95756,7 +95756,7 @@ September
 <g/>
 :
 26
-</verse-quote>
+</verse_quote>
 ܟܲܕ
 ܦܝܼܫܹܐ
 ܝܘܲܚ
@@ -96119,13 +96119,13 @@ September
 .
 </section>
 <section no="271">
-<section-title>
+<section_title>
 ܟܘ
 ܒܐܝܼܠܘܼܠ
 September
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܣܹ̈ܐ
 ܕܝܼܗ݇ܘܵܘ
 ܒܥܘܼܡܩܵܐ
@@ -96136,7 +96136,7 @@ September
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܚܸܙܘܵܐ
 ܕܐܵܗܵܐ
 ܩܹܦܵܠܹܐܘܿܢ
@@ -96470,13 +96470,13 @@ September
 .
 </section>
 <section no="272">
-<section-title>
+<section_title>
 ܟܙ
 ܒܐܝܼܠܘܼܠ
 September
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܛܘܼܒ݂ܵܐ
 ܐܸܠܘܼܟ݂
 <g/>
@@ -96501,7 +96501,7 @@ September
 <g/>
 :
 29
-</verse-quote>
+</verse_quote>
 ܗ̇ܘ
 ܕܐܵܡܹܪ
 ܕܟܪܝܼܣܛܝܵܢܘܼܬܵܐ
@@ -96823,13 +96823,13 @@ September
 “
 </section>
 <section no="273">
-<section-title>
+<section_title>
 ܟܚ
 ܒܐܝܼܠܘܼܠ
 September
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡ̣ܢ
 ܫܡܲܝܵܐ
 ܚܝܼܪܹܗ
@@ -96847,7 +96847,7 @@ September
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܥܒ݂ܘܿܕ
 ܒܵܘܵܪ
 ܗܸܟ̃
@@ -97125,13 +97125,13 @@ September
 .
 </section>
 <section no="274">
-<section-title>
+<section_title>
 ܟܛ
 ܒܐܝܼܠܘܼܠ
 September
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܚܵܙܹܐ
 ܟܵܗܢܵܐ
 <g/>
@@ -97159,7 +97159,7 @@ September
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܩܵܢܘܿܢܵܐ
 ܡܲܒܝܘܼܢܹܐ
@@ -97504,13 +97504,13 @@ September
 “
 </section>
 <section no="275">
-<section-title>
+<section_title>
 ܠ
 ܒܐܝܼܠܘܼܠ
 September
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܙܡܘܿܪܘܼܢ
 ܐܝܼܩܵܪܵܐ
 ܕܫܸܡܹܗ
@@ -97526,7 +97526,7 @@ September
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܠܹܐ
 ܝܠܵܗ̇
 ܒܐܝܼܕܵܐ
@@ -97830,14 +97830,14 @@ September
 “
 </section>
 <section no="276">
-<section-title>
+<section_title>
 ܐ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܛܥܘܼܢܝܵܬܹ̈ܐ
 ܡܵܪܹ̈ܐ
 ܛܝܼܡܵܐ
@@ -97863,7 +97863,7 @@ October
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܛܠܝܼܒܬܵܐ
 ܕܡܫܝܼܚܵܐ
 ܟܹܐ
@@ -98223,14 +98223,14 @@ October
 !
 </section>
 <section no="277">
-<section-title>
+<section_title>
 ܒ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗ̇ܝ
 ܗܹܒ݂ܝܼ
 ܕܝܼܠܵܗ̇
@@ -98244,7 +98244,7 @@ October
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܗܹܒ݂ܝܼܲܢ
 ܕܒܡܫܝܼܚܵܐ
 ܩܵܐ
@@ -98568,14 +98568,14 @@ October
 .
 </section>
 <section no="278">
-<section-title>
+<section_title>
 ܓ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠܲܝܗܝ
 ܠܹܐ
 ܝܢܵܐ
@@ -98599,7 +98599,7 @@ October
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܡܲܠܲܐܟܹ̈ܐ
 ܝܢܵܐ
 ܚܸܠܡܲܬܟܵܪܹ̈ܐ
@@ -98876,14 +98876,14 @@ October
 .
 </section>
 <section no="279">
-<section-title>
+<section_title>
 ܕ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܙܲܒ݂ܢܵܐ
 ܕܪܲܡܫܵܐ
 ܒܸܬ
@@ -98896,7 +98896,7 @@ October
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܓܵܗܹ̈ܐ
 ܒܦܵܫܲܡܬܵܐ
@@ -99257,14 +99257,14 @@ October
 .
 </section>
 <section no="280">
-<section-title>
+<section_title>
 ܗ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܩܝܼܡ
 ܠܹܗ
 ܘܐ݇ܟ݂ܝܼܠ
@@ -99290,7 +99290,7 @@ October
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܟܠ
 ܚܲܝܠܵܐ
 ܕܐܲܠܵܗܵܐ
@@ -99603,14 +99603,14 @@ October
 .
 </section>
 <section no="281">
-<section-title>
+<section_title>
 ܘ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠ
 ܕܫܵܬܹܐ
 ܡ̣ܢ
@@ -99630,7 +99630,7 @@ October
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܗ̇ܘ
 ܕܝܼܠܹܗ
 ܗܲܡܸܢܵܢܵܐ
@@ -99975,14 +99975,14 @@ October
 .
 </section>
 <section no="282">
-<section-title>
+<section_title>
 ܙ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܵܡܘܿܕܝܼ
 ܥܒ݂ܝܼܕ
 ܠܘܼܟ݂
@@ -99995,7 +99995,7 @@ October
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܒܵܒܲܢ
 ܫܡܲܝܵܢܵܝܵܐ
 ܪܵܒܵܐ
@@ -100325,14 +100325,14 @@ October
 .
 </section>
 <section no="283">
-<section-title>
+<section_title>
 ܚ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܲܒܠܘܼܢ
 ܠܥܘܼܡܩܵܐ
 <g/>
@@ -100347,7 +100347,7 @@ October
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܡ̣ܢ
 ܐܵܗܵܐ
 ܗܲܩܝܲܬ
@@ -100714,14 +100714,14 @@ October
 .
 </section>
 <section no="284">
-<section-title>
+<section_title>
 ܛ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܵܨܹܐ
 ܕܢܵܛܹܪܵܘܟ݂ܘܿܢ
 ܕܠܵܐ
@@ -100730,7 +100730,7 @@ October
 .
 ܝܼܗܘܼܕܵܐ
 24
-</verse-quote>
+</verse_quote>
 ܒܚܲܕ
 ܡܲܥܢܵܝܵܐ
 <g/>
@@ -101103,14 +101103,14 @@ October
 “
 </section>
 <section no="285">
-<section-title>
+<section_title>
 ܝ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܩܸܡ
 ܠܵܘܟ݂ܘܿܢ
 ܩܵܕ݇ܡ
@@ -101122,7 +101122,7 @@ October
 .
 ܝܼܗܘܼܕܵܐ
 24
-</verse-quote>
+</verse_quote>
 ܬܲܚܡܸܢ
 ܚܲܕ݇ܟ̰ܵܐ
 ܥܲܠ
@@ -101463,14 +101463,14 @@ October
 !
 </section>
 <section no="286">
-<section-title>
+<section_title>
 ܝܐ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܪܡܲܚ
 ܠܸܒܲܢ
 ܠܐܝܼܕܵܬܹ̈ܐ
@@ -101485,7 +101485,7 @@ October
 <g/>
 :
 41
-</verse-quote>
+</verse_quote>
 ܨܲܠܵܝܬܵܐ
 ܕܨܠܘܿܬܵܐ
 ܟܹܐ
@@ -101791,14 +101791,14 @@ October
 !
 </section>
 <section no="287">
-<section-title>
+<section_title>
 ܝܒ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܦܘܼܩܕܵܢܘܼ̈ܟ݂
 ܗܘܼܓܹܐ
 ܠܝܼ
@@ -101809,7 +101809,7 @@ October
 <g/>
 :
 15
-</verse-quote>
+</verse_quote>
 ܐܝܼܬ
 ܙܲܒ݂ܢܹ̈ܐ
 ܕܫܬܵܩܬܵܐ
@@ -102110,14 +102110,14 @@ October
 “
 </section>
 <section no="288">
-<section-title>
+<section_title>
 ܝܓ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܲܫܵܐ
 ܕܒܘܼܬ
 ܐܲܠܵܗܵܐ
@@ -102133,7 +102133,7 @@ October
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܦܵܫܲܡܬܵܐ
 ܫܲܪܝܼܪܬܵܐ
 ܪܘܼܚܵܢܵܝܬܵܐ
@@ -102487,14 +102487,14 @@ October
 .
 </section>
 <section no="289">
-<section-title>
+<section_title>
 ܝܕ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܲܫܒܘܼܢܹܐ
 ܝܘܸܢ
 ܟܠܲܝܗܝ
@@ -102514,7 +102514,7 @@ October
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܝ݇ܕܲܥܬܵܐ
 ܠܡܫܝܼܚܵܐ
 ܪܘܼܚܵܢܵܐܝܼܬ
@@ -102836,14 +102836,14 @@ October
 .
 </section>
 <section no="290">
-<section-title>
+<section_title>
 ܝܗ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܡܵܢܝܼ
 ܟܹܐ
 ܚܵܡܹܠ
@@ -102856,7 +102856,7 @@ October
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܐ݇ܬܵܝܬܹܗ
 ܩܲܕ݇ܡܵܝܬܵܐ
 ܠܲܝܬ
@@ -103165,14 +103165,14 @@ October
 .
 </section>
 <section no="291">
-<section-title>
+<section_title>
 ܝܘ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܡܝܼܪܹܗ
 ܐܸܠܲܝܗܝ
 ܝܼܫܘܿܥ
@@ -103190,7 +103190,7 @@ October
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܐܲܢܹܐ
 ܚܲܒܪܹ̈ܐ
 ܒܸܟ̰ܝܵܕܵܐ
@@ -103544,14 +103544,14 @@ October
 .
 </section>
 <section no="292">
-<section-title>
+<section_title>
 ܝܙ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܡܝܼܪܹܗ
 ܕܵܘܝܼܕ
 ܒܠܸܒܹܗ
@@ -103572,7 +103572,7 @@ October
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܚܘܼܫܵܒ݂
 ܕܠܸܒܵܐ
@@ -103881,14 +103881,14 @@ October
 .
 </section>
 <section no="293">
-<section-title>
+<section_title>
 ܝܚ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܓ̰ܵܕܵܘܵܬܘܼ̈ܟ݂
 ܟܹܐ
 ܡܲܢܛܸܦܝܼ
@@ -103900,7 +103900,7 @@ October
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܝܢܵܐ
 <g/>
@@ -104249,14 +104249,14 @@ October
 .
 </section>
 <section no="294">
-<section-title>
+<section_title>
 ܝܛ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܝܲܠܘܼܕܹ̈ܐ
 ܒܡܫܝܼܚܵܐ
 <g/>
@@ -104267,7 +104267,7 @@ October
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܦܫܝܼܡܵܐ
 ܝܘܸܬ
 <g/>
@@ -104647,14 +104647,14 @@ October
 .
 </section>
 <section no="295">
-<section-title>
+<section_title>
 ܟܟ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܓܲܪܘܸܣܲܚ
 ܒܝܼܹܗ
 ܒܟܠ
@@ -104666,7 +104666,7 @@ October
 <g/>
 :
 15
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܟܪ̈ܝܼܣܛܝܵܢܹܐ
 ܟܹܐ
@@ -104988,14 +104988,14 @@ October
 .
 </section>
 <section no="296">
-<section-title>
+<section_title>
 ܟܐ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܘܼܒܹܗ
 ܕܡܫܝܼܚܵܐ
 ܡܲܠܝܘܼܨܲܢ
@@ -105008,7 +105008,7 @@ October
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܟܡܵܐ
 ܕܲܝܢܵܢܵܐ
 ܝܘܸܬ
@@ -105342,14 +105342,14 @@ October
 !
 </section>
 <section no="297">
-<section-title>
+<section_title>
 ܟܒ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܡܲܚܸܒܸܢܗܘܿܢ
 ܒܪܸܙܵܝܵܐ
@@ -105360,7 +105360,7 @@ October
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܗ̇ܘ
 ܕܦܲܪܡܹܐ
 ܠܡܲܥܢܵܝܵܐ
@@ -105747,14 +105747,14 @@ October
 .
 </section>
 <section no="298">
-<section-title>
+<section_title>
 ܟܓ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܘܼܦ
 ܐܲܚܬܘܿܢ
 ܒܸܒܥܵܝܵܐ
@@ -105767,7 +105767,7 @@ October
 <g/>
 :
 67
-</verse-quote>
+</verse_quote>
 ܪܵܒܵܐ
 ܐ݇ܢܵܫܹ̈ܐ
 ܫܒ݂ܝܼܩܹܐ
@@ -106125,14 +106125,14 @@ October
 “
 </section>
 <section no="299">
-<section-title>
+<section_title>
 ܟܕ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 <g/>
 (
 ܓܵܘ
@@ -106155,7 +106155,7 @@ October
 .
 <g/>
 )
-</verse-quote>
+</verse_quote>
 ܕܠܵܐ
 ܫܝܼܪܵܐ
 ܐܝܼܠܵܢܵܐ
@@ -106495,14 +106495,14 @@ October
 .
 </section>
 <section no="300">
-<section-title>
+<section_title>
 ܟܗ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܘܼܬ
 ܣܲܪܲܣܬܘܼܬܵܐ
 <g/>
@@ -106520,7 +106520,7 @@ October
 ܒ
 ܝܘܿܚܲܢܵܢ
 2
-</verse-quote>
+</verse_quote>
 ܗܲܪ
 ܚܕܵܐ
 ܓܵܗܵܐ
@@ -106834,14 +106834,14 @@ October
 .
 </section>
 <section no="301">
-<section-title>
+<section_title>
 ܟܘ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܲܫܘܼܩܹܐ
 ܠܒܘܼܫܵܝܘܼܬܵܐ
 <g/>
@@ -106890,7 +106890,7 @@ October
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܓܵܢܵܬܹ̈ܐ
 ܩܸܪܢܝܼܙ
 ܟܹܐ
@@ -107187,14 +107187,14 @@ October
 .
 </section>
 <section no="302">
-<section-title>
+<section_title>
 ܟܙ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܲܪܲܣܬ
 ܝܼܠܵܗ̇
 ܗܹܡܸܙܡܵܢ
@@ -107206,7 +107206,7 @@ October
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܦܵܘܠܘܿܣ
 ܐܲܪܒܲܥ
 ܓܵܗܹ̈ܐ
@@ -107566,14 +107566,14 @@ October
 .
 </section>
 <section no="303">
-<section-title>
+<section_title>
 ܟܚ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܢܵܐ
 ܩܲܡ
 ܓܲܒܹܝܢܵܘܟ݂ܘܿܢ
@@ -107586,7 +107586,7 @@ October
 <g/>
 :
 19
-</verse-quote>
+</verse_quote>
 ܕܘܼ
 ܝܠܵܗ̇
 ܠܐܲܟ݂ܵܐ
@@ -107883,14 +107883,14 @@ October
 .
 </section>
 <section no="304">
-<section-title>
+<section_title>
 ܟܛ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܲܣ
 ܗܲܕܟ݂ܵܐ
 ܨܲܠܹܝܡܘܼܢ
@@ -107909,7 +107909,7 @@ October
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܨܠܘܿܬܵܐ
 ܫܲܪܘܼܝܹܐ
@@ -108305,14 +108305,14 @@ October
 .
 </section>
 <section no="305">
-<section-title>
+<section_title>
 ܠ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܸܦܘܵܬܝܼ̈
 ܒܸܬ
 ܫܲܒܚܝܼ
@@ -108324,7 +108324,7 @@ October
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܡ̣ܢ
 ܒܵܬ݇ܪ
 ܓ̰ܘܼܘܵܒ
@@ -108643,14 +108643,14 @@ October
 .
 </section>
 <section no="306">
-<section-title>
+<section_title>
 ܠܐ
 ܒܬܸܫܪܝܼܢ
 ܩܲܕ݇ܡܵܝܵܐ
 October
 31
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܪܘܼܚܵܐ
 ܩܘܝܼܬܵܐ
 ܚܲܕܸܬ
@@ -108662,7 +108662,7 @@ October
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܚܲܕ
 ܩܵܠܒܵܢܵܐ
 <g/>
@@ -108985,14 +108985,14 @@ October
 “
 </section>
 <section no="307">
-<section-title>
+<section_title>
 ܐ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܠܥܹܕܬܵܐ
 ܕܓܵܘ
 ܒܲܝܬܘܼܟ݂
@@ -109000,7 +109000,7 @@ November
 .
 ܦܝܼܠܹܡܘܿܢ
 2
-</verse-quote>
+</verse_quote>
 ܐܝܼܬ
 ܚܕܵܐ
 ܥܹܕܬܵܐ
@@ -109359,14 +109359,14 @@ November
 .
 </section>
 <section no="308">
-<section-title>
+<section_title>
 ܒ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܢܵܐ
 ܝܘܸܢ
 ܡܵܪܝܵܐ
@@ -109382,7 +109382,7 @@ November
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܨܦܵܝܝܼ
 ܝܠܵܗ̇
 ܩܵܬܲܢ
@@ -109672,14 +109672,14 @@ November
 “
 </section>
 <section no="309">
-<section-title>
+<section_title>
 ܓ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܵܐ
 <g/>
 ،
@@ -109693,7 +109693,7 @@ November
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܨܠܵܘܵܬܹ̈ܐ
 <g/>
 ،
@@ -110015,14 +110015,14 @@ November
 “
 </section>
 <section no="310">
-<section-title>
+<section_title>
 ܕ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܚܲܝܠܝܼ
 ܒܙܲܒܘܼܢܘܼܬܵܐ
 ܦܝܵܫܵܐ
@@ -110036,7 +110036,7 @@ November
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܚܕܵܐ
 ܚܲܨܝܲܬ
 ܟ̰ܸܡ
@@ -110335,14 +110335,14 @@ November
 .
 </section>
 <section no="311">
-<section-title>
+<section_title>
 ܗ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܩܲܡ
 ܥܵܒܹܕ
 ܠܲܢ
@@ -110364,7 +110364,7 @@ November
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܓܵܘ
 ܫܡܲܝܵܐ
 <g/>
@@ -110725,14 +110725,14 @@ November
 .
 </section>
 <section no="312">
-<section-title>
+<section_title>
 ܘ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܬܲܦܟܸܢ
 ܡ̈ܝܼܵܐ
@@ -110745,7 +110745,7 @@ November
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܐܝܼܡܲܢ
 ܕܗܲܡܸܢܵܢܵܐ
 ܢܦܝܼܠܵܐ
@@ -111070,14 +111070,14 @@ November
 .
 </section>
 <section no="313">
-<section-title>
+<section_title>
 ܙ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܵܐ
 <g/>
 ،
@@ -111093,7 +111093,7 @@ November
 <g/>
 :
 16
-</verse-quote>
+</verse_quote>
 ܕܠܵܐ
 ܫܸܟ
 <g/>
@@ -111401,14 +111401,14 @@ November
 .
 </section>
 <section no="314">
-<section-title>
+<section_title>
 ܚ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܵܐܟ݂ܝܼ
 ܕܩܘܼܒܸܠ
 ܠܵܘܟ݂ܘܿܢ
@@ -111422,7 +111422,7 @@ November
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܚܲܝܹ̈ܐ
 ܕܗܲܝܡܵܢܘܼܬܵܐ
 ܦܝܼܫܹܐ
@@ -111772,14 +111772,14 @@ November
 !
 </section>
 <section no="315">
-<section-title>
+<section_title>
 ܛ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܝܼܹܗ
 ܚܕܘܿܪܘܼܢ
 <g/>
@@ -111789,7 +111789,7 @@ November
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܩܘܼܒܠܹܐ
 ܝܘܲܚ
@@ -112183,14 +112183,14 @@ November
 .
 </section>
 <section no="316">
-<section-title>
+<section_title>
 ܝ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܣܟܵܢ
 ܝܼܠܹܗ
 ܐܲܠܵܗܵܐ
@@ -112203,7 +112203,7 @@ November
 <g/>
 :
 27
-</verse-quote>
+</verse_quote>
 ܐܲܠܵܗܵܐ
 ܝܠܹܗ
 ܡܲܣܟܵܢܲܢ
@@ -112559,14 +112559,14 @@ November
 .
 </section>
 <section no="317">
-<section-title>
+<section_title>
 ܝܐ
 ܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܡ̣ܢ
 ܠܠܬܸܚܬ
 ܕܪ̈ܲܥܢܵܢܹܐ
@@ -112579,7 +112579,7 @@ November
 <g/>
 :
 27
-</verse-quote>
+</verse_quote>
 ܐܲܠܵܗܵܐ–ܗ̇ܘ
 ܐܲܠܵܗܵܐ
 ܐܵܒܵܕܝܼܢܵܝܵܐ
@@ -112929,14 +112929,14 @@ November
 “
 </section>
 <section no="318">
-<section-title>
+<section_title>
 ܝܒ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܵܚܲܪܬܵܐ
 ܕܗܲܝܡܵܢܘܼܬܵܘܟ݂ܘܿܢ
 <g/>
@@ -112947,7 +112947,7 @@ November
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܗܲܝܡܵܢܘܼܬܵܐ
 ܠܵܐ
 ܓ̰ܘܼܪܸܒܬܵܐ
@@ -113296,14 +113296,14 @@ November
 .
 </section>
 <section no="319">
-<section-title>
+<section_title>
 ܝܓ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܨܸܒܥܵܐ
 ܠܹܐ
 ܡܵܨܝܵܐ
@@ -113318,7 +113318,7 @@ November
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܐܲܢ݇ܬ
 ܕܵܐܟ݂ܝܼ
 ܫܘܼܪܹܐ
@@ -113594,14 +113594,14 @@ November
 .
 </section>
 <section no="320">
-<section-title>
+<section_title>
 ܝܕ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܒܸܬ
 ܩܵܛܥܹܢ
 <g/>
@@ -113632,7 +113632,7 @@ November
 <g/>
 -
 5
-</verse-quote>
+</verse_quote>
 ܐܝܼܬ
 ܗ݇ܘܵܘ
 ܚܲܕ݇ܟܡܵܐ
@@ -113987,14 +113987,14 @@ November
 .
 </section>
 <section no="321">
-<section-title>
+<section_title>
 ܝܗ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܗܡܵܐ
 ܕܡܵܪܝܵܐ
 ܛܵܝܸܦܹܗ
@@ -114007,7 +114007,7 @@ November
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܕܵܐܟ݂ܝܼ
 ܒܸܗܘܵܝܵܐ
 ܝܢܵܐ
@@ -114334,14 +114334,14 @@ November
 .
 </section>
 <section no="322">
-<section-title>
+<section_title>
 ܝܘ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܗܡܝܼ
 ܡܵܪܝܵܐ
 <g/>
@@ -114355,7 +114355,7 @@ November
 <g/>
 :
 24
-</verse-quote>
+</verse_quote>
 ܠܹܐ
 ܝܠܹܗ
 ܟܬܝܼܒ݂ܵܐ
@@ -114656,14 +114656,14 @@ November
 “
 </section>
 <section no="323">
-<section-title>
+<section_title>
 ܝܙ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܸܠܹܗ
 ܬܸܫܒܘܿܚܬܵܐ
 <g/>
@@ -114680,7 +114680,7 @@ November
 <g/>
 :
 36
-</verse-quote>
+</verse_quote>
 ܐܸܠܹܗ
 ܬܸܫܒܘܿܚܬܵܐ
 ܠܐܵܒܵܕ
@@ -115000,14 +115000,14 @@ November
 .
 </section>
 <section no="324">
-<section-title>
+<section_title>
 ܝܚ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܒܘܼܥܵܐ
 ܕܒ݂ܝܼܪܵܐ
 <g/>
@@ -115022,7 +115022,7 @@ November
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܚܲܒܪܵܐ
 <g/>
@@ -115350,14 +115350,14 @@ November
 ؟
 </section>
 <section no="325">
-<section-title>
+<section_title>
 ܝܛ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡ̣ܢ
 ܒܵܩܲܪܬܵܐ
 ܫܹܐܕܵܢܬܵܐ
@@ -115376,7 +115376,7 @@ November
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܚܲܝܲܢ̈
 ܟܸܪ̈ܝܹܐ
 ܝܢܵܐ
@@ -115710,14 +115710,14 @@ November
 “
 </section>
 <section no="326">
-<section-title>
+<section_title>
 ܟܟ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܒ݂ܝܼܕ
 ܠܘܼܟ݂
 ܕܲܥܘܝܼ
@@ -115736,7 +115736,7 @@ November
 <g/>
 :
 58
-</verse-quote>
+</verse_quote>
 ܦܲܟܸܪ
 ܕܵܐܟ݂ܝܼ
 ܒܡܲܥܠܘܼܡܘܼܬܵܐ
@@ -116074,14 +116074,14 @@ November
 .
 </section>
 <section no="327">
-<section-title>
+<section_title>
 ܟܐ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܵܐ
 ܗܵܘܹܝܬܘܿܢ
 ܡܲܦܫܘܼܡܹܐ
@@ -116094,7 +116094,7 @@ November
 <g/>
 :
 30
-</verse-quote>
+</verse_quote>
 ܗܲܡܸܢܵܢܵܐ
 ܐܲܠܒܲܬ
 ܟܠ
@@ -116413,14 +116413,14 @@ November
 “
 </section>
 <section no="328">
-<section-title>
+<section_title>
 ܟܒ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܥܒ݂ܝܼܕ
 ܠܹܗ
 ܚܸܠܡܲܬ
@@ -116439,7 +116439,7 @@ November
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܝܲܥܩܘܿܒ݂
 ܐܝܼܡܲܢ
 ܕܗܲܡܙܘܼܡܹܐ
@@ -116743,14 +116743,14 @@ November
 “
 </section>
 <section no="329">
-<section-title>
+<section_title>
 ܟܓ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܫܲܪܝܼܟܘܼܬܵܐ
 ܥܲܡܹܗ
 <g/>
@@ -116763,7 +116763,7 @@ November
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܐܝܼܡܲܢ
 ܕܒܗܲܝܡܵܢܘܼܬܵܐ
 ܦܝܼܫ
@@ -117146,14 +117146,14 @@ November
 .
 </section>
 <section no="330">
-<section-title>
+<section_title>
 ܟܕ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܗܵܘܹܐ
 ܡܵܪܝܵܐ
@@ -117174,7 +117174,7 @@ November
 <g/>
 :
 21
-</verse-quote>
+</verse_quote>
 ܢܲܗܪ̈ܵܘܵܬܹܐ
 ܘܫܵܩܝܼܵܬܹ̈ܐ
 ܟܹܐ
@@ -117515,14 +117515,14 @@ November
 .
 </section>
 <section no="331">
-<section-title>
+<section_title>
 ܟܗ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܡܲܟܪܘܼܙܹܐ
 ܠܝܲܚܣܝܼܪܹ̈ܐ
 ܫܒ݂ܵܩܵܐ
@@ -117542,7 +117542,7 @@ November
 ܬܘܼܪ̈ܓܵܡܹܐ
 <g/>
 )
-</verse-quote>
+</verse_quote>
 ܓ̰ܸܕ
 ܡ̣ܢ
 ܡܫܝܼܚܵܐ
@@ -117910,14 +117910,14 @@ November
 “
 </section>
 <section no="332">
-<section-title>
+<section_title>
 ܟܘ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠ
 ܕܡܲܫ݇ܟ̰ܚܵܐ
 ܐܝܼܕܘܼܟ݂
@@ -117933,7 +117933,7 @@ November
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܟܠ
 ܕܡܲܫ݇ܟ̰ܚܵܐ
 ܐܝܼܕܘܼܟ݂
@@ -118307,14 +118307,14 @@ November
 .
 </section>
 <section no="333">
-<section-title>
+<section_title>
 ܟܙ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܝܼܫܘܿܥ
 <g/>
 ،
@@ -118333,7 +118333,7 @@ November
 <g/>
 :
 1
-</verse-quote>
+</verse_quote>
 ܒܝܼܫܘܿܥ
 ܟܵܗܢܵܐ
 ܓܘܼܪܵܐ
@@ -118652,14 +118652,14 @@ November
 “
 </section>
 <section no="334">
-<section-title>
+<section_title>
 ܟܚ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܵܒܵܒ
 ܚܕܹܐ
 ܠܝܼ
@@ -118686,7 +118686,7 @@ November
 ܓ
 ܝܘܿܚܲܢܵܢ
 3
-</verse-quote>
+</verse_quote>
 ܣܲܪܲܣܬܘܼܬܵܐ
 ܐܝܼܬ
 ܗ݇ܘܵܐ
@@ -119025,14 +119025,14 @@ November
 .
 </section>
 <section no="335">
-<section-title>
+<section_title>
 ܟܛ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܵܐ
 ܚܵܕܪܹܬ
 ܒܩܲܝܒܲܬ
@@ -119064,7 +119064,7 @@ November
 <g/>
 -
 17
-</verse-quote>
+</verse_quote>
 ܩܲܝܒܲܬ
 ܟܹܐ
 ܗܲܨܠܵܐ
@@ -119375,14 +119375,14 @@ November
 .
 </section>
 <section no="336">
-<section-title>
+<section_title>
 ܠ
 ܒܬܸܫܪܝܼܢ
 ܬܪܲܝܵܢܵܐ
 November
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܐ݇ܡܝܼܪܹܗ
 ܐܲܡܲܨܝܵܐ
 ܠܐ݇ܢܵܫܵܐ
@@ -119420,7 +119420,7 @@ November
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܩܵܐ
 ܡܲܠܟܵܐ
 ܕܝܼܗܘܼܕܵܐ
@@ -119718,14 +119718,14 @@ November
 .
 </section>
 <section no="337">
-<section-title>
+<section_title>
 ܐ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 1
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܩܲܝܛܵܐ
 ܘܣܸܬܘܵܐ
 ܐܲܢ݇ܬ
@@ -119738,7 +119738,7 @@ December
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܓܵܢܝܼ
 <g/>
 ،
@@ -120056,14 +120056,14 @@ December
 .
 </section>
 <section no="338">
-<section-title>
+<section_title>
 ܒ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 2
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܠܵܟ݂ܝܼ
 ܫܲܦܝܼܪܬܵܐ
 ܝܘܲܬܝ
@@ -120078,7 +120078,7 @@ December
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܪܕܵܝܬܵܐ
 ܕܡܵܪܝܵܐ
 ܠܥܹܕܬܹܗ
@@ -120406,14 +120406,14 @@ December
 .
 </section>
 <section no="339">
-<section-title>
+<section_title>
 ܓ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 3
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܠܲܟܵܐ
 ܠܲܝܬ
 ܒܝܼܵܟ݂ܝ
@@ -120425,7 +120425,7 @@ December
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܟܲܕ
 ܡܵܪܲܢ
 ܡܘܼܕܸܥܘܼܗ̇
@@ -120788,14 +120788,14 @@ December
 .
 </section>
 <section no="340">
-<section-title>
+<section_title>
 ܕ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 4
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܪܵܒܵܐ
 ܛܵܝܸܦܵܐ
 ܐܝܼܬ
@@ -120810,7 +120810,7 @@ December
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܡ̣ܢ
 ܐܵܗܵܐ
 ܘܵܓ̰ܸܒ
@@ -121163,14 +121163,14 @@ December
 .
 </section>
 <section no="341">
-<section-title>
+<section_title>
 ܗ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 5
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܛܠܘܿܒܘܼܢ
 <g/>
 ،
@@ -121185,7 +121185,7 @@ December
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܐܝܼܬ
 ܚܕܵܐ
 ܕܘܼܟܬܵܐ
@@ -121554,14 +121554,14 @@ December
 .
 </section>
 <section no="342">
-<section-title>
+<section_title>
 ܘ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 6
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܵܐܟ݂ܝܼ
 ܕܝܼܠܹܗ
 ܗ̇ܘ
@@ -121580,7 +121580,7 @@ December
 <g/>
 :
 48
-</verse-quote>
+</verse_quote>
 ܪܹܫܵܐ
 ܘܗܲܕܵܡܹ̈ܐ
 ܐ݇ܚܹܪ̈݇ܢܹܐ
@@ -121886,14 +121886,14 @@ December
 .
 </section>
 <section no="343">
-<section-title>
+<section_title>
 ܙ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 7
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܲܠܵܗܵܐ
 ܓܘܼܒܹܐ
 ܠܹܗ
@@ -121912,7 +121912,7 @@ December
 <g/>
 :
 28
-</verse-quote>
+</verse_quote>
 ܚܕܘܿܪ
 ܓܵܘ
 ܥܵܠܘܿܠܵܢܹ̈ܐ
@@ -122249,14 +122249,14 @@ December
 .
 </section>
 <section no="344">
-<section-title>
+<section_title>
 ܚ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 8
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܝܼܬ
 ܠܘܼܟ݂
 ܚܲܕ݇ܟ̰ܵܐ
@@ -122288,7 +122288,7 @@ December
 <g/>
 :
 4
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܟܹܐ
 ܐܵܬܝܵܐ
@@ -122596,14 +122596,14 @@ December
 .
 </section>
 <section no="345">
-<section-title>
+<section_title>
 ܛ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 9
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܘܼܬ
 ܐܵܗܵܐ
 ܒܸܬ
@@ -122619,7 +122619,7 @@ December
 <g/>
 :
 18
-</verse-quote>
+</verse_quote>
 ܐܲܠܵܗܵܐ
 ܪܵܒܵܐ
 ܓܵܗܹ̈ܐ
@@ -122940,14 +122940,14 @@ December
 .
 </section>
 <section no="346">
-<section-title>
+<section_title>
 ܝ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 10
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܗܲܕܟ݂ܵܐ
 ܒܟܠ
 ܙܲܒ݂ܢܵܐ
@@ -122963,7 +122963,7 @@ December
 <g/>
 :
 17
-</verse-quote>
+</verse_quote>
 ܣܲܚܒܲܪ̈ܝܵܬܹܐ
 ܒܲܣܝܼܡܹ̈ܐ
 ܕܡܫܝܼܚܵܐ
@@ -123231,14 +123231,14 @@ December
 .
 </section>
 <section no="347">
-<section-title>
+<section_title>
 ܝܐ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 11
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܣܲܪܲܣܬ
 ܝܼܠܹܗ
 ܗ̇ܘ
@@ -123258,7 +123258,7 @@ December
 <g/>
 :
 24
-</verse-quote>
+</verse_quote>
 ܫܡܲܝܵܐ
 ܚܕܵܐ
 ܕܘܼܟܬܵܐ
@@ -123576,14 +123576,14 @@ December
 “
 </section>
 <section no="348">
-<section-title>
+<section_title>
 ܝܒ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 12
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܪ̈݇ܚܵܫܝܵܬܹܐ
 ܕܥܵܠܲܡ
 ܐܸܠܹܗ
@@ -123594,7 +123594,7 @@ December
 <g/>
 :
 6
-</verse-quote>
+</verse_quote>
 ܡܸܢܕܝܼ
 ܕܥܒ݂ܝܼܕܹܗ
 ܝܠܹܗ
@@ -123967,14 +123967,14 @@ December
 .
 </section>
 <section no="349">
-<section-title>
+<section_title>
 ܝܓ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 13
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܸܠܚܵܐ
 ܕܠܵܐ
 ܟܬܵܒ݂ܵܐ
@@ -123985,7 +123985,7 @@ December
 <g/>
 :
 22
-</verse-quote>
+</verse_quote>
 ܡܸܠܚܵܐ
 ܟܹܐ
 ܦܵܝܫܵܐ
@@ -124338,14 +124338,14 @@ December
 .
 </section>
 <section no="350">
-<section-title>
+<section_title>
 ܝܕ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 14
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܹܐ
 ܐܵܙܠ݇ܝܼ
 ܡ̣ܢ
@@ -124358,7 +124358,7 @@ December
 <g/>
 :
 7
-</verse-quote>
+</verse_quote>
 ܟܹܐ
 ܐܵܙܠ݇ܝܼ
 ܡ̣ܢ
@@ -124705,14 +124705,14 @@ December
 .
 </section>
 <section no="351">
-<section-title>
+<section_title>
 ܝܗ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 15
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܘܢܫܝܼܩ
 ܠܵܗ̇
 ܥܲܪܦܵܐ
@@ -124730,7 +124730,7 @@ December
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܬܸܪܘܲܝܗܝ
 ܟܹܐ
 ܡܲܚܸܒܝܼ
@@ -125044,14 +125044,14 @@ December
 .
 </section>
 <section no="352">
-<section-title>
+<section_title>
 ܝܘ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 16
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܬܹܝܡܘܼܢ
 ܠܟܸܣ
 ܠܝܼ
@@ -125062,7 +125062,7 @@ December
 <g/>
 :
 28
-</verse-quote>
+</verse_quote>
 ܓ̰ܵܪ
 ܕܬܵܘܕܝܼܬܵܐ
 ܕܟܪܝܼܣܛܝܵܢܘܼܬܵܐ
@@ -125438,14 +125438,14 @@ December
 “
 </section>
 <section no="353">
-<section-title>
+<section_title>
 ܝܙ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 17
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܟ݂ܝܼܪܝܼ
 ܐܸܠܵܟ݂ܝ
 <g/>
@@ -125455,7 +125455,7 @@ December
 <g/>
 :
 2
-</verse-quote>
+</verse_quote>
 ܦܲܟܪܲܚ
 <g/>
 ،
@@ -125797,14 +125797,14 @@ December
 .
 </section>
 <section no="354">
-<section-title>
+<section_title>
 ܝܚ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 18
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟ̰ܲܢܟ̰ܸܪܘܼܢ
 ܠܸܒܵܘܟ݂ܘܿܢ
 <g/>
@@ -125818,7 +125818,7 @@ December
 <g/>
 :
 13
-</verse-quote>
+</verse_quote>
 ܟ̰ܲܢܟ̰ܲܪܬܵܐ
 ܕܓ̰ܘܼܠܹ̈ܐ
 ܘܢܝܼܫܲܢܩܹ̈ܐ
@@ -126177,14 +126177,14 @@ December
 .
 </section>
 <section no="355">
-<section-title>
+<section_title>
 ܝܛ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 19
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܓܵܘ
 ܥܘܼܒܵܐ
 ܟܹܐ
@@ -126205,7 +126205,7 @@ December
 <g/>
 :
 33
-</verse-quote>
+</verse_quote>
 ܐܸܢ
 ܕܝܼܘܵܢ
 ܕܦܸܫܟܵܐ
@@ -126549,14 +126549,14 @@ December
 “
 </section>
 <section no="356">
-<section-title>
+<section_title>
 ܟܟ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 20
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܡܲܚܲܒܬܵܐ
 ܕܥܵܠܲܡ
 ܩܲܡ
@@ -126568,7 +126568,7 @@ December
 <g/>
 :
 3
-</verse-quote>
+</verse_quote>
 ܚܲܕ݇ܟܡܵܐ
 ܓܵܗܹ̈ܐ
 ܡܵܪܲܢ
@@ -126863,14 +126863,14 @@ b
 .
 </section>
 <section no="357">
-<section-title>
+<section_title>
 ܟܐ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 21
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܝܼܢܵܐ
 ܩܵܘܠܵܐ
 ܕܥܵܠܲܡ
@@ -126885,7 +126885,7 @@ December
 <g/>
 :
 5
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܩܵܘܠܵܐ
 ܡ̣ܢ
@@ -127192,14 +127192,14 @@ December
 “
 </section>
 <section no="358">
-<section-title>
+<section_title>
 ܟܒ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 22
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܸܬ
 ܙܲܪܒܸܢܸܢܘܼܟ݂
 <g/>
@@ -127209,7 +127209,7 @@ December
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܐܲܠܵܗܵܐ
 ܐܝܼܬ
 ܠܹܗ
@@ -127491,14 +127491,14 @@ December
 .
 </section>
 <section no="359">
-<section-title>
+<section_title>
 ܟܓ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 23
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܕܵܘܣܬܝܼ
 <g/>
 ،
@@ -127511,7 +127511,7 @@ December
 <g/>
 :
 10
-</verse-quote>
+</verse_quote>
 ܐܝܼܡܲܢ
 ܕܚܲܝܹ̈ܐ
 ܕܫܵܦܵܩܲܬ
@@ -127807,14 +127807,14 @@ December
 “
 </section>
 <section no="360">
-<section-title>
+<section_title>
 ܟܕ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 24
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܘܼܬ
 ܕܝܼܵܘܟ݂ܘܿܢ
 ܡܘܼܣܟܸܢܹܗ
@@ -127826,7 +127826,7 @@ December
 <g/>
 :
 9
-</verse-quote>
+</verse_quote>
 ܡܵܪܲܢ
 ܝܼܫܘܿܥ
 ܡܫܝܼܚܵܐ
@@ -128121,14 +128121,14 @@ December
 .
 </section>
 <section no="361">
-<section-title>
+<section_title>
 ܟܗ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 25
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܵܐ
 <g/>
 ،
@@ -128151,7 +128151,7 @@ December
 <g/>
 :
 14
-</verse-quote>
+</verse_quote>
 ܐܸܕܝܘܿܡ
 ܬܹܝܡܘܼܢ
 ܨܵܠܲܚ
@@ -128824,14 +128824,14 @@ December
 .
 </section>
 <section no="362">
-<section-title>
+<section_title>
 ܟܘ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 26
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܕܵܡ
 ܐ݇ܚܵܪܵܝܵܐ
 <g/>
@@ -128842,7 +128842,7 @@ December
 <g/>
 :
 45
-</verse-quote>
+</verse_quote>
 ܡܫܝܼܚܵܐ
 ܝܠܹܗ
 ܪܹܫܵܐ
@@ -129158,14 +129158,14 @@ December
 .
 </section>
 <section no="363">
-<section-title>
+<section_title>
 ܟܙ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 27
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܟܹܐ
 ܩܵܐܹܡ
 ܓ̰ܵܓܵܢ
@@ -129178,7 +129178,7 @@ December
 <g/>
 :
 11
-</verse-quote>
+</verse_quote>
 ܓ̰ܵܓܵܢ
 <g/>
 ،
@@ -129531,14 +129531,14 @@ December
 .
 </section>
 <section no="364">
-<section-title>
+<section_title>
 ܟܚ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 28
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܵܗܵܐ
 ܕܐܵܕܝܼܵܐ
 ܒܸܚܵܝܵܐ
@@ -129558,7 +129558,7 @@ December
 <g/>
 :
 20
-</verse-quote>
+</verse_quote>
 ܐܝܼܡܲܢ
 ܕܡܵܪܝܵܐ
 ܒܪ̈ܲܚܡܘܼܗܝ
@@ -129841,14 +129841,14 @@ December
 .
 </section>
 <section no="365">
-<section-title>
+<section_title>
 ܟܛ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 29
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܗܲܠ
 ܠܐܲܟ݂ܵܐ
 ܩܲܡ
@@ -129862,7 +129862,7 @@ December
 <g/>
 :
 12
-</verse-quote>
+</verse_quote>
 ܐܵܗܵܐ
 ܚܲܒܪܵܐ–
 <g/>
@@ -130232,14 +130232,14 @@ December
 .
 </section>
 <section no="366">
-<section-title>
+<section_title>
 ܠ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 30
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܒܘܼܫ
 ܨܦܵܝܝܼ
 ܝܠܵܗ̇
@@ -130254,7 +130254,7 @@ December
 <g/>
 :
 8
-</verse-quote>
+</verse_quote>
 ܚܘܼܪ
 ܠܡܵܪܵܐ
 ܕܕܵܘܝܼܕ
@@ -130592,14 +130592,14 @@ December
 .
 </section>
 <section no="367">
-<section-title>
+<section_title>
 ܠܐ
 ܒܟܵܢܘܿܢ
 ܩܲܕ݇ܡܵܝܵܐ
 December
 31
-</section-title>
-<verse-quote>
+</section_title>
+<verse_quote>
 ܐܝܼܢܵܐ
 ܒܝܵܘܡܵܐ
 ܓܘܼܪܵܐ
@@ -130632,7 +130632,7 @@ December
 <g/>
 :
 37
-</verse-quote>
+</verse_quote>
 ܚܡܵܠܬܵܐ
 ܟܵܡܝܼܠ
 ܐܝܼܬ
