@@ -11,12 +11,16 @@ The `nose_to_vertical.py` script is designed to convert various input file forma
 The main script handles command line arguments, instantiates the appropriate strategy based on the input file extension, and executes the conversion process.
 
 #### Usage
+To convert an input file to a vertical file, use the following command:
 
 ```sh
-python nose_to_vertical.py <input_file> <output_file> <metadata_file>
+python nose_to_vertical.py --input <input_file> --output <output_file> --metadata <metadata_file> --type <file_type>
 
-<input_file>: Path to the input file (XML or JSON).
-<output_file>: Path to the output vertical file.
+--input (-i): Path to the input file.
+--output (-o): Path to the output vertical file.
+--metadata (-m): Path to the metadata file (JSON format).
+--type (-t): Type of the input file. Choices are xml, json, spurgeon, kokhwa, apocrypha.
+
 <metadata_file>: Path to metadata json file in this format:
 {
     "attribute 1": "value 1",
