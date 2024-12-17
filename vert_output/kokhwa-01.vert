@@ -1,4 +1,4 @@
-<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" contry="Iran">
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran">
 <periodical issue="1" no="1" date="6/21/1906" num_of_pages="8">
 <page no="1">
 ﻿

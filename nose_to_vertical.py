@@ -21,10 +21,10 @@ def handle_k_option(csv_file, text_folder, output_file, metadata_file):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert various input files to vertical format.")
-    parser.add_argument("-i", "--input", required=True, help="Input file")
+    parser.add_argument("-i", "--input", required=True, help="Input file or folder")
     parser.add_argument("-o", "--output", required=True, help="Output file")
     parser.add_argument("-m", "--metadata", required=True, help="Metadata file")
-    parser.add_argument("-t", "--type", required=True, choices=["xml", "json", "spurgeon", "kokhwa", "apocrypha"], help="Type of the input file")
+    parser.add_argument("-t", "--type", required=True, choices=["xml", "json", "spurgeon", "kokhwa", "apocrypha", "text"], help="Type of the input file")
     parser.add_argument("-k", "--kokhwa", nargs=2, metavar=("CSV_FILE", "TEXT_FOLDER"), help="CSV file and text folder for Kokhwa periodical")
 
     args = parser.parse_args()
@@ -45,4 +45,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
         context = VerticalContext(strategy)
-        context.execute_strategy(input_file, output_file, metadata_file)
+        if file_type == 'text':
+            context.execute_strategy(input_file, output_file, metadata_file)
+        else:
+            context.execute_strategy(input_file, output_file, metadata_file)

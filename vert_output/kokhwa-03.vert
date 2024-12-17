@@ -1,4 +1,4 @@
-<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" contry="Iran">
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran">
 <periodical issue="4" no="3" date="7/24/1909" num_of_pages="12">
 <page no="25">
 ﻿
