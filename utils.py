@@ -12,9 +12,11 @@ additional_punctuation = {
     '\u201d',  # RIGHT DOUBLE QUOTATION MARK
     '\u002c',  # COMMA
     '\u0703',  # SYRIAC SUPRALINEAR COLON
-    '\u0702',   # SYRIAC SUBLINEAR FULL STOP
+    '\u0702',  # SYRIAC SUBLINEAR FULL STOP
     '\u0028',  # LEFT PARENTHESIS
     '\u0029',  # RIGHT PARENTHESIS
+    '\u007b',  # LEFT CURLY BRACKET
+    '\u007d',  # RIGHT CURLY BRACKET
 }
 
 # List of characters to filter out
