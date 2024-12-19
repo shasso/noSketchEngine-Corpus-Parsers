@@ -1,7 +1,6 @@
-<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran">
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="2" no="16" date="2/24/1908" num_of_pages="12">
 <page no="181">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -350,7 +349,7 @@
 ܫܩܝܼܠܹܐ
 </page>
 <page no="182">
-﻿182
+182
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -895,7 +894,7 @@
 .
 </page>
 <page no="183">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 <g/>
 :
@@ -1455,7 +1454,7 @@
 ܡܲܥܢܵܝܵܐ
 </page>
 <page no="184">
-﻿184
+184
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -1961,7 +1960,7 @@
 ܡܵܪܵܐ
 </page>
 <page no="185">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 <g/>
 :
@@ -2548,7 +2547,7 @@
 :
 </page>
 <page no="186">
-﻿186
+186
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -3118,7 +3117,7 @@
 ܕܐܵܗܵܐ
 </page>
 <page no="187">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 <g/>
 :
@@ -3606,7 +3605,7 @@
 ܓܵܘ
 </page>
 <page no="188">
-﻿188
+188
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -4073,7 +4072,7 @@
 .
 </page>
 <page no="189">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 <g/>
 :
@@ -4522,7 +4521,7 @@
 ܐܘܼܪܚܵܐ
 </page>
 <page no="190">
-﻿190
+190
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -5031,7 +5030,7 @@
 .
 </page>
 <page no="191">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 <g/>
 :
@@ -5529,7 +5528,7 @@
 ܝܢܵܐ
 </page>
 <page no="192">
-﻿192
+192
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -6068,9 +6067,10 @@ Sargis
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="2" no="17" date="3/10/1908" num_of_pages="12">
 <page no="193">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -6404,7 +6404,7 @@ Sargis
 ܕܝܵܗܒ݂ܲܠܬܵܐ
 </page>
 <page no="194">
-﻿194
+194
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -6929,7 +6929,7 @@ Sargis
 ܡܩܵܕ݇ܡ
 </page>
 <page no="195">
-﻿ܐܕܪ
+ܐܕܪ
 10
 <g/>
 :
@@ -7466,7 +7466,7 @@ Sargis
 ܕܗ̇ܘ
 </page>
 <page no="196">
-﻿196
+196
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -8010,7 +8010,7 @@ Sargis
 ܓܹܒܵܢܹ̈ܐ
 </page>
 <page no="197">
-﻿ܐܕܪ
+ܐܕܪ
 10
 <g/>
 :
@@ -8565,7 +8565,7 @@ Sargis
 ܗܹܒ݂ܝܼ
 </page>
 <page no="198">
-﻿198
+198
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -9052,7 +9052,7 @@ Sargis
 ܕܥܹܕܬܵܐ
 </page>
 <page no="199">
-﻿ܐܕܪ
+ܐܕܪ
 10
 <g/>
 :
@@ -9591,7 +9591,7 @@ Sargis
 ܩܲܡܚܵܐ
 </page>
 <page no="200">
-﻿200
+200
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -10093,7 +10093,7 @@ Sargis
 ܡܲܩܸܡ
 </page>
 <page no="201">
-﻿ܐܕܪ
+ܐܕܪ
 10
 <g/>
 :
@@ -10543,7 +10543,7 @@ Sargis
 .
 </page>
 <page no="202">
-﻿202
+202
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -11043,7 +11043,7 @@ Sargis
 .
 </page>
 <page no="203">
-﻿ܐܕܪ
+ܐܕܪ
 10
 <g/>
 :
@@ -11553,7 +11553,7 @@ Sargis
 ܕܪ̈ܲܥܝܹܐ
 </page>
 <page no="204">
-﻿204
+204
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -12075,9 +12075,10 @@ Sargis
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="2" no="18" date="3/24/1908" num_of_pages="16">
 <page no="205">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -12437,7 +12438,7 @@ Sargis
 ܦܝܼܫܬܵܐ
 </page>
 <page no="206">
-﻿206
+206
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -12905,7 +12906,7 @@ Sargis
 .
 </page>
 <page no="207">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -13473,7 +13474,7 @@ Sargis
 ܐܢܵܫܘܼ̈ܗܝ
 </page>
 <page no="208">
-﻿208
+208
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -13997,7 +13998,7 @@ Sargis
 ܗ݇ܘܵܐ
 </page>
 <page no="209">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -14582,7 +14583,7 @@ NG
 ܕܠܵܐ
 </page>
 <page no="210">
-﻿210
+210
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -15132,7 +15133,7 @@ NG
 ܥܹܕܬܵܐ
 </page>
 <page no="211">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -15669,7 +15670,7 @@ NG
 ܦܘܼܡܵܐ
 </page>
 <page no="212">
-﻿212
+212
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -16222,7 +16223,7 @@ NG
 ܐܸܕܥܵܐ
 </page>
 <page no="213">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -16757,7 +16758,7 @@ NG
 ܒܲܥܝܸܬܘܿܢ
 </page>
 <page no="214">
-﻿214
+214
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -17273,7 +17274,7 @@ NG
 ܕܩܵܐ
 </page>
 <page no="215">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -17772,7 +17773,7 @@ NG
 ܕܦܝܵܫܵܐ
 </page>
 <page no="216">
-﻿216
+216
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -18412,7 +18413,7 @@ NG
 ܕܡܘܼܚܕܝܼܬܵܐ
 </page>
 <page no="217">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -18972,7 +18973,7 @@ NG
 ܡܲܟܡܲܠܬܵܐ
 </page>
 <page no="218">
-﻿218
+218
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -19478,7 +19479,7 @@ NG
 ܓܘܼܒܝܼܬܵܐ
 </page>
 <page no="219">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -19961,7 +19962,7 @@ NG
 ܠܵܐ
 </page>
 <page no="220">
-﻿220
+220
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -20487,9 +20488,10 @@ NG
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="2" no="19" date="4/10/1908" num_of_pages="12">
 <page no="221">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -20822,7 +20824,7 @@ NG
 ܗܹܒ݂ܝܼ
 </page>
 <page no="222">
-﻿222
+222
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -21338,7 +21340,7 @@ NG
 ܕܫܵܩܠܵܐ
 </page>
 <page no="223">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -21783,7 +21785,7 @@ NG
 ܝܘܸܢ
 </page>
 <page no="224">
-﻿224
+224
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -22257,7 +22259,7 @@ NG
 ܙܥܘܿܪܹ̈ܐ
 </page>
 <page no="225">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -22761,7 +22763,7 @@ NG
 .
 </page>
 <page no="226">
-﻿226
+226
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -23250,7 +23252,7 @@ NG
 ܓܘܼܪܬܵܐ
 </page>
 <page no="227">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -23749,7 +23751,7 @@ NG
 ܕܒܸܬ
 </page>
 <page no="228">
-﻿228
+228
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -24232,7 +24234,7 @@ NG
 ܬܵܡܵܫܵܚܵܢܵܐ
 </page>
 <page no="229">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -24709,7 +24711,7 @@ NG
 .
 </page>
 <page no="230">
-﻿230
+230
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -25189,7 +25191,7 @@ NG
 ܝܢܵܐ
 </page>
 <page no="231">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -25684,7 +25686,7 @@ NG
 ܗܲܡܙܲܡܬܹܗ
 </page>
 <page no="232">
-﻿232
+232
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -26150,9 +26152,10 @@ NG
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="2" no="20" date="4/24/1908" num_of_pages="12">
 <page no="233">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -26500,7 +26503,7 @@ NG
 ܦܝܼܠܵܐ
 </page>
 <page no="234">
-﻿234
+234
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -27007,7 +27010,7 @@ NG
 .
 </page>
 <page no="235">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -27530,7 +27533,7 @@ NG
 ܝܠܹܐ
 </page>
 <page no="236">
-﻿236
+236
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -28022,7 +28025,7 @@ NG
 .
 </page>
 <page no="237">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -28509,7 +28512,7 @@ NG
 ܪܲܥܝܲܬ
 </page>
 <page no="238">
-﻿238
+238
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -29000,7 +29003,7 @@ NG
 ܕܚܲܟܡܵܐ
 </page>
 <page no="239">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -29461,7 +29464,7 @@ NG
 ܫܲܒ݂ܛܹ̈ܐ
 </page>
 <page no="240">
-﻿240
+240
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -29913,7 +29916,7 @@ NG
 ܬܲܝܡܢܵܝܵܐ
 </page>
 <page no="241">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -30417,7 +30420,7 @@ NG
 ܝܠܵܐ
 </page>
 <page no="242">
-﻿242
+242
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -30926,7 +30929,7 @@ NG
 ܒܸܬ
 </page>
 <page no="243">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -31402,7 +31405,7 @@ NG
 ܓܘܼܪܬܵܐ
 </page>
 <page no="244">
-﻿244
+244
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -31901,9 +31904,10 @@ NG
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="2" no="21" date="5/10/1908" num_of_pages="12">
 <page no="245">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -32246,7 +32250,7 @@ NG
 ܚܲܨܝܲܬܵܝ̈
 </page>
 <page no="246">
-﻿246
+246
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -32766,7 +32770,7 @@ NG
 ܕܐܝܼܬ
 </page>
 <page no="247">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -33287,7 +33291,7 @@ NG
 ܒܝܼܘܼܗ̇
 </page>
 <page no="248">
-﻿248
+248
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -33824,7 +33828,7 @@ NG
 ܡ݂ܢ
 </page>
 <page no="249">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -34376,7 +34380,7 @@ NG
 ܪܥܝܼܫܹܐ
 </page>
 <page no="250">
-﻿250
+250
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -34862,7 +34866,7 @@ NG
 ܕܡܵܗܲܠ
 </page>
 <page no="251">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -35397,7 +35401,7 @@ NG
 ܥܲܠܹܗ
 </page>
 <page no="252">
-﻿252
+252
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -35919,7 +35923,7 @@ NG
 ܝܢܵܐ
 </page>
 <page no="253">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -36466,7 +36470,7 @@ NG
 ܦܝܼܫܹܐ
 </page>
 <page no="254">
-﻿254
+254
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -36915,7 +36919,7 @@ NG
 .
 </page>
 <page no="255">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -37426,7 +37430,7 @@ NG
 ܕܦܝܼܫܹܐ
 </page>
 <page no="256">
-﻿256
+256
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -37925,9 +37929,10 @@ NG
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="2" no="22" date="5/24/1908" num_of_pages="12">
 <page no="257">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -38265,7 +38270,7 @@ NG
 ܩܵܬܲܢ
 </page>
 <page no="258">
-﻿258
+258
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 24
@@ -38823,7 +38828,7 @@ NG
 ܩܵܐ
 </page>
 <page no="259">
-﻿ܐܝܪ
+ܐܝܪ
 24
 <g/>
 :
@@ -39333,7 +39338,7 @@ NG
 ܩܪܸܣܛܹـ
 </page>
 <page no="260">
-﻿260
+260
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 24
@@ -39856,7 +39861,7 @@ NG
 ܐܘܼܚܟ̰ܵܐ
 </page>
 <page no="261">
-﻿ܐܝܪ
+ܐܝܪ
 24
 <g/>
 :
@@ -40342,7 +40347,7 @@ NG
 ܘܚܵܕ݇
 </page>
 <page no="262">
-﻿262
+262
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 24
@@ -40870,7 +40875,7 @@ NG
 ܟ̰ܲܟܒܲܢܬܵܐ
 </page>
 <page no="263">
-﻿ܐܝܪ
+ܐܝܪ
 24
 <g/>
 :
@@ -41373,7 +41378,7 @@ NG
 .
 </page>
 <page no="264">
-﻿264
+264
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 24
@@ -41847,7 +41852,7 @@ NG
 ܗܵܐ
 </page>
 <page no="265">
-﻿ܐܝܪ
+ܐܝܪ
 24
 <g/>
 :
@@ -42348,7 +42353,7 @@ NG
 ܪܹܫܘܼܗ̇
 </page>
 <page no="266">
-﻿266
+266
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 24
@@ -42837,7 +42842,7 @@ NG
 ܠܸܫܵܢܵܐ
 </page>
 <page no="267">
-﻿ܐܝܪ
+ܐܝܪ
 24
 <g/>
 :
@@ -43330,7 +43335,7 @@ NG
 .
 </page>
 <page no="268">
-﻿268
+268
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 24
@@ -43798,9 +43803,10 @@ NG
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="2" no="23" date="6/10/1908" num_of_pages="12">
 <page no="269">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -44137,7 +44143,7 @@ NG
 .
 </page>
 <page no="270">
-﻿270
+270
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -44609,7 +44615,7 @@ NG
 ܡܘܼܥܪܸܩܹܐ
 </page>
 <page no="271">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 <g/>
 :
@@ -45111,7 +45117,7 @@ NG
 ܐܲܝܟ݂
 </page>
 <page no="272">
-﻿272
+272
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -45635,7 +45641,7 @@ NG
 ܗ݇ܘܵܐ
 </page>
 <page no="273">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 <g/>
 :
@@ -46136,7 +46142,7 @@ NG
 .
 </page>
 <page no="274">
-﻿274
+274
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -46664,7 +46670,7 @@ NG
 ܦܵܪܥܝܼ
 </page>
 <page no="275">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 <g/>
 :
@@ -47142,7 +47148,7 @@ NG
 ܪܵܒܵܐ
 </page>
 <page no="276">
-﻿276
+276
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -47605,7 +47611,7 @@ NG
 ܓܵܘ
 </page>
 <page no="277">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 <g/>
 :
@@ -48106,7 +48112,7 @@ NG
 ܕܐܲܢܹܐ
 </page>
 <page no="278">
-﻿278
+278
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -48613,7 +48619,7 @@ NG
 ܡܐܵܕܝܼܵܐ
 </page>
 <page no="279">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 <g/>
 :
@@ -49111,7 +49117,7 @@ NG
 ܕܵܘܢܸܓ
 </page>
 <page no="280">
-﻿280
+280
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -49584,9 +49590,10 @@ NG
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="1" date="6/24/1908" num_of_pages="12">
 <page no="1">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -49945,7 +49952,7 @@ Mooshie
 ܕܡܝܲܩܪܵܐ
 </page>
 <page no="2">
-﻿2
+2
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -50417,7 +50424,7 @@ Mooshie
 :
 </page>
 <page no="3">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -50950,7 +50957,7 @@ Mooshie
 ܕܓܵܢܘܼܗ̇
 </page>
 <page no="4">
-﻿4
+4
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -51436,7 +51443,7 @@ Mooshie
 .
 </page>
 <page no="5">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -51893,7 +51900,7 @@ Mooshie
 ܕܒܸܩܪܵܐ
 </page>
 <page no="6">
-﻿6
+6
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -52381,7 +52388,7 @@ Mooshie
 .
 </page>
 <page no="7">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -52890,7 +52897,7 @@ Mooshie
 .
 </page>
 <page no="8">
-﻿8
+8
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -53354,7 +53361,7 @@ Mooshie
 ܕܵܘܣܬܘܼܬܵܐ
 </page>
 <page no="9">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -53837,7 +53844,7 @@ Mooshie
 ܒܘܼܬ
 </page>
 <page no="10">
-﻿10
+10
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -54314,7 +54321,7 @@ Mooshie
 ܘܠܲܡܣܸـ
 </page>
 <page no="11">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -54794,7 +54801,7 @@ Mooshie
 ܕܐܲܢܹܐ
 </page>
 <page no="12">
-﻿12
+12
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -55263,9 +55270,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="2" date="7/10/1908" num_of_pages="12">
 <page no="13">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -55594,7 +55602,7 @@ Mooshie
 ܐܝܼܬ
 </page>
 <page no="14">
-﻿14
+14
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -56100,7 +56108,7 @@ Mooshie
 :
 </page>
 <page no="15">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -56624,7 +56632,7 @@ Mooshie
 ܝܲܕܥܵܚ
 </page>
 <page no="16">
-﻿16
+16
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -57172,7 +57180,7 @@ Mooshie
 ܒܵܥܸܣ
 </page>
 <page no="17">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -57658,7 +57666,7 @@ Mooshie
 ܣܘܼܦܝܵܐ
 </page>
 <page no="18">
-﻿18
+18
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -58092,7 +58100,7 @@ Mooshie
 ܘܓܘܼܫܸܩܠܹܐ
 </page>
 <page no="19">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -58535,7 +58543,7 @@ Mooshie
 ܟ̰ܘܼܟܒܸܢܬܵܐ
 </page>
 <page no="20">
-﻿20
+20
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -59007,7 +59015,7 @@ Mooshie
 .
 </page>
 <page no="21">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -59465,7 +59473,7 @@ Mooshie
 ܗܲܝܡܵܢܘܼܬܵܝ
 </page>
 <page no="22">
-﻿22
+22
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -59965,7 +59973,7 @@ Mooshie
 ܡܲܚܪܲܒ݂ܬܵܐ
 </page>
 <page no="23">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -60447,7 +60455,7 @@ Mooshie
 ܕܒܬܲܡܵܡܲܬܘܼܬܵܐ
 </page>
 <page no="24">
-﻿24
+24
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -60921,9 +60929,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="3" date="7/24/1908" num_of_pages="12">
 <page no="25">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -61255,7 +61264,7 @@ Mooshie
 ܦܝܼܫܹܐ
 </page>
 <page no="26">
-﻿26
+26
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 24
@@ -61739,7 +61748,7 @@ Mooshie
 ܝܢܵܐ
 </page>
 <page no="27">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 24
 <g/>
 :
@@ -62274,7 +62283,7 @@ Mooshie
 ܡܘܼܕܝܼ
 </page>
 <page no="28">
-﻿28
+28
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 24
@@ -62812,7 +62821,7 @@ Mooshie
 ܠܸܒܵܝ
 </page>
 <page no="29">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 24
 <g/>
 :
@@ -63396,7 +63405,7 @@ Mooshie
 ܐܲܪ̈ܒܵܒܹܐ
 </page>
 <page no="30">
-﻿30
+30
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 24
@@ -63880,7 +63889,7 @@ Mooshie
 ܗ݇ܘܵܐ
 </page>
 <page no="31">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 24
 <g/>
 :
@@ -64378,7 +64387,7 @@ Mooshie
 ܠܵܐ
 </page>
 <page no="32">
-﻿32
+32
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 24
@@ -64935,7 +64944,7 @@ Mooshie
 .
 </page>
 <page no="33">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 24
 <g/>
 :
@@ -65461,7 +65470,7 @@ Mooshie
 ܟܠ
 </page>
 <page no="34">
-﻿34
+34
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 24
@@ -65994,7 +66003,7 @@ Mooshie
 ܡܵܪܹܐ
 </page>
 <page no="35">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 24
 <g/>
 :
@@ -66498,7 +66507,7 @@ Mooshie
 ܪܵܒܵܐ
 </page>
 <page no="36">
-﻿36
+36
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 24
@@ -67002,9 +67011,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="4" date="8/10/1908" num_of_pages="12">
 <page no="37">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -67315,7 +67325,7 @@ Mooshie
 .
 </page>
 <page no="38">
-﻿38
+38
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 10
@@ -67883,7 +67893,7 @@ Mooshie
 ܒܘܼܫ
 </page>
 <page no="39">
-﻿ܛܒܚ
+ܛܒܚ
 10
 <g/>
 :
@@ -68468,7 +68478,7 @@ Mooshie
 ܥܸܣܪܝܼ
 </page>
 <page no="40">
-﻿40
+40
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 10
@@ -69035,7 +69045,7 @@ Mooshie
 ܩܵܬܘܼܗ̇
 </page>
 <page no="41">
-﻿ܛܒܚ
+ܛܒܚ
 10
 <g/>
 :
@@ -69561,7 +69571,7 @@ Mooshie
 :
 </page>
 <page no="42">
-﻿42
+42
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 10
@@ -70066,7 +70076,7 @@ Mooshie
 ܡܓܵܘ
 </page>
 <page no="43">
-﻿ܛܒܚ
+ܛܒܚ
 10
 <g/>
 :
@@ -70560,7 +70570,7 @@ Mooshie
 .
 </page>
 <page no="44">
-﻿44
+44
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 10
@@ -71038,7 +71048,7 @@ Mooshie
 ܒܚܵܠܝܼܨܘܼܬܵܐ
 </page>
 <page no="45">
-﻿ܛܒܚ
+ܛܒܚ
 10
 <g/>
 :
@@ -71479,7 +71489,7 @@ Mooshie
 .
 </page>
 <page no="46">
-﻿46
+46
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 10
@@ -71952,7 +71962,7 @@ Mooshie
 .
 </page>
 <page no="47">
-﻿ܛܒܝܝ
+ܛܒܝܝ
 10
 <g/>
 :
@@ -72421,7 +72431,7 @@ Mooshie
 ܒܸܛܠܵܒܵܐ
 </page>
 <page no="48">
-﻿48
+48
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 10
@@ -72910,9 +72920,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="6" date="9/24/1908" num_of_pages="12">
 <page no="61">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -73229,7 +73240,7 @@ Mooshie
 ܠܵܙܸܡ
 </page>
 <page no="62">
-﻿62
+62
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -73784,7 +73795,7 @@ Mooshie
 ܒܟܠ
 </page>
 <page no="63">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 <g/>
 :
@@ -74352,7 +74363,7 @@ Mooshie
 :
 </page>
 <page no="64">
-﻿64
+64
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -74941,7 +74952,7 @@ Mooshie
 ܕܒܲܝܬܵܐ
 </page>
 <page no="65">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 <g/>
 :
@@ -75458,7 +75469,7 @@ Mooshie
 .
 </page>
 <page no="66">
-﻿66
+66
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -75942,7 +75953,7 @@ Mooshie
 .
 </page>
 <page no="67">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 <g/>
 :
@@ -76455,7 +76466,7 @@ Mooshie
 ܬܲܝܠ
 </page>
 <page no="68">
-﻿68
+68
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -76924,7 +76935,7 @@ Mooshie
 .
 </page>
 <page no="69">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 <g/>
 :
@@ -77379,7 +77390,7 @@ Mooshie
 ܩܵܐ
 </page>
 <page no="70">
-﻿70
+70
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -77843,7 +77854,7 @@ Mooshie
 ܘܡܲܦܠܲܚܬܵܐ
 </page>
 <page no="71">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 <g/>
 :
@@ -78324,7 +78335,7 @@ Mooshie
 ܝܢܵܐ
 </page>
 <page no="72">
-﻿72
+72
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -78834,9 +78845,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="7" date="10/10/1908" num_of_pages="12">
 <page no="73">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -79185,7 +79197,7 @@ Mooshie
 ܠܐܲܩܠܵܐ
 </page>
 <page no="74">
-﻿74
+74
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -79685,7 +79697,7 @@ Mooshie
 ܦܠܵܫܵܐ
 </page>
 <page no="75">
-﻿ܟܸܪܝ
+ܟܸܪܝ
 ܩܕ݇
 <g/>
 .
@@ -80201,7 +80213,7 @@ Mooshie
 ܕܐܵܗܵܐ
 </page>
 <page no="76">
-﻿76
+76
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -80718,7 +80730,7 @@ Mooshie
 ܠܐܲܪܥܵܐ
 </page>
 <page no="77">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܩܕ݇
 <g/>
 .
@@ -81225,7 +81237,7 @@ Mooshie
 ܥܲܡ
 </page>
 <page no="78">
-﻿78
+78
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -81696,7 +81708,7 @@ Mooshie
 :
 </page>
 <page no="79">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܩܕ݇
 <g/>
 .
@@ -82195,7 +82207,7 @@ Mooshie
 ܚܕܵܐ
 </page>
 <page no="80">
-﻿80
+80
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -82676,7 +82688,7 @@ Mooshie
 ܒܢܸܣܒܲܬ
 </page>
 <page no="81">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܩܕ݇
 <g/>
 .
@@ -83167,7 +83179,7 @@ Mooshie
 ܢܵܐܟ̰ܵܪܵܐ
 </page>
 <page no="82">
-﻿82
+82
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -83690,7 +83702,7 @@ Mooshie
 .
 </page>
 <page no="83">
-﻿ܟܸܪܝ
+ܟܸܪܝ
 ܩܕ݇
 <g/>
 .
@@ -84186,7 +84198,7 @@ Mooshie
 ܠܐܵܗܵܐ
 </page>
 <page no="84">
-﻿84
+84
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -84705,9 +84717,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="8" date="10/24/1908" num_of_pages="12">
 <page no="85">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -85041,7 +85054,7 @@ Mooshie
 :
 </page>
 <page no="86">
-﻿86
+86
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -85539,7 +85552,7 @@ Mooshie
 ܝܠܵܐ
 </page>
 <page no="87">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܩܕ݇
 <g/>
 .
@@ -86097,7 +86110,7 @@ Mooshie
 .
 </page>
 <page no="88">
-﻿88
+88
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -86626,7 +86639,7 @@ Mooshie
 ܡ݂ܢ
 </page>
 <page no="89">
-﻿ܟܸܪܝ
+ܟܸܪܝ
 ܩܕ݇
 <g/>
 .
@@ -87173,7 +87186,7 @@ Mooshie
 ܗܸܟ̰
 </page>
 <page no="90">
-﻿90
+90
 ܟܘܟ݂ܒ݂ܐ
 ܟܸܪܝ
 ܩܕ݇
@@ -87686,7 +87699,7 @@ Mooshie
 .
 </page>
 <page no="91">
-﻿ܟܸܪܝ
+ܟܸܪܝ
 ܩܕ݇
 24
 <g/>
@@ -88137,7 +88150,7 @@ Mooshie
 .
 </page>
 <page no="92">
-﻿92
+92
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -88671,7 +88684,7 @@ Mooshie
 ܗܲܡܵܫܵܐ
 </page>
 <page no="93">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܩܕ݇
 <g/>
 .
@@ -89171,7 +89184,7 @@ Mooshie
 ܒܸܓܪܵܫܵܐ
 </page>
 <page no="94">
-﻿94
+94
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -89675,7 +89688,7 @@ Mooshie
 ܝܲܢ
 </page>
 <page no="95">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܩܕ݇
 24
 <g/>
@@ -90237,7 +90250,7 @@ Mooshie
 :
 </page>
 <page no="96">
-﻿96
+96
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܩܕ݇
@@ -90739,9 +90752,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="9" date="11/10/1908" num_of_pages="12">
 <page no="97">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -91089,7 +91103,7 @@ Mooshie
 ܝܵܗ݇ܒ݂ܸܠ
 </page>
 <page no="98">
-﻿98
+98
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -91665,7 +91679,7 @@ Mooshie
 .
 </page>
 <page no="99">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 <g/>
 .
@@ -92260,7 +92274,7 @@ Mooshie
 )
 </page>
 <page no="100">
-﻿100
+100
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -92871,7 +92885,7 @@ Mooshie
 ܦܸܟܝܼܪܹ̈ܐ
 </page>
 <page no="101">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 <g/>
 .
@@ -93393,7 +93407,7 @@ Mooshie
 ܝܲܢ
 </page>
 <page no="102">
-﻿102
+102
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -93970,7 +93984,7 @@ Mooshie
 ܓܵܘ
 </page>
 <page no="103">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 <g/>
 .
@@ -94404,7 +94418,7 @@ Mooshie
 ܬܲܝܠ
 </page>
 <page no="104">
-﻿104
+104
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -94924,7 +94938,7 @@ Mooshie
 :
 </page>
 <page no="105">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 <g/>
 .
@@ -95410,7 +95424,7 @@ Mooshie
 ܚܵܕ݇
 </page>
 <page no="106">
-﻿106
+106
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -95895,7 +95909,7 @@ Mooshie
 .
 </page>
 <page no="107">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 <g/>
 .
@@ -96420,7 +96434,7 @@ Mooshie
 ܩܵܐ
 </page>
 <page no="108">
-﻿108
+108
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -96951,9 +96965,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="10" date="11/24/1908" num_of_pages="12">
 <page no="109">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -97272,7 +97287,7 @@ Mooshie
 ܕܥܲܠ
 </page>
 <page no="110">
-﻿110
+110
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -97836,7 +97851,7 @@ Mooshie
 ܚܘܵܪܹ̈ܐ
 </page>
 <page no="111">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 24
 <g/>
@@ -98342,7 +98357,7 @@ Mooshie
 :
 </page>
 <page no="112">
-﻿112
+112
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -98967,7 +98982,7 @@ Mooshie
 ܟܠܵܝ
 </page>
 <page no="113">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 <g/>
 .
@@ -99549,7 +99564,7 @@ Mooshie
 .
 </page>
 <page no="114">
-﻿114
+114
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -100103,7 +100118,7 @@ Mooshie
 ܕܥܘܼܕܵܠܹܐ
 </page>
 <page no="115">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 24
 <g/>
@@ -100615,7 +100630,7 @@ Mooshie
 ܡܸܢܕܝܼ
 </page>
 <page no="116">
-﻿116
+116
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -101196,7 +101211,7 @@ Mooshie
 ܠܹܐ
 </page>
 <page no="117">
-﻿ܟ̰ܪܝ
+ܟ̰ܪܝ
 ܐܚܪ
 <g/>
 .
@@ -101665,7 +101680,7 @@ Mooshie
 ܛܠܸܒܠܹܐ
 </page>
 <page no="118">
-﻿118
+118
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -102164,7 +102179,7 @@ Mooshie
 ܦܸܠܵܢ
 </page>
 <page no="119">
-﻿ܐܚܪ
+ܐܚܪ
 ܟ̰ܪܝ
 <g/>
 .
@@ -102667,7 +102682,7 @@ Mooshie
 :
 </page>
 <page no="120">
-﻿120
+120
 ܟܘܟ݂ܒ݂ܐ
 ܟ̰ܪܝ
 ܐܚܪ
@@ -103184,9 +103199,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="11" date="12/10/1908" num_of_pages="12">
 <page no="121">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -103530,7 +103546,7 @@ Mooshie
 .
 </page>
 <page no="122">
-﻿122
+122
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -104086,7 +104102,7 @@ Mooshie
 ܘܦܪܵܥܝܬܵܐ
 </page>
 <page no="123">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 <g/>
 .
@@ -104606,7 +104622,7 @@ Mooshie
 ܦܲܪܨܘܿܦܵܐ
 </page>
 <page no="124">
-﻿124
+124
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -105136,7 +105152,7 @@ Mooshie
 ܒܐܵܗܵܐ
 </page>
 <page no="125">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 10
 <g/>
@@ -105617,7 +105633,7 @@ Mooshie
 :
 </page>
 <page no="126">
-﻿126
+126
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -106077,7 +106093,7 @@ Mooshie
 ܗ݇ܘܵܘ
 </page>
 <page no="127">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 <g/>
 .
@@ -106585,7 +106601,7 @@ Mooshie
 ܘܒܸܦܠܵܚܵܐ
 </page>
 <page no="128">
-﻿128
+128
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -107077,7 +107093,7 @@ Mooshie
 ܙܲܚܡܘܼܬܹܗ
 </page>
 <page no="129">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 <g/>
 .
@@ -107614,7 +107630,7 @@ Mooshie
 ܘܪܵܒܵܐ
 </page>
 <page no="130">
-﻿130
+130
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -108171,7 +108187,7 @@ Mooshie
 ܒܕܝܼܹܗ
 </page>
 <page no="131">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 <g/>
 .
@@ -108722,7 +108738,7 @@ account
 .
 </page>
 <page no="132">
-﻿132
+132
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -109322,9 +109338,10 @@ Persia
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1908">
 <periodical issue="3" no="12" date="12/24/1908" num_of_pages="12">
 <page no="133">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -109638,7 +109655,7 @@ Mooshie
 ܝܠܵܐ
 </page>
 <page no="134">
-﻿134
+134
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -110160,7 +110177,7 @@ Mooshie
 :
 </page>
 <page no="135">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 <g/>
 .
@@ -110763,7 +110780,7 @@ Mooshie
 ܡܲܥܠܘܼܡ
 </page>
 <page no="136">
-﻿136
+136
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -111255,7 +111272,7 @@ Mooshie
 ܕܦܸܫܠܘܿܢ
 </page>
 <page no="137">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 24
 <g/>
@@ -111734,7 +111751,7 @@ Mooshie
 ܕܐܵܗܵܐ
 </page>
 <page no="138">
-﻿138
+138
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -112252,7 +112269,7 @@ Mooshie
 ܬܘܼܢܝܼܬܵܐ
 </page>
 <page no="139">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 <g/>
 .
@@ -112723,7 +112740,7 @@ Mooshie
 :
 </page>
 <page no="140">
-﻿140
+140
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -113219,7 +113236,7 @@ Mooshie
 ܟܡܵܐ
 </page>
 <page no="141">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 <g/>
 .
@@ -113713,7 +113730,7 @@ Mooshie
 ܡܲܓ̰ܘܼܓ̰ܬܵܐ
 </page>
 <page no="142">
-﻿142
+142
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -114262,7 +114279,7 @@ Mooshie
 ܐܘܼܪܚܵܐ
 </page>
 <page no="143">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇
 <g/>
 .
@@ -114753,7 +114770,7 @@ Mooshie
 ܙܹ̃ܐ
 </page>
 <page no="144">
-﻿144
+144
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇
@@ -115285,9 +115302,10 @@ Persia
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="3" no="13" date="1/10/1909" num_of_pages="12">
 <page no="145">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -115626,7 +115644,7 @@ Mooshie
 .
 </page>
 <page no="146">
-﻿146
+146
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -115949,7 +115967,7 @@ Mooshie
 ܣܘܼܢܣܸܠܵܐ
 </page>
 <page no="147">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -116508,7 +116526,7 @@ Mooshie
 ܩܘܼܪܕܵܝܵܐ
 </page>
 <page no="148">
-﻿148
+148
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -117027,7 +117045,7 @@ Mooshie
 :
 </page>
 <page no="149">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -117538,7 +117556,7 @@ Mooshie
 ܣܸܦܘܼܪܓ݂ܵܢ
 </page>
 <page no="150">
-﻿150
+150
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -117972,7 +117990,7 @@ Mooshie
 ܒܟ̰ܹܪܝܼ
 </page>
 <page no="151">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -118489,7 +118507,7 @@ Mooshie
 ܝܠܹܐ
 </page>
 <page no="152">
-﻿152
+152
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -119001,7 +119019,7 @@ Mooshie
 :
 </page>
 <page no="153">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 10
 <g/>
@@ -119477,7 +119495,7 @@ Mooshie
 ܕܗܵܟܲܡܬܵܐ
 </page>
 <page no="154">
-﻿154
+154
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -119954,7 +119972,7 @@ Mooshie
 ܫܲܒ݂ܲܥ
 </page>
 <page no="155">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -120429,7 +120447,7 @@ Mooshie
 ܐܬܹܠܵܐ
 </page>
 <page no="156">
-﻿156
+156
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -120918,9 +120936,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="3" no="14" date="1/24/1909" num_of_pages="12">
 <page no="157">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -121262,7 +121281,7 @@ Mooshie
 ܐܸܢ
 </page>
 <page no="158">
-﻿158
+158
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -121769,7 +121788,7 @@ Mooshie
 ܣܦܝܼܩܹ̈ܐ
 </page>
 <page no="159">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -122258,7 +122277,7 @@ Mooshie
 ܝܘܵܚ
 </page>
 <page no="160">
-﻿160
+160
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -122803,7 +122822,7 @@ Mooshie
 ܚܫܝܼܚܹ̈ܐ
 </page>
 <page no="161">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -123334,7 +123353,7 @@ Mooshie
 :
 </page>
 <page no="162">
-﻿162
+162
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -123703,7 +123722,7 @@ Mooshie
 .
 </page>
 <page no="163">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -124207,7 +124226,7 @@ Mooshie
 ܐܲܗܘܵܠ
 </page>
 <page no="164">
-﻿164
+164
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -124699,7 +124718,7 @@ Mooshie
 .
 </page>
 <page no="165">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -125196,7 +125215,7 @@ Mooshie
 :
 </page>
 <page no="166">
-﻿166
+166
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -125676,7 +125695,7 @@ Mooshie
 ܡܸܢܵܝ
 </page>
 <page no="167">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 24
 <g/>
@@ -126176,7 +126195,7 @@ Mooshie
 ܠܗܲܓ̰ܲܬܹ̈ܐ
 </page>
 <page no="168">
-﻿168
+168
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -126671,9 +126690,10 @@ Persia
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="3" no="15" date="2/10/1909" num_of_pages="12">
 <page no="169">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -127005,7 +127025,7 @@ Mooshie
 .
 </page>
 <page no="170">
-﻿170
+170
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -127518,7 +127538,7 @@ Mooshie
 ܕܲܣܲܬܵܐ
 </page>
 <page no="171">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 <g/>
 :
@@ -128018,7 +128038,7 @@ Mooshie
 ܝܠܹܐ
 </page>
 <page no="172">
-﻿172
+172
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -128520,7 +128540,7 @@ Mooshie
 ܡܸܕܪܹܐ
 </page>
 <page no="173">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 <g/>
 :
@@ -129042,7 +129062,7 @@ Mooshie
 ܗ݇ܘܵܐ
 </page>
 <page no="174">
-﻿174
+174
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -129602,7 +129622,7 @@ Mooshie
 ܓܕܵܠܵܐ
 </page>
 <page no="175">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 <g/>
 :
@@ -130120,7 +130140,7 @@ Mooshie
 ܒܸܓܪܵܫܵܐ
 </page>
 <page no="176">
-﻿176
+176
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -130584,7 +130604,7 @@ Mooshie
 ܡܚܹܠܹܐ
 </page>
 <page no="177">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 <g/>
 :
@@ -131022,7 +131042,7 @@ Mooshie
 ܓܵܘܵܝܹ̈ܐ
 </page>
 <page no="178">
-﻿178
+178
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -131512,7 +131532,7 @@ Mooshie
 .
 </page>
 <page no="179">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 <g/>
 :
@@ -132012,7 +132032,7 @@ Mooshie
 ܐܘܼܚܟ̰ܵܐ
 </page>
 <page no="180">
-﻿180
+180
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -132528,9 +132548,10 @@ account
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="3" no="18" date="3/24/1909" num_of_pages="12">
 <page no="205">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -132831,7 +132852,7 @@ Mooshie
 ܚܕܵܐ
 </page>
 <page no="206">
-﻿206
+206
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -133354,7 +133375,7 @@ Mooshie
 ܗ݇ܘܵܐ
 </page>
 <page no="207">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -133861,7 +133882,7 @@ Mooshie
 .
 </page>
 <page no="208">
-﻿208
+208
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -134387,7 +134408,7 @@ Mooshie
 ܩܵܪܵܘܘܿܠ
 </page>
 <page no="209">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -134941,7 +134962,7 @@ Mooshie
 ܓܘܼܪܬܵܐ
 </page>
 <page no="210">
-﻿210
+210
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -135430,7 +135451,7 @@ Mooshie
 ܕܵܘܠܲܬܡܲܢܕ
 </page>
 <page no="211">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -135924,7 +135945,7 @@ Mooshie
 ܦܵܬܵܐ
 </page>
 <page no="212">
-﻿212
+212
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -136433,7 +136454,7 @@ Mooshie
 .
 </page>
 <page no="213">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -136876,7 +136897,7 @@ Mooshie
 ܠܕܲܪܩܘܼܒ݂ܠܹܗ
 </page>
 <page no="214">
-﻿214
+214
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -137392,7 +137413,7 @@ Mooshie
 .
 </page>
 <page no="215">
-﻿ܐܕܪ
+ܐܕܪ
 24
 <g/>
 :
@@ -137893,7 +137914,7 @@ Mooshie
 ܫܲܚܠܲܦܬܵܐ
 </page>
 <page no="216">
-﻿216
+216
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -138425,9 +138446,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="3" no="19" date="4/10/1909" num_of_pages="12">
 <page no="217">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -138754,7 +138776,7 @@ Mooshie
 ؛
 </page>
 <page no="218">
-﻿218
+218
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -139247,7 +139269,7 @@ Mooshie
 ܟܹܐ
 </page>
 <page no="219">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -139780,7 +139802,7 @@ Mooshie
 ܐܲܗܘܵܠ
 </page>
 <page no="220">
-﻿220
+220
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -140285,7 +140307,7 @@ Mooshie
 ܘܘܸܢܸܦ̮ܪܸܕ
 </page>
 <page no="221">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -140845,7 +140867,7 @@ Mooshie
 ܝܼܘܸܢ
 </page>
 <page no="222">
-﻿222
+222
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -141371,7 +141393,7 @@ Mooshie
 ܡܸܢܕܝܼ
 </page>
 <page no="223">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -141937,7 +141959,7 @@ Mooshie
 :
 </page>
 <page no="224">
-﻿224
+224
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -142410,7 +142432,7 @@ Mooshie
 ܗ݇ܘܵܐ
 </page>
 <page no="225">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -142930,7 +142952,7 @@ Mooshie
 .
 </page>
 <page no="226">
-﻿226
+226
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -143440,7 +143462,7 @@ Mooshie
 ܒܘܼܩܸܪܬܵܐ
 </page>
 <page no="227">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 <g/>
 :
@@ -143988,7 +144010,7 @@ Mooshie
 ܘܩܪܹܠܹܐ
 </page>
 <page no="228">
-﻿228
+228
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -144508,9 +144530,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="3" no="20" date="4/24/1909" num_of_pages="12">
 <page no="228">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -144866,7 +144889,7 @@ Mooshie
 ܫܸܟܠܵܐ
 </page>
 <page no="229">
-﻿229
+229
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -145391,7 +145414,7 @@ Mooshie
 ܘܵܓ̰ܸܒܘܼܬܵܐ
 </page>
 <page no="230">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -145948,7 +145971,7 @@ Mooshie
 ܐܸܢ
 </page>
 <page no="231">
-﻿231
+231
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -146491,7 +146514,7 @@ Mooshie
 ܠܸܒܵܐ
 </page>
 <page no="232">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -146842,7 +146865,7 @@ Mooshie
 :
 </page>
 <page no="233">
-﻿233
+233
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -147235,7 +147258,7 @@ Mooshie
 ܡܲܬܘܼܒ݂ܹܗ
 </page>
 <page no="234">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -147761,7 +147784,7 @@ Mooshie
 .
 </page>
 <page no="235">
-﻿235
+235
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -148223,7 +148246,7 @@ Mooshie
 ܐܸܢ
 </page>
 <page no="236">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -148707,7 +148730,7 @@ Mooshie
 .
 </page>
 <page no="237">
-﻿237
+237
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -149229,7 +149252,7 @@ Mooshie
 ܝܵܘܣܸܦ
 </page>
 <page no="238">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 <g/>
 :
@@ -149715,7 +149738,7 @@ Mooshie
 ܐܵܗܵܐ
 </page>
 <page no="239">
-﻿239
+239
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -150228,9 +150251,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="3" no="21" date="5/10/1909" num_of_pages="12">
 <page no="240">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -150580,7 +150604,7 @@ Mooshie
 ܡܲܬܒ݂ܝܼ
 </page>
 <page no="241">
-﻿241
+241
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -151076,7 +151100,7 @@ Mooshie
 ܠܵܗ̇
 </page>
 <page no="242">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -151643,7 +151667,7 @@ Co
 ؛
 </page>
 <page no="243">
-﻿243
+243
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -152183,7 +152207,7 @@ Co
 :
 </page>
 <page no="244">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -152677,7 +152701,7 @@ Co
 ܐܘܼܪܚܵܐ
 </page>
 <page no="245">
-﻿245
+245
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -153145,7 +153169,7 @@ Co
 :
 </page>
 <page no="246">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -153633,7 +153657,7 @@ Co
 ܓܵܘ
 </page>
 <page no="247">
-﻿247
+247
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -154098,7 +154122,7 @@ Co
 ܘܛܠܸܒܠܹܐ
 </page>
 <page no="248">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -154552,7 +154576,7 @@ Co
 ܕܐܝܼܬ
 </page>
 <page no="249">
-﻿249
+249
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -155031,7 +155055,7 @@ Co
 ܪ̈ܘܼܣܢܵܝܹܐ
 </page>
 <page no="250">
-﻿ܐܝܪ
+ܐܝܪ
 10
 <g/>
 :
@@ -155495,7 +155519,7 @@ Co
 ܐܘܼܦ
 </page>
 <page no="251">
-﻿251
+251
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 10
@@ -155990,9 +156014,10 @@ England
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="3" no="22" date="6/3/1909" num_of_pages="12">
 <page no="252">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -156321,7 +156346,7 @@ Mooshie
 ؛
 </page>
 <page no="253">
-﻿253
+253
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 3
@@ -156823,7 +156848,7 @@ Mooshie
 ܕܓܘܼܒܝܹ̈ܐ
 </page>
 <page no="254">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 3
 <g/>
 :
@@ -157316,7 +157341,7 @@ Mooshie
 ܝܢܵܐ
 </page>
 <page no="255">
-﻿255
+255
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 3
@@ -157802,7 +157827,7 @@ Mooshie
 ܒܸܗܘܵܝܵܐ
 </page>
 <page no="256">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 3
 <g/>
 :
@@ -158264,7 +158289,7 @@ Mooshie
 .
 </page>
 <page no="257">
-﻿257
+257
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 3
@@ -158725,7 +158750,7 @@ Mooshie
 ܠܹܗ
 </page>
 <page no="258">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 3
 <g/>
 :
@@ -159178,7 +159203,7 @@ Mooshie
 .
 </page>
 <page no="259">
-﻿259
+259
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 3
@@ -159643,7 +159668,7 @@ Mooshie
 ܗܵܕܟ݂ܵܐ
 </page>
 <page no="260">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 3
 <g/>
 :
@@ -160091,7 +160116,7 @@ Mooshie
 ܡ݂ܢ
 </page>
 <page no="261">
-﻿261
+261
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 3
@@ -160570,7 +160595,7 @@ Mooshie
 ܩܘܼܘܸܠܹܐ
 </page>
 <page no="262">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 3
 <g/>
 :
@@ -161046,7 +161071,7 @@ Mooshie
 .
 </page>
 <page no="263">
-﻿263
+263
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 3
@@ -161560,9 +161585,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="4" no="1" date="6/24/1909" num_of_pages="12">
 <page no="1">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -161911,7 +161937,7 @@ Mooshie
 ܩܵܐ
 </page>
 <page no="2">
-﻿2
+2
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -162410,7 +162436,7 @@ Mooshie
 :
 </page>
 <page no="3">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -162922,7 +162948,7 @@ Mooshie
 ܕܗܘܼܕܸܪܘܿܢ
 </page>
 <page no="4">
-﻿4
+4
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -163421,7 +163447,7 @@ Mooshie
 .
 </page>
 <page no="5">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -163927,7 +163953,7 @@ Mooshie
 ܗܵܘܹܐ
 </page>
 <page no="6">
-﻿6
+6
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -164390,7 +164416,7 @@ Mooshie
 “
 </page>
 <page no="7">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -164857,7 +164883,7 @@ Mooshie
 ܕܦܹܐܪܵܐ
 </page>
 <page no="8">
-﻿8
+8
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -165371,7 +165397,7 @@ Mooshie
 :
 </page>
 <page no="9">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -165809,7 +165835,7 @@ Mooshie
 ܝܲܪ̈ܚܹܐ
 </page>
 <page no="10">
-﻿10
+10
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -166321,7 +166347,7 @@ Mooshie
 ܕܦܵܝܸܫ
 </page>
 <page no="11">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 <g/>
 :
@@ -166802,7 +166828,7 @@ Mooshie
 ܐܲܪܒܥܵܐ
 </page>
 <page no="12">
-﻿12
+12
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -167268,9 +167294,10 @@ Mooshie
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1909">
 <periodical issue="4" no="2" date="7/10/1909" num_of_pages="12">
 <page no="13">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -167542,7 +167569,7 @@ Auraham
 ܝܠܹܗ
 </page>
 <page no="14">
-﻿14
+14
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -168090,7 +168117,7 @@ Auraham
 ܝܠܹܐ
 </page>
 <page no="15">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -168602,7 +168629,7 @@ Auraham
 .
 </page>
 <page no="16">
-﻿16
+16
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -169146,7 +169173,7 @@ Auraham
 ܐܚܹܪ̈݇ܢܹܐ
 </page>
 <page no="17">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -169645,7 +169672,7 @@ Auraham
 ܩܵܐ
 </page>
 <page no="18">
-﻿18
+18
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -170080,7 +170107,7 @@ Auraham
 .
 </page>
 <page no="19">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -170575,7 +170602,7 @@ Auraham
 .
 </page>
 <page no="20">
-﻿20
+20
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -171053,7 +171080,7 @@ Auraham
 :
 </page>
 <page no="21">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -171521,7 +171548,7 @@ Auraham
 ܘܲܓܙܵܠ
 </page>
 <page no="22">
-﻿22
+22
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10
@@ -172013,7 +172040,7 @@ Auraham
 ܕܩܵܘܫܘܿܢ
 </page>
 <page no="23">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 10
 <g/>
 :
@@ -172497,7 +172524,7 @@ Auraham
 ܓܘܼܪܵܐ
 </page>
 <page no="24">
-﻿24
+24
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 10

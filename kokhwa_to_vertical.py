@@ -9,13 +9,6 @@ class KokhwaToVerticalStrategy(BaseVerticalStrategy):
         periodical_info = self.read_csv(csv_file)
 
         with open(output_file, 'w', encoding='utf-8') as f:
-            # Write the root <doc> element with metadata attributes
-            doc_tag = f'<doc'
-            for key, value in metadata.items():
-                doc_tag += f' {key}="{value}"'
-            doc_tag += '>\n'
-            f.write(doc_tag)
-
             for info in periodical_info:
                 issue = info['issue']
                 number = info['number']
@@ -24,6 +17,16 @@ class KokhwaToVerticalStrategy(BaseVerticalStrategy):
                 start_page = int(info['start_page'])
                 file_start = int(info['file_start'])
                 file_end = int(info['file_end'])
+
+                # Extract the year from the date
+                year = date.split('/')[-1]
+
+                # Write the <doc> element with metadata attributes and pub_date
+                doc_tag = f'<doc'
+                for key, value in metadata.items():
+                    doc_tag += f' {key}="{value}"'
+                doc_tag += f' pub_date="{year}">\n'
+                f.write(doc_tag)
 
                 # Write the <periodical> element
                 f.write(f'<periodical issue="{issue}" no="{number}" date="{date}" num_of_pages="{num_of_pages}">\n')
@@ -46,8 +49,7 @@ class KokhwaToVerticalStrategy(BaseVerticalStrategy):
                             logical_page_no += 1
 
                 f.write('</periodical>\n')
-
-            f.write('</doc>\n')
+                f.write('</doc>\n')
 
     def read_csv(self, csv_file):
         periodical_info = []

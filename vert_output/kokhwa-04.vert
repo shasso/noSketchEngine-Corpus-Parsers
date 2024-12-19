@@ -1,7 +1,6 @@
-<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran">
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1910">
 <periodical issue="5" no="11" date="12/10/1910" num_of_pages="12">
 <page no="121">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -273,7 +272,7 @@ Auraham
 ܚܵܕ݇
 </page>
 <page no="122">
-﻿122
+122
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -748,7 +747,7 @@ Auraham
 ܠܲܡܣܸܣܬܵܢ
 </page>
 <page no="123">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -1241,7 +1240,7 @@ Auraham
 .
 </page>
 <page no="124">
-﻿124
+124
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -1697,7 +1696,7 @@ Auraham
 ܥܵܡܵܠ
 </page>
 <page no="125">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -2162,7 +2161,7 @@ Auraham
 .
 </page>
 <page no="126">
-﻿126
+126
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -2528,7 +2527,7 @@ Auraham
 .
 </page>
 <page no="127">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -3009,7 +3008,7 @@ Auraham
 ܡܵܬܘܵܬܹ̈ܐ
 </page>
 <page no="128">
-﻿128
+128
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -3487,7 +3486,7 @@ Auraham
 ܡ݂ܢ
 </page>
 <page no="129">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -3911,7 +3910,7 @@ Auraham
 ܦܸܟܝܼܪ
 </page>
 <page no="130">
-﻿130
+130
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -4349,7 +4348,7 @@ Auraham
 ܡ݂ܢ
 </page>
 <page no="131">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -4811,7 +4810,7 @@ Auraham
 ܩܵܢܘܿܪܹ̈ܐ
 </page>
 <page no="132">
-﻿132
+132
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -5272,9 +5271,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1910">
 <periodical issue="5" no="12" date="12/24/1910" num_of_pages="12">
 <page no="133">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -5572,7 +5572,7 @@ Auraham
 ܨܦܵܝܝܼ
 </page>
 <page no="134">
-﻿134
+134
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -6050,7 +6050,7 @@ Auraham
 .
 </page>
 <page no="135">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -6496,7 +6496,7 @@ Auraham
 :
 </page>
 <page no="136">
-﻿136
+136
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -7003,7 +7003,7 @@ Auraham
 ܒܕܸܦܢܵܐ
 </page>
 <page no="137">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -7502,7 +7502,7 @@ Auraham
 ܝܘܿܡܵܐ
 </page>
 <page no="138">
-﻿138
+138
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -7974,7 +7974,7 @@ Auraham
 ܓܵܘ
 </page>
 <page no="139">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -8394,7 +8394,7 @@ Auraham
 ܥܲܠ
 </page>
 <page no="140">
-﻿140
+140
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -8848,7 +8848,7 @@ Auraham
 ܓܘܼܪܵܐ
 </page>
 <page no="141">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -9296,7 +9296,7 @@ Auraham
 ܝܼܠܵܐ
 </page>
 <page no="142">
-﻿142
+142
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -9747,7 +9747,7 @@ Auraham
 ܐܲܪ̈ܒܵܒܹܐ
 </page>
 <page no="143">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -10274,7 +10274,7 @@ Auraham
 .
 </page>
 <page no="144">
-﻿144
+144
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -10553,9 +10553,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="13" date="1/10/1911" num_of_pages="12">
 <page no="145">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -10823,7 +10824,7 @@ Auraham
 ܢܸܡܘܼܢܵܐ
 </page>
 <page no="146">
-﻿146
+146
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -11289,7 +11290,7 @@ Persese
 ܕܚܘܼܝܵܕܵܐ
 </page>
 <page no="147">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -11777,7 +11778,7 @@ Persese
 .
 </page>
 <page no="148">
-﻿148
+148
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -12284,7 +12285,7 @@ Persese
 )
 </page>
 <page no="149">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -12763,7 +12764,7 @@ Persese
 ܒܢܲܦ̮ܫܵܝ
 </page>
 <page no="150">
-﻿150
+150
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -13149,7 +13150,7 @@ Persese
 ܓܘܼܪܬܵ
 </page>
 <page no="151">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -13595,7 +13596,7 @@ Persese
 ܕܝܲܥܩܘܼܒ݂
 </page>
 <page no="152">
-﻿152
+152
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -14027,7 +14028,7 @@ Persese
 ܕܫܝܼܪܵܙ
 </page>
 <page no="153">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -14533,7 +14534,7 @@ Persese
 .
 </page>
 <page no="154">
-﻿154
+154
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -15050,7 +15051,7 @@ Persese
 ܙܘܼܙܵܢܵܝܬܵܐ
 </page>
 <page no="155">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -15555,7 +15556,7 @@ Persese
 ܕܓܵܘܘܼܗ̇
 </page>
 <page no="156">
-﻿156
+156
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -16019,9 +16020,10 @@ Persese
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="14" date="1/24/1911" num_of_pages="12">
 <page no="157">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -16300,7 +16302,7 @@ Auraham
 :
 </page>
 <page no="158">
-﻿158
+158
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -16758,7 +16760,7 @@ Auraham
 ܨܲܚܨܵܝܬܵܐ
 </page>
 <page no="159">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -17245,7 +17247,7 @@ Auraham
 ܕܓܵܘ
 </page>
 <page no="160">
-﻿160
+160
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -17723,7 +17725,7 @@ Auraham
 ܙܥܘܿܪܵܐ
 </page>
 <page no="161">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -18183,7 +18185,7 @@ Auraham
 ܩܵܐ
 </page>
 <page no="162">
-﻿162
+162
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -18627,7 +18629,7 @@ Auraham
 .
 </page>
 <page no="163">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -19115,7 +19117,7 @@ Auraham
 ܒܲܠܟܵܐ
 </page>
 <page no="164">
-﻿164
+164
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -19564,7 +19566,7 @@ Auraham
 ܕܣܝܼܪܹ̈ܐ
 </page>
 <page no="165">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -19978,7 +19980,7 @@ Auraham
 ܐܚܹܪ݇ܬܵܐ
 </page>
 <page no="166">
-﻿166
+166
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -20443,7 +20445,7 @@ Auraham
 ܟܡܵܐ
 </page>
 <page no="167">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -20974,7 +20976,7 @@ Auraham
 .
 </page>
 <page no="168">
-﻿168
+168
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -21452,9 +21454,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="15" date="2/10/1911" num_of_pages="12">
 <page no="169">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -21740,7 +21743,7 @@ Auraham
 ܘܗܵܘܵܚ
 </page>
 <page no="170">
-﻿170
+170
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -22209,7 +22212,7 @@ Auraham
 ܒܸܚܕܵܝܵܐ
 </page>
 <page no="171">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 .
 10
@@ -22721,7 +22724,7 @@ Auraham
 .
 </page>
 <page no="172">
-﻿172
+172
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -23216,7 +23219,7 @@ Auraham
 ܚܸܙܡܹ̈ܐ
 </page>
 <page no="173">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 .
 10
@@ -23658,7 +23661,7 @@ Auraham
 .
 </page>
 <page no="174">
-﻿174
+174
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -24124,7 +24127,7 @@ Auraham
 .
 </page>
 <page no="175">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 .
 10
@@ -24555,7 +24558,7 @@ Auraham
 ܗ݇ܘܵܐ
 </page>
 <page no="176">
-﻿176
+176
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -25047,7 +25050,7 @@ Auraham
 .
 </page>
 <page no="177">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 .
 10
@@ -25488,7 +25491,7 @@ Auraham
 ܬܘܼܪ̈ܟܵܝܹܐ
 </page>
 <page no="178">
-﻿178
+178
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -25925,7 +25928,7 @@ Auraham
 ܗܲܪ
 </page>
 <page no="179">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 .
 10
@@ -26400,7 +26403,7 @@ Auraham
 ܝܲܢ
 </page>
 <page no="180">
-﻿180
+180
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -26843,9 +26846,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="16" date="2/24/1911" num_of_pages="12">
 <page no="181">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -27108,7 +27112,7 @@ Auraham
 ܒܘܼܫ
 </page>
 <page no="182">
-﻿182
+182
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -27596,7 +27600,7 @@ Auraham
 ܒܚܝܼܵܠܵܝ̈
 </page>
 <page no="183">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 :
 24
@@ -28073,7 +28077,7 @@ Auraham
 ܐܵܗܵܐ
 </page>
 <page no="184">
-﻿184
+184
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -28568,7 +28572,7 @@ Auraham
 ܦܲܪ̈ܡܝܼܵܢܹܐ
 </page>
 <page no="185">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 :
 24
@@ -29002,7 +29006,7 @@ Auraham
 :
 </page>
 <page no="186">
-﻿186
+186
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -29526,7 +29530,7 @@ Auraham
 ܒܸܬ
 </page>
 <page no="187">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 :
 24
@@ -29962,7 +29966,7 @@ Auraham
 .
 </page>
 <page no="188">
-﻿188
+188
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -30427,7 +30431,7 @@ Auraham
 ܒܵܕܵܠ
 </page>
 <page no="189">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 :
 24
@@ -30845,7 +30849,7 @@ Auraham
 ܝܠܵܐ
 </page>
 <page no="190">
-﻿190
+190
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -31349,7 +31353,7 @@ Auraham
 ܒܐܲܠܦܹ̈ܐ
 </page>
 <page no="191">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 <g/>
 :
 24
@@ -31799,7 +31803,7 @@ Auraham
 ܩܵܕ݇ܡ
 </page>
 <page no="192">
-﻿192
+192
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 <g/>
@@ -32278,9 +32282,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="17" date="3/10/1911" num_of_pages="12">
 <page no="193">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -32597,7 +32602,7 @@ Auraham
 ܗܵܘܹܐ
 </page>
 <page no="194">
-﻿194
+194
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -33105,7 +33110,7 @@ Auraham
 ܡܓܵܘ
 </page>
 <page no="195">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -33607,7 +33612,7 @@ Auraham
 ܐܵܗܵܐ
 </page>
 <page no="196">
-﻿196
+196
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -34077,7 +34082,7 @@ Auraham
 .
 </page>
 <page no="197">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -34581,7 +34586,7 @@ Auraham
 ܫܘܼܕܪܹܗ
 </page>
 <page no="198">
-﻿198
+198
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -35004,7 +35009,7 @@ Auraham
 ܣܢܝܼܩܘܼܬܵܐ
 </page>
 <page no="199">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -35465,7 +35470,7 @@ Auraham
 ܓܵܘ
 </page>
 <page no="200">
-﻿200
+200
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -35932,7 +35937,7 @@ Auraham
 .
 </page>
 <page no="201">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -36407,7 +36412,7 @@ Auraham
 .
 </page>
 <page no="202">
-﻿202
+202
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -36895,7 +36900,7 @@ Auraham
 ܣܘܼܙ‐
 </page>
 <page no="203">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -37356,7 +37361,7 @@ Auraham
 ܩܘܼܪܒܵܐ
 </page>
 <page no="204">
-﻿204
+204
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -37815,9 +37820,10 @@ Y
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="18" date="3/24/1911" num_of_pages="12">
 <page no="205">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -38111,7 +38117,7 @@ Auraham
 ܩܵܫܹ̈ܐ
 </page>
 <page no="206">
-﻿206
+206
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -38605,7 +38611,7 @@ Auraham
 ܕܒܲܝܬܵܐ
 </page>
 <page no="207">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 24
@@ -39135,7 +39141,7 @@ Auraham
 .
 </page>
 <page no="208">
-﻿208
+208
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -39638,7 +39644,7 @@ Auraham
 ܗ̇ܘ
 </page>
 <page no="209">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 24
@@ -40117,7 +40123,7 @@ Auraham
 ܙܵܘܕܵܐ
 </page>
 <page no="210">
-﻿210
+210
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -40624,7 +40630,7 @@ Auraham
 ܚܵܕ݇
 </page>
 <page no="211">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 24
@@ -41091,7 +41097,7 @@ Auraham
 .
 </page>
 <page no="212">
-﻿212
+212
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -41584,7 +41590,7 @@ Auraham
 .
 </page>
 <page no="213">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 24
@@ -42045,7 +42051,7 @@ Auraham
 .
 </page>
 <page no="214">
-﻿214
+214
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -42501,7 +42507,7 @@ Auraham
 .
 </page>
 <page no="215">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 24
@@ -42960,7 +42966,7 @@ Auraham
 .
 </page>
 <page no="216">
-﻿216
+216
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 <g/>
@@ -43469,9 +43475,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="19" date="4/10/1911" num_of_pages="12">
 <page no="217">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -43750,7 +43757,7 @@ Auraham
 ܕܩܝܵܡܬܵܐ
 </page>
 <page no="218">
-﻿218
+218
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -44115,7 +44122,7 @@ Auraham
 ܐܡܪܝܚܨ
 </page>
 <page no="219">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -44578,7 +44585,7 @@ Auraham
 .
 </page>
 <page no="220">
-﻿220
+220
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -45125,7 +45132,7 @@ Auraham
 .
 </page>
 <page no="221">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -45659,7 +45666,7 @@ Auraham
 .
 </page>
 <page no="222">
-﻿222
+222
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -46137,7 +46144,7 @@ Auraham
 ܗ݇ܘܵܐ
 </page>
 <page no="223">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -46631,7 +46638,7 @@ Auraham
 @
 </page>
 <page no="224">
-﻿224
+224
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -47107,7 +47114,7 @@ Auraham
 :
 </page>
 <page no="225">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -47605,7 +47612,7 @@ Auraham
 ܒܵ@
 </page>
 <page no="226">
-﻿226
+226
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -48051,7 +48058,7 @@ Auraham
 ܠܗ̇ܝ
 </page>
 <page no="227">
-﻿ܐܕܪ
+ܐܕܪ
 <g/>
 :
 10
@@ -48517,7 +48524,7 @@ Auraham
 ܚܲܟܡܵܐ
 </page>
 <page no="228">
-﻿228
+228
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -48985,9 +48992,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="20" date="4/24/1911" num_of_pages="12">
 <page no="229">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -49265,7 +49273,7 @@ Auraham
 ܕܚܘܼܣܪܵܢܵܐ
 </page>
 <page no="230">
-﻿230
+230
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -49773,7 +49781,7 @@ Auraham
 ܘܩܵܐ
 </page>
 <page no="231">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 <g/>
 :
 24
@@ -50295,7 +50303,7 @@ Auraham
 ܥܘܿܡܵܪ
 </page>
 <page no="232">
-﻿232
+232
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -50821,7 +50829,7 @@ Auraham
 ܒܘܼܬ
 </page>
 <page no="233">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 <g/>
 :
 24
@@ -51312,7 +51320,7 @@ Auraham
 ܒܫܸܡܵܐ
 </page>
 <page no="234">
-﻿234
+234
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -51832,7 +51840,7 @@ Auraham
 ܕܒ݂ܵܩܬܵܐ
 </page>
 <page no="235">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 <g/>
 :
 24
@@ -52319,7 +52327,7 @@ Auraham
 .
 </page>
 <page no="236">
-﻿236
+236
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -52863,7 +52871,7 @@ Auraham
 ܗܘܝܼܵܐ
 </page>
 <page no="237">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 <g/>
 :
 24
@@ -53343,7 +53351,7 @@ Auraham
 ܣܬܵܡܦܹ̈ܐ
 </page>
 <page no="238">
-﻿238
+238
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -53790,7 +53798,7 @@ Auraham
 .
 </page>
 <page no="239">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 <g/>
 :
 24
@@ -54269,7 +54277,7 @@ Auraham
 .
 </page>
 <page no="240">
-﻿240
+240
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 <g/>
@@ -54722,9 +54730,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="21" date="5/10/1911" num_of_pages="12">
 <page no="241">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -55010,7 +55019,7 @@ Auraham
 ܫܒ݂ܵܒ݂ܹܗ
 </page>
 <page no="242">
-﻿242
+242
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -55483,7 +55492,7 @@ Auraham
 ܕܝܘܿܪ̈ܘܿܦܢܵܝܹܐ
 </page>
 <page no="243">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 10
@@ -56002,7 +56011,7 @@ Auraham
 ܪ̈ܵܗܲܬܘܼܝܵܬܹܐ
 </page>
 <page no="244">
-﻿244
+244
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -56483,7 +56492,7 @@ Auraham
 ܕܢܸܡܪܘܼܕ
 </page>
 <page no="245">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 10
@@ -57009,7 +57018,7 @@ Auraham
 ܒܫܲܝܢܵܐ
 </page>
 <page no="246">
-﻿246
+246
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -57486,7 +57495,7 @@ Auraham
 ܡܲܣܒܲܬܬܵܐ
 </page>
 <page no="247">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 10
@@ -58006,7 +58015,7 @@ Auraham
 .
 </page>
 <page no="248">
-﻿248
+248
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -58469,7 +58478,7 @@ Auraham
 ܕܕܲܝܢܵܐ
 </page>
 <page no="249">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 10
@@ -58955,7 +58964,7 @@ Auraham
 ܫܲܒ݂ܛܹ̈ܐ
 </page>
 <page no="250">
-﻿250
+250
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -59421,7 +59430,7 @@ Auraham
 ܗܲܪ
 </page>
 <page no="251">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 10
@@ -59931,7 +59940,7 @@ Auraham
 ܝܘܼܢܹܘܸܪ̈ܣܵܬܹܐ
 </page>
 <page no="252">
-﻿252
+252
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -60434,9 +60443,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="22" date="5/24/1911" num_of_pages="12">
 <page no="253">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -60705,7 +60715,7 @@ Auraham
 ܘܟܠ
 </page>
 <page no="254">
-﻿254
+254
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -61219,7 +61229,7 @@ Auraham
 ܟܠܵܣ
 </page>
 <page no="255">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 24
@@ -61726,7 +61736,7 @@ Auraham
 ܓܘܼܪܹ̈ܐ
 </page>
 <page no="256">
-﻿256
+256
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -62234,7 +62244,7 @@ Auraham
 ܐܚܹܪ̈݇ܢܹܐ
 </page>
 <page no="257">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 24
@@ -62759,7 +62769,7 @@ Auraham
 ‐
 </page>
 <page no="258">
-﻿258
+258
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -63284,7 +63294,7 @@ Auraham
 ܕܟܵܣܬܹ̈ܐ
 </page>
 <page no="259">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 24
@@ -63783,7 +63793,7 @@ Auraham
 ܦܵܬܵܚܝܼ
 </page>
 <page no="260">
-﻿260
+260
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -64349,7 +64359,7 @@ Auraham
 ܩܵܐ
 </page>
 <page no="261">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 24
@@ -64849,7 +64859,7 @@ Auraham
 ܐܝܼܬ
 </page>
 <page no="262">
-﻿262
+262
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -65320,7 +65330,7 @@ Auraham
 ܝܢܵܐ
 </page>
 <page no="263">
-﻿ܐܝܪ
+ܐܝܪ
 <g/>
 :
 24
@@ -65780,7 +65790,7 @@ Auraham
 .
 </page>
 <page no="264">
-﻿264
+264
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܪ
 <g/>
@@ -66253,9 +66263,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="5" no="23" date="6/10/1911" num_of_pages="12">
 <page no="265">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -66522,7 +66533,7 @@ Auraham
 .
 </page>
 <page no="266">
-﻿266
+266
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -67017,7 +67028,7 @@ Auraham
 ܐܘܼܦ
 </page>
 <page no="267">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 10
@@ -67541,7 +67552,7 @@ Auraham
 ܠܓܵܡܝܼ
 </page>
 <page no="268">
-﻿268
+268
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -68046,7 +68057,7 @@ Service
 :
 </page>
 <page no="269">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 10
@@ -68544,7 +68555,7 @@ Service
 :
 </page>
 <page no="270">
-﻿270
+270
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -69046,7 +69057,7 @@ Service
 :
 </page>
 <page no="271">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 10
@@ -69525,7 +69536,7 @@ Service
 ܗ̇ܝܓܵܗ
 </page>
 <page no="272">
-﻿272
+272
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -69996,7 +70007,7 @@ Service
 ؛
 </page>
 <page no="273">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 10
@@ -70460,7 +70471,7 @@ Service
 .
 </page>
 <page no="274">
-﻿274
+274
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -70901,7 +70912,7 @@ Service
 ܝܠܵܐ
 </page>
 <page no="275">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 10
@@ -71389,7 +71400,7 @@ Service
 ܕܡܲܠܟܵܐ
 </page>
 <page no="276">
-﻿276
+276
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -71888,9 +71899,10 @@ Service
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="1" date="6/24/1911" num_of_pages="12">
 <page no="1">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -72167,7 +72179,7 @@ Auraham
 .
 </page>
 <page no="2">
-﻿2
+2
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -72663,7 +72675,7 @@ Auraham
 :
 </page>
 <page no="3">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 24
@@ -73170,7 +73182,7 @@ Auraham
 .
 </page>
 <page no="4">
-﻿4
+4
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -73636,7 +73648,7 @@ Auraham
 ܪܵܒܝܼ
 </page>
 <page no="5">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 24
@@ -74164,7 +74176,7 @@ Auraham
 ܠܵܐ
 </page>
 <page no="6">
-﻿6
+6
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -74653,7 +74665,7 @@ Auraham
 ܘܕܢܲܙܵܢܘܼܬܵܐ
 </page>
 <page no="7">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 24
@@ -75160,7 +75172,7 @@ Auraham
 ܘܩܢ̈ܵܝܵܬܲܢ
 </page>
 <page no="8">
-﻿8
+8
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -75616,7 +75628,7 @@ Auraham
 ܫܠܝܼܚܵܐ
 </page>
 <page no="9">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 24
@@ -76128,7 +76140,7 @@ Auraham
 ܐܲܠܡܘܼܠܟ
 </page>
 <page no="10">
-﻿10
+10
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -76593,7 +76605,7 @@ Auraham
 ܗ̇ܘ
 </page>
 <page no="11">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 <g/>
 :
 24
@@ -77021,7 +77033,7 @@ Auraham
 ܠܣܲܪ̈ܗܲܕܹܐ
 </page>
 <page no="12">
-﻿12
+12
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 <g/>
@@ -77496,9 +77508,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="2" date="7/10/1911" num_of_pages="12">
 <page no="13">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -77780,7 +77793,7 @@ Auraham
 .
 </page>
 <page no="14">
-﻿14
+14
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -78322,7 +78335,7 @@ Auraham
 ܚܲܝܠܵܐ
 </page>
 <page no="15">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 10
@@ -78841,7 +78854,7 @@ Auraham
 ܐܝܼܬ
 </page>
 <page no="16">
-﻿16
+16
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -79346,7 +79359,7 @@ Auraham
 .
 </page>
 <page no="17">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 10
@@ -79829,7 +79842,7 @@ Auraham
 ܚܕܵܐ
 </page>
 <page no="18">
-﻿18
+18
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -80371,7 +80384,7 @@ Auraham
 .
 </page>
 <page no="19">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 10
@@ -80857,7 +80870,7 @@ Auraham
 ܕܵܝܪ̈ܵܢܹܐ
 </page>
 <page no="20">
-﻿20
+20
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -81374,7 +81387,7 @@ Auraham
 ܗܲܓ̰ܲܬ
 </page>
 <page no="21">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 10
@@ -81852,7 +81865,7 @@ Auraham
 :
 </page>
 <page no="22">
-﻿22
+22
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -82255,7 +82268,7 @@ Auraham
 ܩܵܐ
 </page>
 <page no="23">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 10
@@ -82718,7 +82731,7 @@ Auraham
 ܐܬܹܠܹܐ
 </page>
 <page no="24">
-﻿24
+24
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -83168,9 +83181,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="3" date="7/24/1911" num_of_pages="12">
 <page no="25">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -83467,7 +83481,7 @@ Auraham
 ܕܚܵܕ݇
 </page>
 <page no="26">
-﻿26
+26
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -83985,7 +83999,7 @@ Auraham
 ܕܗܵܕܟ݂ܵܐ
 </page>
 <page no="27">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 24
@@ -84509,7 +84523,7 @@ Auraham
 ܡܩܵܕ݇ܡ
 </page>
 <page no="28">
-﻿28
+28
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -85026,7 +85040,7 @@ Auraham
 :
 </page>
 <page no="29">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 24
@@ -85552,7 +85566,7 @@ Auraham
 :
 </page>
 <page no="30">
-﻿30
+30
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -85989,7 +86003,7 @@ Auraham
 ܐܲܪܬܵܕܘܿܟܣܵܝܬܵܐ
 </page>
 <page no="31">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 24
@@ -86464,7 +86478,7 @@ Auraham
 ܒܲܟ݂ܬܵܐ
 </page>
 <page no="32">
-﻿32
+32
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -86866,7 +86880,7 @@ Auraham
 ܩܵܡܘܿ
 </page>
 <page no="33">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 24
@@ -87289,7 +87303,7 @@ Auraham
 ܩܸܢܛܪ̈ܘܿܢܹܐ
 </page>
 <page no="34">
-﻿34
+34
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -87774,7 +87788,7 @@ Auraham
 ܒܘܼܫ
 </page>
 <page no="35">
-﻿ܬܡܘܙ
+ܬܡܘܙ
 <g/>
 :
 24
@@ -88291,7 +88305,7 @@ Auraham
 .
 </page>
 <page no="36">
-﻿36
+36
 ܟܘܟ݂ܒ݂ܐ
 ܬܡܘܙ
 <g/>
@@ -88827,9 +88841,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="4" date="8/10/1911" num_of_pages="12">
 <page no="37">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -89109,7 +89124,7 @@ Auraham
 ܓܵܗܹ̈ܐ
 </page>
 <page no="38">
-﻿38
+38
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -89615,7 +89630,7 @@ Auraham
 ܦܝܼܫܵܐ
 </page>
 <page no="39">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 10
@@ -90106,7 +90121,7 @@ Auraham
 ܦܪܝܼܫܬܵܐ
 </page>
 <page no="40">
-﻿40
+40
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -90581,7 +90596,7 @@ Auraham
 ܥܵܠܘܿܠܹ̈ܐ
 </page>
 <page no="41">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 10
@@ -91098,7 +91113,7 @@ Post
 :
 </page>
 <page no="42">
-﻿42
+42
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -91558,7 +91573,7 @@ Post
 ܠܪ̈ܘܼܡܝܵܬܘܼܗ̇
 </page>
 <page no="43">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 10
@@ -92016,7 +92031,7 @@ Post
 ܚܵܕ݇ܬܹ̈ܐ
 </page>
 <page no="44">
-﻿44
+44
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -92490,7 +92505,7 @@ Post
 .
 </page>
 <page no="45">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 10
@@ -92940,7 +92955,7 @@ Post
 ܕܐܘܼܪܚܵܐ
 </page>
 <page no="46">
-﻿46
+46
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -93388,7 +93403,7 @@ Post
 ܝܲܪ̈ܚܹܐ
 </page>
 <page no="47">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 10
@@ -93905,7 +93920,7 @@ Post
 ܐܲܩܠܹ̈ܐ
 </page>
 <page no="48">
-﻿48
+48
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -94423,9 +94438,10 @@ Post
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="5" date="8/24/1911" num_of_pages="12">
 <page no="49">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -94700,7 +94716,7 @@ Auraham
 ܕܵܘܪܵܐ
 </page>
 <page no="50">
-﻿50
+50
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -95202,7 +95218,7 @@ Auraham
 ܘܥܲܪܒܲܛܬܘܼܗ̇
 </page>
 <page no="51">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 24
@@ -95692,7 +95708,7 @@ Auraham
 ܕܟܡܵܐ
 </page>
 <page no="52">
-﻿52
+52
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -96217,7 +96233,7 @@ Auraham
 ܘܡܘܼܚܙܹܠܵܐ
 </page>
 <page no="53">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 24
@@ -96574,7 +96590,7 @@ Auraham
 ܕܕܵܝܪ̈ܵܢܹܐ
 </page>
 <page no="54">
-﻿54
+54
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -97081,7 +97097,7 @@ A
 ܕܪܘܼܣܬܵܡ
 </page>
 <page no="55">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 24
@@ -97488,7 +97504,7 @@ A
 .
 </page>
 <page no="56">
-﻿56
+56
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -97964,7 +97980,7 @@ A
 ܓܝܼܘܲܪܓܝܼܣ
 </page>
 <page no="57">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 24
@@ -98417,7 +98433,7 @@ A
 ܗ݇ܘܵܐ
 </page>
 <page no="58">
-﻿58
+58
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -98887,7 +98903,7 @@ A
 ܐܲܡܹܪܸܟܵܐ
 </page>
 <page no="59">
-﻿ܛܒܚ
+ܛܒܚ
 <g/>
 :
 24
@@ -99364,7 +99380,7 @@ A
 ܕܪܩܘܒ݂ܠ
 </page>
 <page no="60">
-﻿60
+60
 ܟܘܟ݂ܒ݂ܐ
 ܛܒܚ
 <g/>
@@ -99856,9 +99872,10 @@ A
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="6" date="9/24/1911" num_of_pages="12">
 <page no="61">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -100136,7 +100153,7 @@ Auraham
 ܕܒܵܒܹܗ
 </page>
 <page no="62">
-﻿62
+62
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -100612,7 +100629,7 @@ Scout
 ܦܵܝܫܵܐ
 </page>
 <page no="63">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 1911
 ܟܘܟ݂ܒ݂ܐ
@@ -101178,7 +101195,7 @@ Scout
 ܕܦܵܨܝܼ
 </page>
 <page no="64">
-﻿64
+64
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -101735,7 +101752,7 @@ Scout
 .
 </page>
 <page no="65">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 1911
 ܟܘܟ݂ܒ݂ܐ
@@ -102170,7 +102187,7 @@ Scout
 ܟܲܪ̈ܡܵܢܹܐ
 </page>
 <page no="66">
-﻿66
+66
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -102655,7 +102672,7 @@ Scout
 .
 </page>
 <page no="67">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 1911
 ܟܘܟ݂ܒ݂ܐ
@@ -103113,7 +103130,7 @@ Scout
 ܝܲܢ
 </page>
 <page no="68">
-﻿68
+68
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -103551,7 +103568,7 @@ Scout
 ܟܵܡــ
 </page>
 <page no="69">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 1911
 ܟܘܟ݂ܒ݂ܐ
@@ -104030,7 +104047,7 @@ Scout
 .
 </page>
 <page no="70">
-﻿70
+70
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -104511,7 +104528,7 @@ Scout
 ܕܪܚܵܫܬܵܐ
 </page>
 <page no="71">
-﻿ܐܝܠܘܠ
+ܐܝܠܘܠ
 24
 1911
 ܟܘܟ݂ܒ݂ܐ
@@ -104992,7 +105009,7 @@ Scout
 .
 </page>
 <page no="72">
-﻿72
+72
 ܟܘܟ݂ܒ݂ܐ
 ܐܝܠܘܠ
 24
@@ -105471,9 +105488,10 @@ Scout
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="7" date="10/10/1911" num_of_pages="12">
 <page no="73">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -105764,7 +105782,7 @@ Auraham
 ܠܐܵܒܘܿܪ
 </page>
 <page no="74">
-﻿74
+74
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -106261,7 +106279,7 @@ Auraham
 .
 </page>
 <page no="75">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 10
 1911
@@ -106793,7 +106811,7 @@ Auraham
 ܕܘܼܟܵܐ
 </page>
 <page no="76">
-﻿76
+76
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -107189,7 +107207,7 @@ Auraham
 .
 </page>
 <page no="77">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 10
 1911
@@ -107483,7 +107501,7 @@ Auraham
 .
 </page>
 <page no="78">
-﻿78
+78
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -107978,7 +107996,7 @@ Auraham
 ܕܝܼܠܹܐ
 </page>
 <page no="79">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 10
 1911
@@ -108485,7 +108503,7 @@ Auraham
 .
 </page>
 <page no="80">
-﻿80
+80
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -108997,7 +109015,7 @@ Auraham
 ܝܼܗ݇ܘܵܐ
 </page>
 <page no="81">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 10
 1911
@@ -109454,7 +109472,7 @@ Auraham
 ܟܲܕ
 </page>
 <page no="82">
-﻿82
+82
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -109919,7 +109937,7 @@ Auraham
 ܗܲܡܸܢܝܼ
 </page>
 <page no="83">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 10
 1911
@@ -110367,7 +110385,7 @@ Auraham
 ܒܟ̰ܵܦܵܪ
 </page>
 <page no="84">
-﻿84
+84
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -110906,9 +110924,10 @@ Persia
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="8" date="10/24/1911" num_of_pages="12">
 <page no="85">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -111185,7 +111204,7 @@ Auraham
 ܟ̰ܵܪ̈ܘܿܚܹܐ
 </page>
 <page no="86">
-﻿86
+86
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -111678,7 +111697,7 @@ Auraham
 ܒܘܼܫ
 </page>
 <page no="87">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -112191,7 +112210,7 @@ Auraham
 ܡܘܼܬܸܒ݂ܬܵܐ
 </page>
 <page no="88">
-﻿88
+88
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -112647,7 +112666,7 @@ Auraham
 .
 </page>
 <page no="89">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -113206,7 +113225,7 @@ Auraham
 :
 </page>
 <page no="90">
-﻿90
+90
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -113611,7 +113630,7 @@ Auraham
 ܕܚܸܛܹ̈ܐ
 </page>
 <page no="91">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -114085,7 +114104,7 @@ Auraham
 ܚܕܵܐ
 </page>
 <page no="92">
-﻿92
+92
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -114551,7 +114570,7 @@ Auraham
 ܕܐܝܼܣܚܵܩ
 </page>
 <page no="93">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -114984,7 +115003,7 @@ Auraham
 ܗܸܓ̰ܘܼܡ
 </page>
 <page no="94">
-﻿94
+94
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -115461,7 +115480,7 @@ Auraham
 ܐܲܢܹܐ
 </page>
 <page no="95">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -115935,7 +115954,7 @@ Auraham
 ܐܵܗܵܐ
 </page>
 <page no="96">
-﻿96
+96
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܩܕ݇ܡ
@@ -116425,9 +116444,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="9" date="11/10/1911" num_of_pages="12">
 <page no="97">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -116705,7 +116725,7 @@ Auraham
 ܗܵܕܟ݂ܵܐ
 </page>
 <page no="98">
-﻿98
+98
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -117224,7 +117244,7 @@ Culture
 :
 </page>
 <page no="99">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -117754,7 +117774,7 @@ Culture
 ܝܠܵܐ
 </page>
 <page no="100">
-﻿100
+100
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -118260,7 +118280,7 @@ Culture
 ܝܢܵܐ
 </page>
 <page no="101">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -118715,7 +118735,7 @@ Culture
 ܐܵܗܵܐ
 </page>
 <page no="102">
-﻿102
+102
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -119144,7 +119164,7 @@ Culture
 ܪܵܒܸܪܬ
 </page>
 <page no="103">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -119661,7 +119681,7 @@ Culture
 ܣܵܒܵܒ
 </page>
 <page no="104">
-﻿104
+104
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -120100,7 +120120,7 @@ Culture
 ܠܚܵܕ݇
 </page>
 <page no="105">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -120603,7 +120623,7 @@ Culture
 ܘܥܲܝܢܹ̈ܐ
 </page>
 <page no="106">
-﻿106
+106
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -121102,7 +121122,7 @@ Culture
 ܕܚܵܕ݇
 </page>
 <page no="107">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -121592,7 +121612,7 @@ Culture
 .
 </page>
 <page no="108">
-﻿108
+108
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -122075,9 +122095,10 @@ Culture
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="10" date="11/24/1911" num_of_pages="12">
 <page no="109">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -122363,7 +122384,7 @@ Auraham
 ܩܵܐ
 </page>
 <page no="110">
-﻿110
+110
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -122847,7 +122868,7 @@ Auraham
 ܦܸܫܠܹܐ
 </page>
 <page no="111">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -123385,7 +123406,7 @@ Auraham
 ܒܘܼܬ
 </page>
 <page no="112">
-﻿112
+112
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -123892,7 +123913,7 @@ Auraham
 ܕܦܵܝܫܝܼ
 </page>
 <page no="113">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -124391,7 +124412,7 @@ Auraham
 :
 </page>
 <page no="114">
-﻿114
+114
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -124900,7 +124921,7 @@ Auraham
 :
 </page>
 <page no="115">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -125365,7 +125386,7 @@ Auraham
 ܒܟ̰ܝܵܕܬܵܐ
 </page>
 <page no="116">
-﻿116
+116
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -125831,7 +125852,7 @@ Auraham
 ܦܸܫܠܵܐ
 </page>
 <page no="117">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -126273,7 +126294,7 @@ Auraham
 ܐܸܢ
 </page>
 <page no="118">
-﻿118
+118
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -126743,7 +126764,7 @@ Auraham
 .
 </page>
 <page no="119">
-﻿ܬܫܪܝܢ
+ܬܫܪܝܢ
 ܐܚܪ
 <g/>
 .
@@ -127203,7 +127224,7 @@ Auraham
 :
 </page>
 <page no="120">
-﻿120
+120
 ܟܘܟ݂ܒ݂ܐ
 ܬܫܪܝܢ
 ܐܚܪ
@@ -127755,9 +127776,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="11" date="12/10/1911" num_of_pages="12">
 <page no="121">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -128031,7 +128053,7 @@ Auraham
 ܝܲܪ̈ܚܹܐ
 </page>
 <page no="122">
-﻿122
+122
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -128481,7 +128503,7 @@ Auraham
 ܡܘܼܕ‐
 </page>
 <page no="123">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -128987,7 +129009,7 @@ Auraham
 :
 </page>
 <page no="124">
-﻿124
+124
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -129480,7 +129502,7 @@ Auraham
 ܕܒܘܼܠـ
 </page>
 <page no="125">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -129930,7 +129952,7 @@ Auraham
 .
 </page>
 <page no="126">
-﻿126
+126
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -130402,7 +130424,7 @@ Auraham
 .
 </page>
 <page no="127">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -130924,7 +130946,7 @@ Auraham
 ܒܲܠܟܵܐ
 </page>
 <page no="128">
-﻿128
+128
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -131388,7 +131410,7 @@ Auraham
 ܟܠ
 </page>
 <page no="129">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -131841,7 +131863,7 @@ Auraham
 ܠܩܘܿܢܨܘܼܠ
 </page>
 <page no="130">
-﻿130
+130
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -132328,7 +132350,7 @@ Auraham
 ܕܚܵܡܝܼ
 </page>
 <page no="131">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -132806,7 +132828,7 @@ Auraham
 ܡܸܫܸܠܡܵܢܹ̈ܐ
 </page>
 <page no="132">
-﻿132
+132
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -133299,9 +133321,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1911">
 <periodical issue="6" no="12" date="12/24/1911" num_of_pages="12">
 <page no="133">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -133592,7 +133615,7 @@ Auraham
 ܠܸܫܵܢܵܐ
 </page>
 <page no="134">
-﻿134
+134
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -134090,7 +134113,7 @@ damn
 ܗ̇ܘ
 </page>
 <page no="135">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -134607,7 +134630,7 @@ damn
 .
 </page>
 <page no="136">
-﻿136
+136
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -135107,7 +135130,7 @@ damn
 ܒܹܝܠ
 </page>
 <page no="137">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -135622,7 +135645,7 @@ damn
 ܕܒܘܼܬ
 </page>
 <page no="138">
-﻿138
+138
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -136065,7 +136088,7 @@ damn
 ܥܕܵܢܵܐ
 </page>
 <page no="139">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -136546,7 +136569,7 @@ damn
 ܕܡܵܘܬܒ݂ܵܐ
 </page>
 <page no="140">
-﻿140
+140
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -136973,7 +136996,7 @@ damn
 :
 </page>
 <page no="141">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -137472,7 +137495,7 @@ damn
 ܕܟܠܹܗ
 </page>
 <page no="142">
-﻿142
+142
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -137958,7 +137981,7 @@ damn
 ܕܦܪܸܙܠܵܐ
 </page>
 <page no="143">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܩܕ݇ܡ
 <g/>
 .
@@ -138494,7 +138517,7 @@ damn
 :
 </page>
 <page no="144">
-﻿144
+144
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܩܕ݇ܡ
@@ -138990,9 +139013,10 @@ damn
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="13" date="1/10/1912" num_of_pages="12">
 <page no="145">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -139287,7 +139311,7 @@ Auraham
 ܡܸܣܪܘܿܦ̮
 </page>
 <page no="146">
-﻿146
+146
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -139777,7 +139801,7 @@ Auraham
 ܬܵܪܘܿܩܬܵܐ
 </page>
 <page no="147">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -140254,7 +140278,7 @@ Auraham
 ܙܝܵܕܬܵܐ
 </page>
 <page no="148">
-﻿148
+148
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -140771,7 +140795,7 @@ Auraham
 ܠܗ݇ܘܿܢ
 </page>
 <page no="149">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -141279,7 +141303,7 @@ Auraham
 ܐܘܼܦ
 </page>
 <page no="150">
-﻿150
+150
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -141747,7 +141771,7 @@ Auraham
 ܛܲܟ݂ܣܵܐ
 </page>
 <page no="151">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -142225,7 +142249,7 @@ Auraham
 .
 </page>
 <page no="152">
-﻿152
+152
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -142678,7 +142702,7 @@ Auraham
 ܕܲܘܠܲܬܹ̈ܐ
 </page>
 <page no="153">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -143192,7 +143216,7 @@ Auraham
 ܕܩܲܘܼܩܵܣܝܼܵܐ
 </page>
 <page no="154">
-﻿154
+154
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -143668,7 +143692,7 @@ Auraham
 ܕܓܪܝܼܫܬܵܐ
 </page>
 <page no="155">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -144133,7 +144157,7 @@ Auraham
 ܡܲܥܠܘܼܡ
 </page>
 <page no="156">
-﻿156
+156
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -144609,9 +144633,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="14" date="1/24/1912" num_of_pages="12">
 <page no="157">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -144894,7 +144919,7 @@ Auraham
 ܕܐܵܙܵܕܘܼܬܵܐ
 </page>
 <page no="158">
-﻿158
+158
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -145423,7 +145448,7 @@ Auraham
 ܩܵܐ
 </page>
 <page no="159">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -145945,7 +145970,7 @@ Auraham
 ܐܵܢܝܼ
 </page>
 <page no="160">
-﻿160
+160
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -146400,7 +146425,7 @@ Auraham
 ܗ݇ܘܵܐ
 </page>
 <page no="161">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -146906,7 +146931,7 @@ Auraham
 :
 </page>
 <page no="162">
-﻿162
+162
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -147355,7 +147380,7 @@ Auraham
 ܚܵܕ݇
 </page>
 <page no="163">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -147840,7 +147865,7 @@ Auraham
 ܩܵܐ
 </page>
 <page no="164">
-﻿164
+164
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -148314,7 +148339,7 @@ Auraham
 .
 </page>
 <page no="165">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -148794,7 +148819,7 @@ Auraham
 ܬܪܲܝ
 </page>
 <page no="166">
-﻿166
+166
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -149290,7 +149315,7 @@ Auraham
 ܚܵܕ݇ܬܵܐ
 </page>
 <page no="167">
-﻿ܟܢܘܢ
+ܟܢܘܢ
 ܐܚܪ
 <g/>
 .
@@ -149790,7 +149815,7 @@ Auraham
 ܗܵܘܹܐ
 </page>
 <page no="168">
-﻿168
+168
 ܟܘܟ݂ܒ݂ܐ
 ܟܢܘܢ
 ܐܚܪ
@@ -150304,9 +150329,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="15" date="2/10/1912" num_of_pages="12">
 <page no="169">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -150584,7 +150610,7 @@ Auraham
 ܕܕܪܵܝܬܵܐ
 </page>
 <page no="170">
-﻿170
+170
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -151080,7 +151106,7 @@ Auraham
 ܙܵܘܕܘܼܢܝܵܐ
 </page>
 <page no="171">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -151581,7 +151607,7 @@ Auraham
 .
 </page>
 <page no="172">
-﻿172
+172
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -152050,7 +152076,7 @@ Auraham
 ܓܵܘ
 </page>
 <page no="173">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -152498,7 +152524,7 @@ Auraham
 ܓܘܼܠܦܵܢܹ̈ܐ
 </page>
 <page no="174">
-﻿174
+174
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -152952,7 +152978,7 @@ Auraham
 ܦܸܫܠܹܗ
 </page>
 <page no="175">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -153432,7 +153458,7 @@ Auraham
 ܘܨܘܿܦ̮ܝܼܵܐ
 </page>
 <page no="176">
-﻿176
+176
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -153876,7 +153902,7 @@ Auraham
 ܕܐܬܝܼܹܐ
 </page>
 <page no="177">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -154364,7 +154390,7 @@ Auraham
 ܡܲܚܪܸܒ݂
 </page>
 <page no="178">
-﻿178
+178
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -154797,7 +154823,7 @@ Auraham
 .
 </page>
 <page no="179">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -155276,7 +155302,7 @@ Auraham
 ܒܲܣ
 </page>
 <page no="180">
-﻿180
+180
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 10
@@ -155789,9 +155815,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="16" date="2/24/1912" num_of_pages="12">
 <page no="181">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -156077,7 +156104,7 @@ Auraham
 ܕܘܲܥܕܵܝ
 </page>
 <page no="182">
-﻿182
+182
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -156601,7 +156628,7 @@ Auraham
 ܕܝܼܢܵܐ
 </page>
 <page no="183">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -157152,7 +157179,7 @@ Auraham
 .
 </page>
 <page no="184">
-﻿184
+184
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -157640,7 +157667,7 @@ Auraham
 :
 </page>
 <page no="185">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -158120,7 +158147,7 @@ Auraham
 .
 </page>
 <page no="186">
-﻿186
+186
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -158676,7 +158703,7 @@ Limited
 .
 </page>
 <page no="187">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -159138,7 +159165,7 @@ Limited
 ܐܲܚܟ̰ܝܼ
 </page>
 <page no="188">
-﻿188
+188
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -159614,7 +159641,7 @@ Limited
 ܝܵܘܣܸܦ
 </page>
 <page no="189">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -160068,7 +160095,7 @@ Limited
 ܐܘܼܚܟ̰ܵܐ
 </page>
 <page no="190">
-﻿190
+190
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -160525,7 +160552,7 @@ Limited
 ܓܵܘ
 </page>
 <page no="191">
-﻿ܫܒ݂ܛ
+ܫܒ݂ܛ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -160990,7 +161017,7 @@ Limited
 ܩܵܐ
 </page>
 <page no="192">
-﻿192
+192
 ܟܘܟ݂ܒ݂ܐ
 ܫܒ݂ܛ
 24
@@ -161516,9 +161543,10 @@ Khnanishu
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="17" date="3/10/1912" num_of_pages="12">
 <page no="193">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -161799,7 +161827,7 @@ Auraham
 ܥܕܵܢܵܬܹ̈ܐ
 </page>
 <page no="194">
-﻿194
+194
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -162297,7 +162325,7 @@ Auraham
 ܗ̇ܘ
 </page>
 <page no="195">
-﻿ܐܕܪ
+ܐܕܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -162752,7 +162780,7 @@ Auraham
 100
 </page>
 <page no="196">
-﻿196
+196
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -163216,7 +163244,7 @@ Auraham
 ܡܙܕܘܼܥܬܵܐ
 </page>
 <page no="197">
-﻿ܐܕܪ
+ܐܕܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -163622,7 +163650,7 @@ Auraham
 “
 </page>
 <page no="198">
-﻿198
+198
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -164079,7 +164107,7 @@ Auraham
 ܕܢܵܙܵܪ
 </page>
 <page no="199">
-﻿ܐܕܪ
+ܐܕܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -164530,7 +164558,7 @@ Auraham
 ܩܘܿܢܟ̰ܵܐ
 </page>
 <page no="200">
-﻿200
+200
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -164975,7 +165003,7 @@ Auraham
 ܒܕܵܘܣܬܘܼܬܘܼܗ̇
 </page>
 <page no="201">
-﻿ܐܕܪ
+ܐܕܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -165473,7 +165501,7 @@ Auraham
 ܓ̰ܲܠܕܹܐ
 </page>
 <page no="202">
-﻿202
+202
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 10
@@ -165946,7 +165974,7 @@ Auraham
 ܠܐܲܗܘܵܠ
 </page>
 <page no="203">
-﻿ܐܕܪ
+ܐܕܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -166455,7 +166483,6 @@ Auraham
 ܡܕܝܼܢܵܬܹ̈ܐ
 </page>
 <page no="204">
-﻿
 204
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
@@ -166982,9 +167009,10 @@ London
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="18" date="3/24/1912" num_of_pages="12">
 <page no="205">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -167267,7 +167295,7 @@ Auraham
 ܘܦܝܼܠܵܣܘܿ‐
 </page>
 <page no="206">
-﻿206
+206
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -167795,7 +167823,7 @@ Auraham
 ܦܪܝܼܕܘܿ
 </page>
 <page no="207">
-﻿ܐܕܪ
+ܐܕܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -168341,7 +168369,7 @@ Auraham
 ܣܵܬܵܫܡܸܫ
 </page>
 <page no="208">
-﻿208
+208
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -168820,7 +168848,7 @@ Auraham
 ܘܬܵܓ̰ܝܼܪܘܼܬܘܼܗ̇
 </page>
 <page no="209">
-﻿ܐܕܪ
+ܐܕܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -169299,7 +169327,7 @@ Auraham
 ܘܩܛܸܠܘܿܢ
 </page>
 <page no="210">
-﻿210
+210
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -169763,7 +169791,7 @@ Auraham
 ܠܣܲܚܒܸܪ̈ܵܢܵܐ
 </page>
 <page no="211">
-﻿ܐܕܪ
+ܐܕܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -170234,7 +170262,7 @@ Auraham
 ܩܒ݂ܵܠܬܵܐ
 </page>
 <page no="212">
-﻿212
+212
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -170656,7 +170684,7 @@ Auraham
 ܐܵܙܵܕ
 </page>
 <page no="213">
-﻿ܐܕܪ
+ܐܕܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -171110,7 +171138,7 @@ Auraham
 ܩܝܵܪܬܵܐ
 </page>
 <page no="214">
-﻿214
+214
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -171597,7 +171625,7 @@ Garter
 ܣܘܿܫܝܵܠܸܣܛܵܝܹ̈ܐ
 </page>
 <page no="215">
-﻿ܐܕܪ
+ܐܕܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -172063,7 +172091,7 @@ Garter
 ܚܵܕ݇
 </page>
 <page no="216">
-﻿216
+216
 ܟܘܟ݂ܒ݂ܐ
 ܐܕܪ
 24
@@ -172573,9 +172601,10 @@ Garter
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="19" date="4/10/1912" num_of_pages="12">
 <page no="217">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -172848,7 +172877,7 @@ Auraham
 ܘܒܸܦܠܵܛܵܐ
 </page>
 <page no="218">
-﻿218
+218
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -173323,7 +173352,7 @@ Auraham
 .
 </page>
 <page no="219">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -173799,7 +173828,7 @@ Auraham
 ‐
 </page>
 <page no="220">
-﻿220
+220
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -174259,7 +174288,7 @@ Auraham
 ܥܵܓ̰ܸܒܘܼܝܵܬܹ̈ܐ
 </page>
 <page no="221">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -174727,7 +174756,7 @@ Auraham
 :
 </page>
 <page no="222">
-﻿222
+222
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -175243,7 +175272,7 @@ Auraham
 ܝܹܡܝܼܫܹ̈ܐ
 </page>
 <page no="223">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -175708,7 +175737,7 @@ Auraham
 ܟܸܠܦܲܬ
 </page>
 <page no="224">
-﻿224
+224
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -176165,7 +176194,7 @@ Auraham
 ܬܘܼܢܝܵܝ
 </page>
 <page no="225">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -176662,7 +176691,7 @@ Auraham
 .
 </page>
 <page no="226">
-﻿226
+226
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -177089,7 +177118,7 @@ Auraham
 ܓܵܘ
 </page>
 <page no="227">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -177573,7 +177602,7 @@ Auraham
 ܕܐܵܙܵܕܘܼܬܵܐ
 </page>
 <page no="228">
-﻿228
+228
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 10
@@ -178072,9 +178101,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="20" date="4/24/1912" num_of_pages="12">
 <page no="229">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -178346,7 +178376,7 @@ Auraham
 ܒܸܬ
 </page>
 <page no="230">
-﻿230
+230
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -178853,7 +178883,7 @@ Auraham
 ܡܕܝܼܢ݇ܬܵܐ
 </page>
 <page no="231">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -179393,7 +179423,7 @@ Auraham
 ܗ̇ܘ
 </page>
 <page no="232">
-﻿232
+232
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -179918,7 +179948,7 @@ Auraham
 .
 </page>
 <page no="233">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -180420,7 +180450,7 @@ Auraham
 ܙܹܐ
 </page>
 <page no="234">
-﻿234
+234
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -180873,7 +180903,7 @@ Auraham
 :
 </page>
 <page no="235">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -181346,7 +181376,7 @@ Auraham
 ܪܘܼܣܢܵܝܬܵܐ
 </page>
 <page no="236">
-﻿236
+236
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -181828,7 +181858,7 @@ Auraham
 ܚܕܵܐ
 </page>
 <page no="237">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -182268,7 +182298,7 @@ Auraham
 ܚܵܢܝܼܡܹܗ
 </page>
 <page no="238">
-﻿238
+238
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -182750,7 +182780,7 @@ Auraham
 ܐܲܚܟ̰ܝܼ
 </page>
 <page no="239">
-﻿ܢܝܣܢ
+ܢܝܣܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -183239,7 +183269,7 @@ Auraham
 ܝܠܵܗ̇
 </page>
 <page no="240">
-﻿240
+240
 ܟܘܟ݂ܒ݂ܐ
 ܢܝܣܢ
 24
@@ -183699,9 +183729,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="21" date="5/10/1912" num_of_pages="12">
 <page no="241">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -183970,7 +184001,7 @@ Auraham
 ܘܢܵܘܢܘܿܝܹܐ
 </page>
 <page no="242">
-﻿242
+242
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 10
@@ -184480,7 +184511,7 @@ Auraham
 ܓ̰ܢܓ
 </page>
 <page no="243">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -185003,7 +185034,7 @@ Auraham
 ܕܟܵܘܟ݂ܒ݂ܵܐ
 </page>
 <page no="244">
-﻿244
+244
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 10
@@ -185539,7 +185570,7 @@ Auraham
 ܪܘܼܙܢܵܡܵܐ
 </page>
 <page no="245">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -185971,7 +186002,7 @@ Auraham
 ܠܫܘܼܠܹܗ
 </page>
 <page no="246">
-﻿246
+246
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 10
@@ -186441,7 +186472,7 @@ Auraham
 ܦܸܫܠܘܿܢ
 </page>
 <page no="247">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -186896,7 +186927,7 @@ Auraham
 ܘܝܵܠܹ̈ܐ
 </page>
 <page no="248">
-﻿248
+248
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 10
@@ -187412,7 +187443,7 @@ Auraham
 ܕܦܘܼܪܩܵܢܵܐ
 </page>
 <page no="249">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -187897,7 +187928,7 @@ Auraham
 .
 </page>
 <page no="250">
-﻿250
+250
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 10
@@ -188392,7 +188423,7 @@ Auraham
 “
 </page>
 <page no="251">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -188858,7 +188889,7 @@ Auraham
 .
 </page>
 <page no="252">
-﻿252
+252
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 10
@@ -189510,9 +189541,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="22" date="5/24/1912" num_of_pages="12">
 <page no="253">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -189786,7 +189818,7 @@ Auraham
 ܝܼܠܵܗ̇
 </page>
 <page no="254">
-﻿254
+254
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 24
@@ -190294,7 +190326,7 @@ Auraham
 ܡܲܪܝܸܣ
 </page>
 <page no="255">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -190825,7 +190857,7 @@ Auraham
 ܡܹܐܟ݂ܘܼܠܬܵܐ
 </page>
 <page no="256">
-﻿256
+256
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 24
@@ -191384,7 +191416,7 @@ Auraham
 :
 </page>
 <page no="257">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -191946,7 +191978,7 @@ Auraham
 ܥܲܠ
 </page>
 <page no="258">
-﻿258
+258
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 24
@@ -192413,7 +192445,7 @@ Auraham
 .
 </page>
 <page no="259">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -192858,7 +192890,7 @@ Auraham
 ܝܸܣܘܼܪܵܐ
 </page>
 <page no="260">
-﻿260
+260
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 24
@@ -193324,7 +193356,7 @@ Auraham
 ܒܘܼܬ
 </page>
 <page no="261">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -193825,7 +193857,7 @@ Auraham
 ܕܵܐܝܼܪܵܐ
 </page>
 <page no="262">
-﻿262
+262
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 24
@@ -194361,7 +194393,7 @@ Auraham
 ܒܘܼܫ
 </page>
 <page no="263">
-﻿ܐ݇ܝܪ
+ܐ݇ܝܪ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -194833,7 +194865,7 @@ Auraham
 .
 </page>
 <page no="264">
-﻿264
+264
 ܟܘܟ݂ܒ݂ܐ
 ܐ݇ܝܪ
 24
@@ -195332,9 +195364,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="6" no="23" date="6/10/1912" num_of_pages="12">
 <page no="265">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -195628,7 +195661,7 @@ Auraham
 ܠܹܐ
 </page>
 <page no="266">
-﻿266
+266
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -196112,7 +196145,7 @@ Auraham
 ܝܠܵܗ̇
 </page>
 <page no="267">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -196606,7 +196639,7 @@ Auraham
 ܝܲܢ
 </page>
 <page no="268">
-﻿268
+268
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -197097,7 +197130,7 @@ Auraham
 20
 </page>
 <page no="269">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -197391,7 +197424,7 @@ Auraham
 :
 </page>
 <page no="270">
-﻿270
+270
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -197951,7 +197984,7 @@ Auraham
 “
 </page>
 <page no="271">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -198418,7 +198451,7 @@ Auraham
 :
 </page>
 <page no="272">
-﻿272
+272
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -198890,7 +198923,7 @@ Auraham
 ܛܸܪܝܹܐ
 </page>
 <page no="273">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -199360,7 +199393,7 @@ Auraham
 ܒܪܵܬܵܐ
 </page>
 <page no="274">
-﻿274
+274
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -199776,7 +199809,7 @@ Auraham
 ܕܪܘܿܕܣ
 </page>
 <page no="275">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 10
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -200272,7 +200305,7 @@ Auraham
 ܝܠܵܗ̇
 </page>
 <page no="276">
-﻿276
+276
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 10
@@ -200784,9 +200817,10 @@ Auraham
 .
 </page>
 </periodical>
+</doc>
+<doc title="Kokhwa" genre="magazine" language="Assyrian" copyright="no" source="online" dialect="urmi" location="urmiah" country="Iran" pub_date="1912">
 <periodical issue="7" no="1" date="6/24/1912" num_of_pages="12">
 <page no="1">
-﻿
 ܟܘܟ݂ܒ݂ܐ
 ܚܕ݇
 ܟܘܟ݂ܒ݂ܐ
@@ -201032,7 +201066,7 @@ Auraham
 ܕܵܡܝܼܪܬܹܟܵܢ
 </page>
 <page no="2">
-﻿2
+2
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -201446,7 +201480,7 @@ Auraham
 ܡܸܢܵܝ
 </page>
 <page no="3">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -201668,7 +201702,7 @@ Waltham
 ܕܘܼܟܬܘܼܗ̇
 </page>
 <page no="4">
-﻿4
+4
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -202050,7 +202084,7 @@ Waltham
 ܕܦܵܝܫܝܼ
 </page>
 <page no="5">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -202397,7 +202431,7 @@ Waltham
 :
 </page>
 <page no="6">
-﻿6
+6
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -202838,7 +202872,7 @@ Waltham
 ܦܵܪܸܫ
 </page>
 <page no="7">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -203278,7 +203312,7 @@ Waltham
 .
 </page>
 <page no="8">
-﻿8
+8
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -203721,7 +203755,7 @@ Waltham
 .
 </page>
 <page no="9">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -204210,7 +204244,7 @@ Waltham
 ܠܹܗ
 </page>
 <page no="10">
-﻿10
+10
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24
@@ -204643,7 +204677,7 @@ Waltham
 ܡܘܼܩܘܝܼܵܐ
 </page>
 <page no="11">
-﻿ܚܙܝܪܢ
+ܚܙܝܪܢ
 24
 1912
 ܟܘܟ݂ܒ݂ܐ
@@ -205119,7 +205153,7 @@ Waltham
 ܓܪܸܫܠܹܗ
 </page>
 <page no="12">
-﻿12
+12
 ܟܘܟ݂ܒ݂ܐ
 ܚܙܝܪܢ
 24

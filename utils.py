@@ -17,7 +17,16 @@ additional_punctuation = {
     '\u0029',  # RIGHT PARENTHESIS
 }
 
+# List of characters to filter out
+filter_chars = ['\u0007', '\ufeff', '\u0002']
+
+def filter_text(text):
+    for char in filter_chars:
+        text = text.replace(char, '')
+    return text
+
 def tokenize_sentence(sentence):
+    sentence = filter_text(sentence)
     tokens = []
     word = ""
     for char in sentence:
