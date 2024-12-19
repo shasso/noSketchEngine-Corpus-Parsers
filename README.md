@@ -1,8 +1,8 @@
-# noSketchEngine Corpus Parsers
+# noSketchEngine Corpus Parsers for Modern Assyrian Text
 
 ## Overview
 
-The `nose_to_vertical.py` script is designed to convert various input file formats (XML and JSON) into a vertical file format. The script uses a strategy pattern to handle different input formats, making it easy to extend and add support for new formats in the future.
+The `nose_to_vertical.py` script is designed to convert various input file formats XML, JSON, Text, etc., into a vertical file format. The script uses a strategy pattern to handle different input formats, making it easy to extend and add support for new formats in the future.
 
 ## Functional Specifications
 
@@ -21,12 +21,16 @@ python nose_to_vertical.py --input <input_file> --output <output_file> --metadat
 --metadata (-m): Path to the metadata file (JSON format).
 --type (-t): Type of the input file. Choices are xml, json, spurgeon, kokhwa, apocrypha.
 
+
 <metadata_file>: Path to metadata json file in this format:
 {
     "attribute 1": "value 1",
     "attribute 2": "value 2",
 }
 ```
+### CAVEAT 
+Additional commandline args with additional options may be have been added. Always check the nose_to_vertical.py for latest updates.
+
 
 ## Supported Modules
 #### 1. base_strategy.py
