@@ -1,4 +1,4 @@
-<doc genre="religion" author="Charles Haddon Spurgeon" language="Assyrian" edition="4th Edition" pub_date="2024" copyright="yes" source="online" dialect="standard" editor="Demsin Lachin">
+<doc genre="religion" title="ܡܘܪܫܐ ܒܡܘܪܫܐ" subtitle="ܩܪ̈ܝܢܐ ܕܟܠܝܘܡ ܩܐ ܟܠܦܬ ܝܢ ܟܘܚܬܐ" author="Charles Haddon Spurgeon" language="Assyrian" edition="4th" pub_date="2024" copyright="yes" source="online" dialect="urmi" editor="Demsin Lachin">
 <section no="1">
 <section_title>
 ܡܘܕܥܢܘܬܐ
