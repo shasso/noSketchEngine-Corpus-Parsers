@@ -6,6 +6,7 @@ class BaseVerticalStrategy:
 
     def read_metadata(self, metadata_file):
         with open(metadata_file, 'r', encoding='utf-8') as f:
-            metadata = json.load(f)
+            data = json.load(f)
+            metadata = data.get('metadata', {})
         return metadata
     
