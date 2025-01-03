@@ -2,8 +2,11 @@ from xml_to_vertical import NTXMLToVertical
 from json_to_vertical import JSONToVerticalStrategy
 from spurgeon_to_vertical import SpurgeonToVerticalStrategy
 from kokhwa_to_vertical import KokhwaToVerticalStrategy
+# from apocrypha_to_vertical import ApocryphaToVerticalStrategy
 from aprocrypha_to_vertical import ApocryphaToVerticalStrategy
 from text_to_vertical import TextToVerticalStrategy
+# from periodical_to_vertical import PeriodicaltoVerticalStrategy
+from PeriodicaltoVerticalStrategy import PeriodicaltoVerticalStrategy
 
 class StrategyFactory:
     @staticmethod
@@ -20,5 +23,7 @@ class StrategyFactory:
             return ApocryphaToVerticalStrategy()
         elif file_type == 'text':
             return TextToVerticalStrategy()
+        elif file_type == 'periodical':
+            return PeriodicaltoVerticalStrategy()
         else:
             raise ValueError("Unsupported file type")

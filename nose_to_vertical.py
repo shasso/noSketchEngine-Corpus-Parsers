@@ -1,7 +1,7 @@
 import sys
 import os
 import argparse
-from strategies import StrategyFactory, KokhwaToVerticalStrategy
+from strategies import StrategyFactory, KokhwaToVerticalStrategy, PeriodicaltoVerticalStrategy
 
 class VerticalContext:
     def __init__(self, strategy):
@@ -9,6 +9,8 @@ class VerticalContext:
 
     def execute_strategy(self, input_file, output_file, metadata_file, csv_file=None, text_files=None):
         if isinstance(self.strategy, KokhwaToVerticalStrategy):
+            self.strategy.process(input_file, output_file, metadata_file, csv_file, text_files)
+        elif isinstance(self.strategy, PeriodicaltoVerticalStrategy):
             self.strategy.process(input_file, output_file, metadata_file, csv_file, text_files)
         else:
             self.strategy.process(input_file, output_file, metadata_file)
@@ -24,8 +26,9 @@ if __name__ == "__main__":
     parser.add_argument("-i", "--input", required=True, help="Input file or folder")
     parser.add_argument("-o", "--output", required=True, help="Output file")
     parser.add_argument("-m", "--metadata", required=True, help="Metadata file")
-    parser.add_argument("-t", "--type", required=True, choices=["xml", "json", "spurgeon", "kokhwa", "apocrypha", "text"], help="Type of the input file")
+    parser.add_argument("-t", "--type", required=True, choices=["xml", "json", "spurgeon", "kokhwa", "apocrypha", "text", "periodical"], help="Type of the input file")
     parser.add_argument("-k", "--kokhwa", nargs=2, metavar=("CSV_FILE", "TEXT_FOLDER"), help="CSV file and text folder for Kokhwa periodical")
+    parser.add_argument("-p", "--periodical", nargs=2, metavar=("CSV_FILE", "TEXT_FOLDER"), help="CSV file and text folder for Periodical")
 
     args = parser.parse_args()
 
@@ -37,6 +40,12 @@ if __name__ == "__main__":
     if args.kokhwa:
         csv_file, text_folder = args.kokhwa
         handle_k_option(csv_file, text_folder, output_file, metadata_file)
+    elif args.periodical:
+        csv_file, text_folder = args.periodical
+        text_files = [os.path.join(text_folder, f) for f in os.listdir(text_folder) if f.startswith('page_') and f.endswith('.txt')]
+        strategy = PeriodicaltoVerticalStrategy()
+        context = VerticalContext(strategy)
+        context.execute_strategy(None, output_file, metadata_file, csv_file, text_files)
     else:
         try:
             strategy = StrategyFactory.get_strategy(file_type)
@@ -45,7 +54,4 @@ if __name__ == "__main__":
             sys.exit(1)
 
         context = VerticalContext(strategy)
-        if file_type == 'text':
-            context.execute_strategy(input_file, output_file, metadata_file)
-        else:
-            context.execute_strategy(input_file, output_file, metadata_file)
+        context.execute_strategy(input_file, output_file, metadata_file)

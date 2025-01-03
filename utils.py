@@ -20,7 +20,7 @@ additional_punctuation = {
 }
 
 # List of characters to filter out
-filter_chars = ['\u0007', '\ufeff', '\u0002']
+filter_chars = ['\u0007', '\ufeff', '\u0002', '\u0001']
 
 def filter_text(text):
     for char in filter_chars:

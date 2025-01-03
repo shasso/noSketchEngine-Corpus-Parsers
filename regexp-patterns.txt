@@ -1,0 +1,11 @@
+# you need to think regexp as in English, i.e. LTR direction
+# for the example, the next line says find any of the characters in (), repeated
+# 0 or more times, followed by the word: ܦܪܸܙܠܵܐ
+(ܠ|ܘ|ܕ|ܒ)*ܦܪܸܙܠܵܐ
+will find: 
+ܕܦܪܸܙܠܵܐ
+ܦܪܸܙܠܵܐ
+ܠܦܪܸܙܠܵܐ
+ܘܦܪܸܙܠܵܐ
+ܒܦܪܸܙܠܵܐ
+ܘܕܦܪܸܙܠܵܐ

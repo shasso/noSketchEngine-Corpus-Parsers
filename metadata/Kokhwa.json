@@ -1,10 +1,13 @@
 {
-    "title": "Kokhwa",
-    "genre": "magazine",
-    "language": "Assyrian",
-    "copyright": "no",
-    "source": "online",
-    "dialect": "urmi",
-    "location": "urmiah",
-    "country": "Iran"
+    "id": "5e338ddc-4a4f-4ef3-bcea-b47e124e2179",
+    "metadata": {
+        "title": "Kokhwa",
+        "genre": "magazine",
+        "language": "Assyrian",
+        "copyright": "no",
+        "source": "online",
+        "dialect": "urmi",
+        "location": "urmiah",
+        "country": "Iran"
+    }
 }

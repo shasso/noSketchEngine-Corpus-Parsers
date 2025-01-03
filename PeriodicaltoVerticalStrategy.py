@@ -1,15 +1,20 @@
 import csv
 import os
+import json
 from base_strategy import BaseVerticalStrategy
 from utils import tokenize_sentence
 
-class KokhwaToVerticalStrategy(BaseVerticalStrategy):
+class PeriodicaltoVerticalStrategy(BaseVerticalStrategy):
     def process(self, input_file, output_file, metadata_file, csv_file, text_files):
         metadata = self.read_metadata(metadata_file)
         periodical_info = self.read_csv(csv_file)
+        metadata_id = metadata.get('id')
 
         with open(output_file, 'w', encoding='utf-8') as f:
             for info in periodical_info:
+                if info['id'] != metadata_id:
+                    continue
+
                 issue = info['issue']
                 number = info['number']
                 date = info['date']
@@ -24,7 +29,8 @@ class KokhwaToVerticalStrategy(BaseVerticalStrategy):
                 # Write the <doc> element with metadata attributes and pub_date
                 doc_tag = f'<doc'
                 for key, value in metadata.items():
-                    doc_tag += f' {key}="{value}"'
+                    if key != 'id':
+                        doc_tag += f' {key}="{value}"'
                 doc_tag += f' pub_date="{year}">\n'
                 f.write(doc_tag)
 
@@ -58,3 +64,10 @@ class KokhwaToVerticalStrategy(BaseVerticalStrategy):
             for row in reader:
                 periodical_info.append(row)
         return periodical_info
+
+    def read_metadata(self, metadata_file):
+        with open(metadata_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            metadata = data.get('metadata', {})
+            metadata['id'] = data.get('id', '')
+        return metadata
