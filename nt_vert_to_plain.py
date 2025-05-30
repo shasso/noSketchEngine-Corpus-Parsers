@@ -1,7 +1,14 @@
 import argparse
 import re
+import csv
 
-def parse_vert(input_path, output_path):
+def parse_vert(input_path, output_path, names_path):
+    # Load book name mapping from abbreviation to Syriac name
+    abbr_to_syriac = {}
+    with open(names_path, 'r', encoding='utf-8') as namesfile:
+        reader = csv.DictReader(namesfile)
+        for row in reader:
+            abbr_to_syriac[row['Abbreviation']] = row['Syriac Name (Syriac Script)']
     with open(input_path, 'r', encoding='utf-8') as infile, open(output_path, 'w', encoding='utf-8') as outfile:
         chapter_title = None
         chapter_no = None
@@ -22,7 +29,8 @@ def parse_vert(input_path, output_path):
                 if m:
                     chapter_no = m.group(1)
                     if chapter_title and chapter_no:
-                        outfile.write(f"{chapter_title} chapter {chapter_no}\n")
+                        syriac_title = abbr_to_syriac.get(chapter_title, chapter_title)
+                        outfile.write(f"{syriac_title} {chapter_no}\n")
                 in_chapter = True
                 continue
             if line.startswith('</chapter'):
@@ -57,8 +65,9 @@ def main():
     parser = argparse.ArgumentParser(description='Process NT.vert to plain text.')
     parser.add_argument('-i', '--input', required=True, help='Input .vert file')
     parser.add_argument('-o', '--output', required=True, help='Output file')
+    parser.add_argument('-n', '--names', required=True, help='Book names CSV file')
     args = parser.parse_args()
-    parse_vert(args.input, args.output)
+    parse_vert(args.input, args.output, args.names)
 
 if __name__ == '__main__':
     main()
