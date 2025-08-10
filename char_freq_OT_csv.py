@@ -1,5 +1,6 @@
 import csv
 import unicodedata
+import argparse
 
 def get_char_info(char):
     try:
@@ -35,10 +36,12 @@ def write_csv(char_count, output_file):
             })
 
 if __name__ == "__main__":
-    input_file = r'C:\Users\sargo\Documents\dockerDev\noSketchEngine Corpus Parsers\vert_output\OT_2.vert'
-    output_file = 'char_frequency.csv'
-    
+    parser = argparse.ArgumentParser(description="Count character frequency in a file and output as CSV.")
+    parser.add_argument('-i', '--input', required=True, help='Input file path')
+    parser.add_argument('-o', '--output', required=True, help='Output CSV file path')
+    args = parser.parse_args()
+    input_file = args.input
+    output_file = args.output
     char_count = count_characters(input_file)
     write_csv(char_count, output_file)
-    
     print(f"Character frequency has been written to {output_file}")

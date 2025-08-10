@@ -2,6 +2,10 @@ import argparse
 import re
 import csv
 
+def remove_nonprintable(text):
+    # Remove all non-printable characters except for newlines
+    return ''.join(c for c in text if c == '\n' or (c.isprintable() and c != '\r'))
+
 def parse_vert(input_path, output_path, names_path):
     # Load book name mapping from abbreviation to Syriac name
     abbr_to_syriac = {}
@@ -30,7 +34,7 @@ def parse_vert(input_path, output_path, names_path):
                     chapter_no = m.group(1)
                     if chapter_title and chapter_no:
                         syriac_title = abbr_to_syriac.get(chapter_title, chapter_title)
-                        outfile.write(f"{syriac_title} {chapter_no}\n")
+                        outfile.write(remove_nonprintable(f"{syriac_title} {chapter_no}\n"))
                 in_chapter = True
                 continue
             if line.startswith('</chapter'):
@@ -47,7 +51,7 @@ def parse_vert(input_path, output_path, names_path):
             # Handle verse end
             if line.startswith('</verse'):
                 if verse_lines:
-                    outfile.write(' '.join(verse_lines).strip() + '\n')
+                    outfile.write(remove_nonprintable(' '.join(verse_lines).strip() + '\n'))
                 in_verse = False
                 verse_lines = []
                 continue
@@ -59,7 +63,7 @@ def parse_vert(input_path, output_path, names_path):
                 verse_lines.append(line)
         # Write any remaining verse (in case file ends without closing tag)
         if verse_lines:
-            outfile.write(' '.join(verse_lines).strip() + '\n')
+            outfile.write(remove_nonprintable(' '.join(verse_lines).strip() + '\n'))
 
 def main():
     parser = argparse.ArgumentParser(description='Process NT.vert to plain text.')

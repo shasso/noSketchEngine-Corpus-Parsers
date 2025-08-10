@@ -9,3 +9,36 @@ will find:
 ܘܦܪܸܙܠܵܐ
 ܒܦܪܸܙܠܵܐ
 ܘܕܦܪܸܙܠܵܐ
+# .ܵ.+ (dot ܵ .+): dot zqapa dot +
+# returns any word that starts with zqpa:
+ ܓܵܘ
+ ܩܵܐ
+ ܠܵܐ
+ ܐܵܗܵܐ
+ ܪܵܒܵܐ
+ ܡܵܪܝܵܐ
+ ܐܵܢܝܼ	
+# ܛܵ.+ (deth zqapa dot +), will return all words that begins with ܛܵ, for example:
+ܛܵܒ݂ܬܵܐ	
+ܛܵܒ݂ܵܐ
+ܛܵܝܸܦܵܐ
+ܛܵܘܦܵܢܵܐ
+ܛܵܠܹܩ
+# .ܵ.ܸ. (dot zqapa . zlame .), will return any trilateral words with first char zqapa, second char zlame, and third character anything, e.g.
+ܐܵܦܸܢ
+ܠܵܙܸܡ
+ܦܵܝܸܫ
+ܦܵܐܸܫ
+ܡܵܠܸܟ
+ܒܵܥܸܣ
+ܩܵܒܸܠ
+ܝܵܕܸܥ
+ܕܵܝܸܡ
+ܐܵܡܸܪ
+ܐܵܙܸܠ
+# ܐ(ܸ|ܹ).* (alap zlame horizontal or zlame angular ) all words that begin with ܐܸ or ܐܹ
+ܐܸܢ 
+ܐܸܠܹܗ 
+ܐܸܠܵܐ 
+ܐܹܬܝܼܩܘܼܢܵܐܝܼܬ 
+# ܐ(ܵ).* all words that begin with ܐܵ 
