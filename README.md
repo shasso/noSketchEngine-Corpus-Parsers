@@ -2,50 +2,154 @@
 
 ## Overview
 
-The `nose_to_vertical.py` script is designed to convert various input file formats XML, JSON, Text, etc., into a vertical file format. The script uses a strategy pattern to handle different input formats, making it easy to extend and add support for new formats in the future.
+The `nose_to_vertical.py` script is the main orchestrator for converting various input file formats (XML, JSON, Text, etc.) into vertical file format suitable for corpus linguistics and NoSketch Engine. The script implements a Strategy design pattern to handle different input formats, making it extensible and maintainable for adding support for new formats.
 
-## Functional Specifications
+## Architecture & Design
 
-### Main Script: `nose_to_vertical.py`
+### Design Pattern: Strategy Pattern
+The script uses the Strategy pattern with the following components:
 
-The main script handles command line arguments, instantiates the appropriate strategy based on the input file extension, and executes the conversion process.
+1. **Context Class (`VerticalContext`)**: Orchestrates the conversion process
+2. **Strategy Interface (`BaseVerticalStrategy`)**: Defines the contract for all conversion strategies
+3. **Concrete Strategies**: Individual implementation for each file format
+4. **Strategy Factory (`StrategyFactory`)**: Creates appropriate strategy instances based on file type
+
+### Core Components
+
+#### Main Script: `nose_to_vertical.py`
+- **Purpose**: Command-line interface and orchestration
+- **Responsibilities**: 
+  - Parse command line arguments
+  - Instantiate appropriate strategy via StrategyFactory
+  - Execute conversion through VerticalContext
+  - Handle special cases (Kokhwa and Periodical workflows)
 
 #### Usage
-To convert an input file to a vertical file, use the following command:
-
 ```sh
 python nose_to_vertical.py --input <input_file> --output <output_file> --metadata <metadata_file> --type <file_type>
 
---input (-i): Path to the input file.
---output (-o): Path to the output vertical file.
---metadata (-m): Path to the metadata file (JSON format).
---type (-t): Type of the input file. Choices are xml, json, spurgeon, kokhwa, apocrypha.
+Required Arguments:
+--input (-i): Path to the input file or folder
+--output (-o): Path to the output vertical file
+--metadata (-m): Path to the metadata file (JSON format)
+--type (-t): Type of input file. Choices: xml, json, spurgeon, kokhwa, apocrypha, text, periodical
 
+Special Arguments:
+--kokhwa (-k): CSV_FILE TEXT_FOLDER - For Kokhwa periodical processing
+--periodical (-p): CSV_FILE TEXT_FOLDER - For general periodical processing
+```
 
-<metadata_file>: Path to metadata json file in this format:
+#### Metadata File Format
+```json
 {
-    "attribute 1": "value 1",
-    "attribute 2": "value 2",
+    "metadata": {
+        "title": "Document Title",
+        "author": "Author Name",
+        "language": "Assyrian",
+        "dialect": "urmi",
+        "pub_date": "2020",
+        "genre": "literature"
+    }
 }
 ```
-### CAVEAT 
-Additional commandline args with additional options may be have been added. Always check the nose_to_vertical.py for latest updates.
 
+### Dependencies and Components
 
-## Supported Modules
 #### 1. base_strategy.py
-Defines the base class for all vertical conversion strategies.
-#### 2. xml_to_vertical.py
-Implements the strategy for converting XML files to vertical format.
-#### 3. json_to_vertical.py
-Implements the strategy for converting JSON files to vertical format.
-#### 4. strategies.py
-Provides a factory to get the appropriate strategy based on the file extension.
-#### 5. utils.py
-Contains utility functions used by the strategies.
+
+- **Purpose**: Abstract base class defining the strategy interface
+- **Key Methods**:
+  - `process()`: Abstract method implemented by all strategies
+  - `read_metadata()`: Common utility to parse JSON metadata files
+- **Dependencies**: `json` (standard library)
+
+#### 2. strategies.py
+
+- **Purpose**: Factory pattern implementation for strategy instantiation
+- **Key Class**: `StrategyFactory`
+- **Supported Types**: xml, json, spurgeon, kokhwa, apocrypha, text, periodical
+- **Dependencies**: All concrete strategy classes
+
+#### 3. Concrete Strategy Implementations
+
+##### xml_to_vertical.py (NTXMLToVertical)
+- **Purpose**: Converts XML files (especially New Testament) to vertical format
+- **Use Case**: Biblical texts with XML markup
+
+##### json_to_vertical.py (JSONToVerticalStrategy)
+- **Purpose**: Processes JSON-formatted text data
+- **Use Case**: Structured text data in JSON format
+
+##### spurgeon_to_vertical.py (SpurgeonToVerticalStrategy)
+- **Purpose**: Handles Spurgeon sermon collections
+- **Use Case**: Religious/sermon text processing
+
+##### kokhwa_to_vertical.py (KokhwaToVerticalStrategy)
+- **Purpose**: Processes Kokhwa periodical data
+- **Special Features**: Handles CSV metadata + multiple text files
+- **Use Case**: Periodical/magazine content
+
+##### aprocrypha_to_vertical.py (ApocryphaToVerticalStrategy)
+- **Purpose**: Converts apocryphal texts
+- **Use Case**: Non-canonical religious texts
+
+##### text_to_vertical.py (TextToVerticalStrategy)
+- **Purpose**: Basic plain text conversion
+- **Use Case**: Simple text files
+
+##### PeriodicaltoVerticalStrategy.py (PeriodicaltoVerticalStrategy)
+- **Purpose**: General periodical processing
+- **Special Features**: CSV + multiple text file handling
+- **Use Case**: Magazine/journal content
+
+#### 4. utils.py
+
+- **Purpose**: Shared utility functions across all strategies
+- **Key Functions**:
+  - Text filtering and cleaning
+  - Tokenization utilities
+  - Character handling for Assyrian text
+- **Features**:
+  - Punctuation mark definitions (including Syriac-specific marks)
+  - Non-printable character filtering
+  - Sentence tokenization
+
+### Special Processing Modes
+
+#### Kokhwa Mode (`--kokhwa`)
+- Processes CSV file containing page metadata
+- Reads multiple `page_*.txt` files from specified folder
+- Combines metadata and text content for periodical format
+
+#### Periodical Mode (`--periodical`)
+- Similar to Kokhwa but for general periodical content
+- Uses same CSV + text file approach
+- Flexible for various magazine/journal formats
+
+### Design Notes
+
+1. **Extensibility**: New file formats can be added by:
+   - Creating a new strategy class inheriting from `BaseVerticalStrategy`
+   - Implementing the `process()` method
+   - Adding the strategy to `StrategyFactory`
+
+2. **Error Handling**: The main script catches `ValueError` from unsupported file types
+
+3. **Context Pattern**: `VerticalContext` class manages strategy execution and handles special cases for Kokhwa and Periodical types
+
+4. **Metadata Integration**: All strategies use standardized JSON metadata format for consistent output
+
+5. **Corpus Linguistics Focus**: Output format optimized for NoSketch Engine and corpus analysis tools
 
 ## Extending the Script
-To add support for a new file format, create a new strategy class that inherits from BaseVerticalStrategy and implements the process method. Then, update the StrategyFactory in strategies.py to include the new strategy.
+
+To add support for a new file format:
+
+1. Create a new strategy class inheriting from `BaseVerticalStrategy`
+2. Implement the `process()` method with your conversion logic
+3. Add the new strategy to `StrategyFactory.get_strategy()` method
+4. Update the command-line choices in `nose_to_vertical.py`
 
 ## License
+
 This project is licensed under the MIT License.
