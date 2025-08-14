@@ -1,0 +1,5 @@
+{
+  "api_endpoint": "http://localhost:5000/api/metadata/search",
+  "timeout": 30,
+  "fallback_to_file": true
+}

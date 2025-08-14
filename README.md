@@ -26,20 +26,73 @@ The script uses the Strategy pattern with the following components:
 
 #### Usage
 ```sh
-python nose_to_vertical.py --input <input_file> --output <output_file> --metadata <metadata_file> --type <file_type>
+python nose_to_vertical.py --input <input_file> --output <output_file> --metadata <metadata_source> --type <file_type> [--config <config_file>]
 
 Required Arguments:
 --input (-i): Path to the input file or folder
 --output (-o): Path to the output vertical file
---metadata (-m): Path to the metadata file (JSON format)
+--metadata (-m): Metadata UUID (for API lookup) or file path (for local file)
 --type (-t): Type of input file. Choices: xml, json, spurgeon, kokhwa, apocrypha, text, periodical
+
+Optional Arguments:
+--config (-c): Configuration file for API settings (default: config.json)
 
 Special Arguments:
 --kokhwa (-k): CSV_FILE TEXT_FOLDER - For Kokhwa periodical processing
 --periodical (-p): CSV_FILE TEXT_FOLDER - For general periodical processing
 ```
 
-#### Metadata File Format
+#### Metadata Sources
+
+The script now supports two types of metadata sources:
+
+1. **API Lookup (UUID)**: Pass a UUID to fetch metadata from a REST API
+   ```sh
+   python nose_to_vertical.py -i input.xml -o output.vert -m "40a3280d-dfd5-4280-b98d-972669aeb14b" -t xml
+   ```
+
+2. **Local File**: Pass a file path to read metadata from a local JSON file
+   ```sh
+   python nose_to_vertical.py -i input.xml -o output.vert -m "metadata/book.json" -t xml
+   ```
+
+#### Configuration File Format
+```json
+{
+  "api_endpoint": "http://localhost:5000/api/metadata/search",
+  "timeout": 30,
+  "fallback_to_file": true
+}
+```
+
+#### API Response Format
+
+The API should return responses in this format:
+```json
+{
+  "success": true,
+  "results": [
+    {
+      "metadata": {
+        "title": "Document Title",
+        "authors": ["Author One", "Author Two"],
+        "language": "Assyrian",
+        "dialect": "urmi",
+        "pub_date": 2020,
+        "num_pages": 453,
+        "genre": "literature"
+      }
+    }
+  ]
+}
+```
+
+**Format Notes:**
+- `authors`: Array of author names (system picks first for backward compatibility)
+- `pub_date`, `num_pages`: Can be integers or strings (auto-converted to strings internally)
+- Backward compatible with legacy single `author` field
+
+#### Legacy Metadata File Format
 ```json
 {
     "metadata": {
@@ -102,7 +155,17 @@ Special Arguments:
 - **Special Features**: CSV + multiple text file handling
 - **Use Case**: Magazine/journal content
 
-#### 4. utils.py
+#### 4. metadata_fetcher.py
+
+- **Purpose**: Handles metadata retrieval from both API and local files
+- **Key Features**:
+  - UUID detection for API calls
+  - HTTP request handling with timeout
+  - Fallback to local files
+  - Configuration management
+- **Dependencies**: `requests`, `json`, `re`
+
+#### 5. utils.py
 
 - **Purpose**: Shared utility functions across all strategies
 - **Key Functions**:
