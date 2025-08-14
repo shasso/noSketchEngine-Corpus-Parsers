@@ -18,10 +18,18 @@ class NTXMLToVertical(BaseVerticalStrategy):
         with open(output_file, 'w', encoding='utf-8') as f:
             for book in root.findall('book'):
                 book_id = book.get('id', 'Unknown')
+                # Build author attribute from authors array or single author
+                authors_list = []
+                if isinstance(metadata.get('authors'), list):
+                    authors_list = [str(a).strip() for a in metadata.get('authors', []) if str(a).strip()]
+                author_attr = "; ".join(authors_list) if authors_list else str(metadata.get('author', 'Unknown'))
+
                 doc_tag = f'<doc'
                 for key, value in metadata.items():
+                    if key in ('author', 'authors'):
+                        continue
                     doc_tag += f' {key}="{value}"'
-                doc_tag += f' title="{book_id}">\n'
+                doc_tag += f' author="{author_attr}" title="{book_id}">\n'
                 f.write(doc_tag)
                 
                 chapters = {}

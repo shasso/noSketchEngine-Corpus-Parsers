@@ -7,6 +7,7 @@ The `nose_to_vertical.py` script is the main orchestrator for converting various
 ## Architecture & Design
 
 ### Design Pattern: Strategy Pattern
+
 The script uses the Strategy pattern with the following components:
 
 1. **Context Class (`VerticalContext`)**: Orchestrates the conversion process
@@ -17,29 +18,31 @@ The script uses the Strategy pattern with the following components:
 ### Core Components
 
 #### Main Script: `nose_to_vertical.py`
+
 - **Purpose**: Command-line interface and orchestration
-- **Responsibilities**: 
+- **Responsibilities**:
   - Parse command line arguments
   - Instantiate appropriate strategy via StrategyFactory
   - Execute conversion through VerticalContext
   - Handle special cases (Kokhwa and Periodical workflows)
 
 #### Usage
+
 ```sh
-python nose_to_vertical.py --input <input_file> --output <output_file> --metadata <metadata_source> --type <file_type> [--config <config_file>]
+python nose_to_vertical.py --input <input_file> --output <output_file> --metadata <metadata_source> --type <file_type> [--config <config_file>"
 
-Required Arguments:
---input (-i): Path to the input file or folder
---output (-o): Path to the output vertical file
---metadata (-m): Metadata UUID (for API lookup) or file path (for local file)
---type (-t): Type of input file. Choices: xml, json, spurgeon, kokhwa, apocrypha, text, periodical
+# Required Arguments:
+# --input (-i): Path to the input file or folder
+# --output (-o): Path to the output vertical file
+# --metadata (-m): Metadata UUID (for API lookup) or file path (for local file)
+# --type (-t): Type of input file. Choices: xml, json, spurgeon, kokhwa, apocrypha, text, periodical
 
-Optional Arguments:
---config (-c): Configuration file for API settings (default: config.json)
+# Optional Arguments:
+# --config (-c): Configuration file for API settings (default: config.json)
 
-Special Arguments:
---kokhwa (-k): CSV_FILE TEXT_FOLDER - For Kokhwa periodical processing
---periodical (-p): CSV_FILE TEXT_FOLDER - For general periodical processing
+# Special Arguments:
+# --kokhwa (-k): CSV_FILE TEXT_FOLDER - For Kokhwa periodical processing
+# --periodical (-p): CSV_FILE TEXT_FOLDER - For general periodical processing
 ```
 
 #### Metadata Sources
@@ -47,16 +50,19 @@ Special Arguments:
 The script now supports two types of metadata sources:
 
 1. **API Lookup (UUID)**: Pass a UUID to fetch metadata from a REST API
+
    ```sh
    python nose_to_vertical.py -i input.xml -o output.vert -m "40a3280d-dfd5-4280-b98d-972669aeb14b" -t xml
    ```
 
 2. **Local File**: Pass a file path to read metadata from a local JSON file
+
    ```sh
    python nose_to_vertical.py -i input.xml -o output.vert -m "metadata/book.json" -t xml
    ```
 
 #### Configuration File Format
+
 ```json
 {
   "api_endpoint": "http://localhost:5000/api/metadata/search",
@@ -68,6 +74,7 @@ The script now supports two types of metadata sources:
 #### API Response Format
 
 The API should return responses in this format:
+
 ```json
 {
   "success": true,
@@ -88,21 +95,29 @@ The API should return responses in this format:
 ```
 
 **Format Notes:**
-- `authors`: Array of author names (system picks first for backward compatibility)
+
+- `authors`: Array of author names. Vertical output sets `<doc ... author="Author One; Author Two">` (semicolon-separated). Internally, `author` is also set to the first author for backward compatibility.
 - `pub_date`, `num_pages`: Can be integers or strings (auto-converted to strings internally)
 - Backward compatible with legacy single `author` field
 
+Example `<doc>` header in output when authors array is present:
+
+```xml
+<doc author="Author One; Author Two" title="Matt" ...>
+```
+
 #### Legacy Metadata File Format
+
 ```json
 {
-    "metadata": {
-        "title": "Document Title",
-        "author": "Author Name",
-        "language": "Assyrian",
-        "dialect": "urmi",
-        "pub_date": "2020",
-        "genre": "literature"
-    }
+  "metadata": {
+    "title": "Document Title",
+    "author": "Author Name",
+    "language": "Assyrian",
+    "dialect": "urmi",
+    "pub_date": "2020",
+    "genre": "literature"
+  }
 }
 ```
 
@@ -126,31 +141,38 @@ The API should return responses in this format:
 #### 3. Concrete Strategy Implementations
 
 ##### xml_to_vertical.py (NTXMLToVertical)
+
 - **Purpose**: Converts XML files (especially New Testament) to vertical format
 - **Use Case**: Biblical texts with XML markup
 
 ##### json_to_vertical.py (JSONToVerticalStrategy)
+
 - **Purpose**: Processes JSON-formatted text data
 - **Use Case**: Structured text data in JSON format
 
 ##### spurgeon_to_vertical.py (SpurgeonToVerticalStrategy)
+
 - **Purpose**: Handles Spurgeon sermon collections
 - **Use Case**: Religious/sermon text processing
 
 ##### kokhwa_to_vertical.py (KokhwaToVerticalStrategy)
+
 - **Purpose**: Processes Kokhwa periodical data
 - **Special Features**: Handles CSV metadata + multiple text files
 - **Use Case**: Periodical/magazine content
 
 ##### aprocrypha_to_vertical.py (ApocryphaToVerticalStrategy)
+
 - **Purpose**: Converts apocryphal texts
 - **Use Case**: Non-canonical religious texts
 
 ##### text_to_vertical.py (TextToVerticalStrategy)
+
 - **Purpose**: Basic plain text conversion
 - **Use Case**: Simple text files
 
 ##### PeriodicaltoVerticalStrategy.py (PeriodicaltoVerticalStrategy)
+
 - **Purpose**: General periodical processing
 - **Special Features**: CSV + multiple text file handling
 - **Use Case**: Magazine/journal content
@@ -180,11 +202,13 @@ The API should return responses in this format:
 ### Special Processing Modes
 
 #### Kokhwa Mode (`--kokhwa`)
+
 - Processes CSV file containing page metadata
 - Reads multiple `page_*.txt` files from specified folder
 - Combines metadata and text content for periodical format
 
 #### Periodical Mode (`--periodical`)
+
 - Similar to Kokhwa but for general periodical content
 - Uses same CSV + text file approach
 - Flexible for various magazine/journal formats
@@ -195,13 +219,9 @@ The API should return responses in this format:
    - Creating a new strategy class inheriting from `BaseVerticalStrategy`
    - Implementing the `process()` method
    - Adding the strategy to `StrategyFactory`
-
 2. **Error Handling**: The main script catches `ValueError` from unsupported file types
-
 3. **Context Pattern**: `VerticalContext` class manages strategy execution and handles special cases for Kokhwa and Periodical types
-
-4. **Metadata Integration**: All strategies use standardized JSON metadata format for consistent output
-
+4. **Metadata Integration**: All strategies use standardized JSON metadata format for consistent output. When `authors` is an array, strategies emit the `<doc>` `author` attribute as a semicolon-separated list.
 5. **Corpus Linguistics Focus**: Output format optimized for NoSketch Engine and corpus analysis tools
 
 ## Extending the Script

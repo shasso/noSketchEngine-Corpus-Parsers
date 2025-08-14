@@ -7,11 +7,19 @@ class TextToVerticalStrategy(BaseVerticalStrategy):
         metadata = self.read_metadata(metadata_file)
 
         with open(output_file, 'w', encoding='utf-8') as f:
+            # Build author attribute from authors array or single author
+            authors_list = []
+            if isinstance(metadata.get('authors'), list):
+                authors_list = [str(a).strip() for a in metadata.get('authors', []) if str(a).strip()]
+            author_attr = "; ".join(authors_list) if authors_list else str(metadata.get('author', 'Unknown'))
+
             # Write the root <doc> element with metadata attributes
             doc_tag = f'<doc'
             for key, value in metadata.items():
+                if key in ('author', 'authors'):
+                    continue
                 doc_tag += f' {key}="{value}"'
-            doc_tag += '>\n'
+            doc_tag += f' author="{author_attr}">\n'
             f.write(doc_tag)
 
             for text_file in os.listdir(input_folder):

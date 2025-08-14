@@ -16,10 +16,18 @@ class ApocryphaToVerticalStrategy(BaseVerticalStrategy):
 
         with open(output_file, 'w', encoding='utf-8') as f:
             title = root.find('title').text.strip() if root.find('title') is not None else 'Unknown'
+            # Build author attribute
+            authors_list = []
+            if isinstance(metadata.get('authors'), list):
+                authors_list = [str(a).strip() for a in metadata.get('authors', []) if str(a).strip()]
+            author_attr = "; ".join(authors_list) if authors_list else str(metadata.get('author', 'Unknown'))
+
             doc_tag = f'<doc'
             for key, value in metadata.items():
+                if key in ('author', 'authors'):
+                    continue
                 doc_tag += f' {key}="{value}"'
-            doc_tag += f' title="{title}">\n'
+            doc_tag += f' author="{author_attr}" title="{title}">\n'
             f.write(doc_tag)
 
             for element in root:

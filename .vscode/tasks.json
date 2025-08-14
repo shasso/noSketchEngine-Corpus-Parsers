@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "run-xml-to-vertical-authors",
+			"command": "python",
+			"args": [
+				"nose_to_vertical.py",
+				"-i",
+				"exp/sample_nt.xml",
+				"-o",
+				"exp/out_authors.vert",
+				"-m",
+				"exp/authors_list_metadata.json",
+				"-t",
+				"xml"
+			]
+		}
+	]
+}

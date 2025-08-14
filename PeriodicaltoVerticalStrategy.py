@@ -26,12 +26,19 @@ class PeriodicaltoVerticalStrategy(BaseVerticalStrategy):
                 # Extract the year from the date
                 year = date.split('/')[-1]
 
+                # Build author attribute from authors array or single author
+                authors_list = []
+                if isinstance(metadata.get('authors'), list):
+                    authors_list = [str(a).strip() for a in metadata.get('authors', []) if str(a).strip()]
+                author_attr = "; ".join(authors_list) if authors_list else str(metadata.get('author', 'Unknown'))
+
                 # Write the <doc> element with metadata attributes and pub_date
                 doc_tag = f'<doc'
                 for key, value in metadata.items():
-                    if key != 'id':
-                        doc_tag += f' {key}="{value}"'
-                doc_tag += f' pub_date="{year}">\n'
+                    if key in ('id', 'author', 'authors'):
+                        continue
+                    doc_tag += f' {key}="{value}"'
+                doc_tag += f' author="{author_attr}" pub_date="{year}">\n'
                 f.write(doc_tag)
 
                 # Write the <periodical> element
